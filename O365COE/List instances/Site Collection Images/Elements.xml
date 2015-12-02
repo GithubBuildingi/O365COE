@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{4bcccd62-dcaf-46dc-a7d4-e38277ef33f4}" TemplateType="851" Title="Site Collection Images" Description="This system library was created by the Publishing Resources feature to store images that are used throughout the site collection." Url="SiteCollectionImages" CustomSchema="Files\SiteCollectionImages\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

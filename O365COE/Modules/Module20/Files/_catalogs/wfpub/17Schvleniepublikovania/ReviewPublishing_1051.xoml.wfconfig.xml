@@ -1,0 +1,154 @@
+<?xml version="1.0"?><!-- _lcid="1051" _version="16.0.3912" _dal="1" --><!-- _LocalBinding --><WorkflowConfig Version="15.0.0.411">
+	<Template BaseID="{E43856D2-1BB4-40ef-B08B-016D89A0041B}" DocLibURL="_catalogs/wfpub" XomlHref="_catalogs/wfpub/Schválenie publikovania/ReviewPublishing_1051.xoml" XomlVersion="V1.0" AssociationURL="~layouts/CstWrkflIP.aspx" TaskContentType="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA041B" StartManually="true" Visibility="RootPublic" Category="List;Language:1051;#ContentType;Language:1051" RestrictLanguage="1051" RulesHref="_catalogs/wfpub/Schválenie publikovania/ReviewPublishing_1051.xoml.rules" RulesVersion = "V1.0" Description="Presmeruje stránku na schválenie. Schvaľovatelia môžu stránku schváliť alebo zamietnuť, môžu znovu priradiť úlohu schválenia, alebo môžu požiadať o zmenu stránky." PreviewHref="/_catalogs/wfpub/Schválenie publikovania/ReviewPublishing_1051.vdw" ShowPreview="true" PreviewVersion="V1.0" AllowStartOnMajorCheckin="true"/>
+	<ContentTypes>
+		<ContentType Name="Publishing Approval Workflow Task (sk-sk)" ContentTypeID="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA041B" WorkflowForm="/_catalogs/wfpub/Schválenie publikovania/ReviewPublishing_Task_1051.xsn" WorkflowFormVersion = "V0.0" Description="Položka práce vytvorená pracovným postupom, ktorú musíte dokončiť vy alebo váš tím.">
+			<Fields/>
+			<WorkflowFormData>
+				<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dfs:queryFields>
+					</dfs:queryFields>
+					<dfs:dataFields>
+						<d:SharePointListItem_RW>
+							<d:Status/>
+							<d:Author/>
+							<d:FieldName_ConsolidatedComments/>
+							<d:DueDate xsi:nil="true"/>
+							<d:FieldName_Comments/>
+							<d:FieldName_DelegateTo/>
+							<d:FieldName_NewDescription/>
+							<d:FieldName_NewSerialTaskDuration xsi:nil="true"/>
+							<d:FieldName_NewDurationUnits>Day</d:FieldName_NewDurationUnits>
+							<d:FieldName_RequestTo/>
+							<d:Body/>
+							<d:Title/>
+							<d:Priority>(2) Normal</d:Priority>
+							<d:PercentComplete xsi:nil="true"/>
+							<d:AssignedTo/>
+							<d:StartDate/>
+							<d:WorkflowLink Description=""/>
+							<d:OffsiteParticipant/>
+							<d:OffsiteParticipantReason/>
+							<d:WorkflowOutcome/>
+							<d:WorkflowName/>
+							<d:FormURN/>
+							<d:FormData/>
+							<d:EmailBody/>
+							<d:HasCustomEmailBody xsi:nil="true"/>
+							<d:SendEmailNotification xsi:nil="true"/>
+							<d:PendingModTime xsi:nil="true"/>
+							<d:Completed>false</d:Completed>
+							<d:ExtendedProperties/>
+							<d:ID xsi:nil="true"/>
+							<d:Modified xsi:nil="true"/>
+							<d:Created xsi:nil="true"/>
+							<d:Editor/>
+						</d:SharePointListItem_RW>
+					</dfs:dataFields>
+				</dfs:myFields>
+			</WorkflowFormData>
+		</ContentType>
+	</ContentTypes>
+	<Initiation URL="~layouts/IniWrkflIP.aspx">
+		<Fields>
+			<Field Name="Approvers" GroupName="Assignment" FormType="Association" DisplayName="Schvaľovatelia" Type="HybridUser" Description="Zadajte mená osôb, ktorým sa budú v rámci pracovného postupu priraďovať úlohy, a vyberte poradie, v ktorom sa tieto úlohy budú priraďovať. Oddeľte ich bodkočiarkami. Môžete tiež pridať štádiá na priradenie úloh ďalším osobám v odlišných poradiach." Direction="None" InsertButtonText="Pridať novú fázu">
+				<Default/>
+				<Field Name="Assignee" DisplayName="Priradiť osobe" List="UserInfo" Description="" Width="305" Type="UserMulti" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" Direction="None"/>
+				<Field Name="Stage" DisplayName="Fáza" Description="" Width="1" Type="Number" Direction="None" Hidden="TRUE">
+					<Default></Default>
+				</Field>
+				<Field Name="AssignmentType" Format="Dropdown" BaseType="Text" DisplayName="Poradie" Description="" Width="150" Type="Choice" Direction="None">
+					<Default>Serial</Default>
+					<CHOICES>
+						<CHOICE DisplayName="Po jednom (za sebou)">Serial</CHOICE>
+						<CHOICE DisplayName="Všetko naraz (paralelné)">Parallel</CHOICE>
+					</CHOICES>
+				</Field>
+			</Field>
+			<Field Name="ExpandGroups" FormType="Association" DisplayName="Rozbaliť skupiny" Description="Za každú zadanú skupinu priraďte úlohu každému členovi a každej skupine danej skupiny." Direction="None" Type="Boolean">
+				<Default>1</Default>
+			</Field>
+			<Field Name="NotificationMessage" FormType="Both" NumLines="5" Sortable="FALSE" RichTextMode="Compatible" DisplayName="Požiadavka" Description="Toto hlásenie sa odošle osobám, ktorým boli priradené úlohy." Direction="None" Type="Note">
+				<Default/>
+			</Field>
+			<Field Name="DueDateforAllTasks" FormType="Both" Format="DateOnly" DisplayName="Termín dokončenia všetkých úloh" Description="Dátum termínu dokončenia všetkých úloh." Direction="None" Type="DateTime">
+				<CustomValidation>
+					<Condition>. != "" and msxsl:string-compare(., xdDate:Now()) &lt; 0</Condition>
+					<Message ScreenTip="Hodnoty tohto ovládacieho prvku musia byť väčšie než je aktuálny dátum a čas." ShowScreenTipOnly="TRUE">Hodnoty tohto ovládacieho prvku musia byť väčšie než je aktuálny dátum a čas.</Message>
+				</CustomValidation>
+			</Field>
+			<Field Name="DurationforSerialTasks" FormType="Both" Min="1" Max="999" DisplayName="Trvanie na úlohu" Description="Čas, ktorý musí uplynúť do termínu dokončenia úlohy. Jednotky vyberte pomocou poľa Jednotky trvania." Direction="None" Type="Number"/>
+			<Field Name="DurationUnits" FormType="Both" Format="Dropdown" BaseType="Text" DisplayName="Jednotky trvania" Description="Definuje jednotky času, ktoré používa trvanie na úlohu." Direction="None" Type="Choice">
+				<CHOICES>
+					<CHOICE DisplayName="Dni">Day</CHOICE>
+					<CHOICE DisplayName="Týždne">Week</CHOICE>
+					<CHOICE DisplayName="Mesiace">Month</CHOICE>
+				</CHOICES>
+				<Default>Day</Default>
+			</Field>
+			<Field Name="CC" FormType="Both" List="UserInfo" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" DisplayName="Kópia" Description="Upozorní tieto osoby, keď sa pracovný postup začne a skončí bez toho, aby im boli priradené úlohy." Direction="None" Type="UserMulti" Mult="TRUE"/>
+			<Field Name="CancelonRejection" FormType="Association" DisplayName="Skončiť pri prvom odmietnutí" Description="Automaticky odmietne dokument, ak ho odmietne niektorý z účastníkov." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="CancelonChange" FormType="Association" DisplayName="Skončiť pri zmene dokumentu" Description="Automaticky odmietne dokument, ak sa zmení pred dokončením pracovného postupu." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="EnableContentApproval" FormType="Association" DisplayName="Povoliť schválenie obsahu" Description="Aktualizácia stavu schválenia po dokončení pracovného postupu (použite tento pracovný postup na ovládanie schvaľovania obsahu)." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+		</Fields>
+		<Parameters>
+			<Parameter Name="Approvers" Type="System.String"/>
+			<Parameter Name="ExpandGroups" Type="System.Boolean"/>
+			<Parameter Name="NotificationMessage" Type="System.String"/>
+			<Parameter Name="DueDateforAllTasks" Type="System.DateTime"/>
+			<Parameter Name="DurationforSerialTasks" Type="System.Double"/>
+			<Parameter Name="DurationUnits" Type="System.String"/>
+			<Parameter Name="CC" Type="System.String"/>
+			<Parameter Name="CancelonRejection" Type="System.Boolean"/>
+			<Parameter Name="CancelonChange" Type="System.Boolean"/>
+			<Parameter Name="EnableContentApproval" Type="System.Boolean"/>
+		</Parameters>
+		<DefaultData>
+			<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<dfs:queryFields>
+				</dfs:queryFields>
+				<dfs:dataFields>
+					<d:SharePointListItem_RW>
+						<d:Approvers>
+							<d:Assignment>
+								<d:Assignee/>
+								<d:Stage xsi:nil="true"/>
+								<d:AssignmentType>Serial</d:AssignmentType>
+							</d:Assignment>
+						</d:Approvers>
+						<d:ExpandGroups>true</d:ExpandGroups>
+						<d:NotificationMessage/>
+						<d:DueDateforAllTasks xsi:nil="true"/>
+						<d:DurationforSerialTasks xsi:nil="true"/>
+						<d:DurationUnits>Day</d:DurationUnits>
+						<d:CC/>
+						<d:CancelonRejection>false</d:CancelonRejection>
+						<d:CancelonChange>false</d:CancelonChange>
+						<d:EnableContentApproval>false</d:EnableContentApproval>
+					</d:SharePointListItem_RW>
+				</dfs:dataFields>
+			</dfs:myFields>
+		</DefaultData>
+	</Initiation>
+	<Extended>
+		<Fields/>
+	</Extended>
+	<MetaData>
+		<TaskForms/>
+		<Modifications ModificationUrl="~layouts/ModWrkflIP.aspx">
+			<Modification TypeId="a938eabe-8db1-45b9-87cb-b930728afe10" NameFormat="Zrušiť všetky úlohy {0}" FormURN="urn:schemas-microsoft-com:office:infopath:workflow:OOB-WrapItUp:1051"/>
+		</Modifications>
+		<Instantiation_FormURI Version= "V0.0">/_catalogs/wfpub/Schválenie publikovania/reviewpublishing_1051.xsn</Instantiation_FormURI>
+		<Association_FormURN Version= "V0.0">/_catalogs/wfpub/Schválenie publikovania/reviewpublishing_1051.xsn</Association_FormURN>
+		<ExtendedStatusColumnValues>
+			<StatusColumnValue>Zrušené</StatusColumnValue>
+			<StatusColumnValue>Schválené</StatusColumnValue>
+			<StatusColumnValue>Odmietnuté</StatusColumnValue>
+		</ExtendedStatusColumnValues>
+	</MetaData>
+</WorkflowConfig>

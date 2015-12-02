@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-e717-4e80-aa17-d0c71b360101}" TemplateType="101" Title="Form Templates" Description="This library contains administrator-approved form templates that were activated to this site collection." Url="FormServerTemplates" CustomSchema="Files\FormServerTemplates\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpagelv-lvPreview Images_Features\PublishingLayouts\lv-lv" Url="_catalogs/masterpage/lv-lv/Preview Images" SetupPath="Features\PublishingLayouts\lv-lv" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\lv-lv\Preview Images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ArticleBodyOnly.png" Type="GhostableInLibrary" Level="Published" Path="ArticleBodyOnly.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleBodyOnly.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1245" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1245;#" />
+			<Property Name="Order" Value="124500.000000000" />
+		</File>
+		<File Url="ArticleLeft.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLeft.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLeft.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1236" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1236;#" />
+			<Property Name="Order" Value="123600.000000000" />
+		</File>
+		<File Url="ArticleLinks.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLinks.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLinks.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1233" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1233;#" />
+			<Property Name="Order" Value="123300.000000000" />
+		</File>
+		<File Url="ArticleRight.png" Type="GhostableInLibrary" Level="Published" Path="ArticleRight.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleRight.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1242" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1242;#" />
+			<Property Name="Order" Value="124200.000000000" />
+		</File>
+		<File Url="BlankWebPartPage.png" Type="GhostableInLibrary" Level="Published" Path="BlankWebPartPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="BlankWebPartPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1239" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1239;#" />
+			<Property Name="Order" Value="123900.000000000" />
+		</File>
+		<File Url="RedirectPage.png" Type="GhostableInLibrary" Level="Published" Path="RedirectPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="RedirectPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1248" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1248;#" />
+			<Property Name="Order" Value="124800.000000000" />
+		</File>
+		<File Url="WelcomeSplash.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeSplash.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeSplash.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1254" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1254;#" />
+			<Property Name="Order" Value="125400.000000000" />
+		</File>
+		<File Url="WelcomeTOC.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeTOC.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeTOC.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1251" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/lv-lv/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1251;#" />
+			<Property Name="Order" Value="125100.000000000" />
+		</File>
+	</Module>
+</Elements>

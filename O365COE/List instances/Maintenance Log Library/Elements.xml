@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{8c6f9096-388d-4eed-96ff-698b3ec46fc4}" TemplateType="175" Title="Maintenance Log Library" Description="Library of Site Collection Maintenance Logs" Url="_catalogs/MaintenanceLogs" CustomSchema="Files\_catalogs\MaintenanceLogs\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

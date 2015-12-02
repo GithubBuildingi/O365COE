@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubЖариялауды бекіту_Features\ReviewPublishingSPD1087" Url="_catalogs/wfpub/Жариялауды бекіту" SetupPath="Features\ReviewPublishingSPD1087" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\35" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_1087.vdw" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1087.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1087.vdw" />
+			<Property Name="ID" Value="294" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Жариялауды бекіту" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="294;#" />
+			<Property Name="Order" Value="29400.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1087.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1087.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1087.xoml.rules" />
+			<Property Name="ID" Value="290" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Жариялауды бекіту" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="290;#" />
+			<Property Name="Order" Value="29000.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1087.xoml" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1087.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1087.xoml" />
+			<Property Name="ID" Value="289" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Жариялауды бекіту" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="289;#" />
+			<Property Name="Order" Value="28900.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1087.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1087.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1087.xsn" />
+			<Property Name="ID" Value="292" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Жариялауды бекіту" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="292;#" />
+			<Property Name="Order" Value="29200.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_Task_1087.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_Task_1087.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_Task_1087.xsn" />
+			<Property Name="ID" Value="293" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Жариялауды бекіту" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="293;#" />
+			<Property Name="Order" Value="29300.0000000000" />
+		</File>
+	</Module>
+</Elements>

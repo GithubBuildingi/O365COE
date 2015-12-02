@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubAprovação de Publicação_Features\ReviewPublishingSPD2070" Url="_catalogs/wfpub/Aprovação de Publicação" SetupPath="Features\ReviewPublishingSPD2070" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\34AprovaodePublicao" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_2070.vdw" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_2070.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_2070.vdw" />
+			<Property Name="ID" Value="217" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Aprovação de Publicação" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="217;#" />
+			<Property Name="Order" Value="21700.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_2070.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_2070.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_2070.xoml.rules" />
+			<Property Name="ID" Value="213" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Aprovação de Publicação" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="213;#" />
+			<Property Name="Order" Value="21300.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_2070.xoml" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_2070.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_2070.xoml" />
+			<Property Name="ID" Value="212" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Aprovação de Publicação" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="212;#" />
+			<Property Name="Order" Value="21200.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_2070.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_2070.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_2070.xsn" />
+			<Property Name="ID" Value="215" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Aprovação de Publicação" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="215;#" />
+			<Property Name="Order" Value="21500.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_Task_2070.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_Task_2070.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_Task_2070.xsn" />
+			<Property Name="ID" Value="216" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Aprovação de Publicação" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="216;#" />
+			<Property Name="Order" Value="21600.0000000000" />
+		</File>
+	</Module>
+</Elements>

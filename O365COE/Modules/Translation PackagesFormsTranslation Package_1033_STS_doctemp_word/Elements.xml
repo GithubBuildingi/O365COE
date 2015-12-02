@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="Translation PackagesFormsTranslation Package_1033\STS\doctemp\word" Url="Translation Packages/Forms/Translation Package" RootWebOnly="FALSE" Path="Files\Translation Packages\Forms\Translation Package" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="template.dotx" DocumentTemplateForList="Translation Packages/Forms/Translation Package" Level="Published" Path="template.dotx" />
+	</Module>
+</Elements>

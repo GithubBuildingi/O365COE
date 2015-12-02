@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesList_" Url="_catalogs/masterpage/Display Templates/List" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\List" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="IT_AnnouncementAccordion_View.js" Type="GhostableInLibrary" Level="Draft" Path="IT_AnnouncementAccordion_View.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="IT_AnnouncementAccordion_View.js" />
+			<Property Name="DisplayTemplateJSTemplateHidden" Value="FALSE" />
+			<Property Name="DisplayTemplateJSTargetControlType" Value="View" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="DisplayTemplateJSTargetScope" Value="/teams/scmpubdemo16" />
+			<Property Name="Title" Value="IT_AnnouncementAccordion_View" />
+			<Property Name="ID" Value="2252" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/List" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2252;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/List&#xD;&#xA;DisplayTemplateJSTargetScope:SW|/teams/scmpubdemo16&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateJSTemplateHidden:SW|false&#xD;&#xA;vti_winfileattribs:SW|00000020&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;DisplayTemplateJSTargetListTemplate:SW|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|IT_AnnouncementAccordion_View.js&#xD;&#xA;DisplayTemplateJSTargetControlType:SW|View&#xD;&#xA;vti_title:SW|IT_AnnouncementAccordion_View&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_lat:SW|Thu, 20 Feb 2014 07:24:22 GMT&#xD;&#xA;vti_ct:SW|Thu, 20 Feb 2014 07:20:59 GMT&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;DisplayTemplateJSIconUrl:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|20 Feb 2014 07:24:22 -0000&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="225200.000000000" />
+		</File>
+		<File Url="IT_DocumentLibrary_View.js" Type="GhostableInLibrary" Level="Draft" Path="IT_DocumentLibrary_View.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3" />
+			<Property Name="FileLeafRef" Value="IT_DocumentLibrary_View.js" />
+			<Property Name="DisplayTemplateJSTemplateHidden" Value="FALSE" />
+			<Property Name="DisplayTemplateJSTargetControlType" Value="View" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="DisplayTemplateJSTargetScope" Value="/teams/scmpubdemo16" />
+			<Property Name="DisplayTemplateJSTargetListTemplate" Value="101" />
+			<Property Name="Title" Value="IT Document Library View" />
+			<Property Name="ID" Value="2253" />
+			<Property Name="ContentType" Value="JavaScript Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/List" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2253;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;DisplayTemplateJSTargetScope:SW|/teams/scmpubdemo16&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/List&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateJSTemplateHidden:SW|false&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;DisplayTemplateJSTargetListTemplate:SW|101&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3&#xD;&#xA;FileLeafRef:SW|IT_DocumentLibrary_View.js&#xD;&#xA;DisplayTemplateJSTargetControlType:SW|View&#xD;&#xA;vti_title:SW|IT Document Library View&#xD;&#xA;ContentType:SW|JavaScript Display Template&#xD;&#xA;DisplayTemplateJSIconUrl:SW|&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|20 Feb 2014 06:44:16 -0000&#xD;&#xA;" />
+			<Property Name="Order" Value="225300.000000000" />
+		</File>
+		<File Url="IT_NewsDetail_View.js" Type="GhostableInLibrary" Level="Draft" Path="IT_NewsDetail_View.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3" />
+			<Property Name="FileLeafRef" Value="IT_NewsDetail_View.js" />
+			<Property Name="DisplayTemplateJSTemplateHidden" Value="FALSE" />
+			<Property Name="DisplayTemplateJSTargetControlType" Value="View" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="DisplayTemplateJSTargetScope" Value="/teams/scmpubdemo16" />
+			<Property Name="DisplayTemplateJSTargetListTemplate" Value="101" />
+			<Property Name="Title" Value="IT Document Library View" />
+			<Property Name="ID" Value="2254" />
+			<Property Name="ContentType" Value="JavaScript Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/List" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2254;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;DisplayTemplateJSTargetScope:SW|/teams/scmpubdemo16&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/List&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateJSTemplateHidden:SW|false&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;DisplayTemplateJSTargetListTemplate:SW|101&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3&#xD;&#xA;FileLeafRef:SW|IT_DocumentLibrary_View.js&#xD;&#xA;DisplayTemplateJSTargetControlType:SW|View&#xD;&#xA;vti_title:SW|IT Document Library View&#xD;&#xA;ContentType:SW|JavaScript Display Template&#xD;&#xA;DisplayTemplateJSIconUrl:SW|&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|20 Feb 2014 06:44:16 -0000&#xD;&#xA;" />
+			<Property Name="Order" Value="225400.000000000" />
+		</File>
+		<File Url="IT_NewsList_View.js" Type="GhostableInLibrary" Level="Draft" Path="IT_NewsList_View.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3" />
+			<Property Name="FileLeafRef" Value="IT_NewsList_View.js" />
+			<Property Name="DisplayTemplateJSTemplateHidden" Value="FALSE" />
+			<Property Name="DisplayTemplateJSTargetControlType" Value="View" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="DisplayTemplateJSTargetScope" Value="/teams/scmpubdemo16" />
+			<Property Name="DisplayTemplateJSTargetListTemplate" Value="101" />
+			<Property Name="Title" Value="IT Document Library View" />
+			<Property Name="ID" Value="2255" />
+			<Property Name="ContentType" Value="JavaScript Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/List" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2255;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;DisplayTemplateJSTargetScope:SW|/teams/scmpubdemo16&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/List&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateJSTemplateHidden:SW|false&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;DisplayTemplateJSTargetListTemplate:SW|101&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F385106800C52334D56B7F21469173AC02901F3BD3&#xD;&#xA;FileLeafRef:SW|IT_DocumentLibrary_View.js&#xD;&#xA;DisplayTemplateJSTargetControlType:SW|View&#xD;&#xA;vti_title:SW|IT Document Library View&#xD;&#xA;ContentType:SW|JavaScript Display Template&#xD;&#xA;DisplayTemplateJSIconUrl:SW|&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|20 Feb 2014 06:44:16 -0000&#xD;&#xA;" />
+			<Property Name="Order" Value="225500.000000000" />
+		</File>
+	</Module>
+</Elements>

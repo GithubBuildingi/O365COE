@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="PublishingImagesPagesdefault_w_" Url="PublishingImages/Pages/default/_w" RootWebOnly="FALSE" Path="Files\PublishingImages\Pages\default\_w" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="WIN12_Claudia_245x246_png.jpg" Level="Published" Path="WIN12_Claudia_245x246_png.jpg" />
+	</Module>
+</Elements>

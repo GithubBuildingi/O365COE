@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\wfpub\Publikavimo patvirtinimas\ReviewPublishing_1063.xoml.wfconfig.xml" Target="Files\_catalogs\wfpub\Publikavimo patvirtinimas\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogswfpubPublikavimo patvirtinimas_Features_ReviewPublishingSPD1063\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

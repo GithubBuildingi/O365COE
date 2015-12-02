@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubCollect Signatures - SharePoint 2010_Features\SignaturesWorkflowSPD1033" Url="_catalogs/wfpub/Collect Signatures - SharePoint 2010" SetupPath="Features\SignaturesWorkflowSPD1033" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\Collect Signatures - SharePoint 2010" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Signatures_1033.vdw" Type="GhostableInLibrary" Level="Published" Path="Signatures_1033.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="Signatures_1033.vdw" />
+			<Property Name="ID" Value="21" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Collect Signatures - SharePoint 2010" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="21;#" />
+			<Property Name="Order" Value="2100.00000000000" />
+		</File>
+		<File Url="Signatures_1033.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="Signatures_1033.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="Signatures_1033.xoml.rules" />
+			<Property Name="ID" Value="17" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Collect Signatures - SharePoint 2010" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="17;#" />
+			<Property Name="Order" Value="1700.00000000000" />
+		</File>
+		<File Url="Signatures_1033.xoml" Type="GhostableInLibrary" Level="Published" Path="Signatures_1033.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="Signatures_1033.xoml" />
+			<Property Name="ID" Value="16" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Collect Signatures - SharePoint 2010" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="16;#" />
+			<Property Name="Order" Value="1600.00000000000" />
+		</File>
+		<File Url="Signatures_1033.xsn" Type="GhostableInLibrary" Level="Published" Path="Signatures_1033.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="Signatures_1033.xsn" />
+			<Property Name="ID" Value="19" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Collect Signatures - SharePoint 2010" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="19;#" />
+			<Property Name="Order" Value="1900.00000000000" />
+		</File>
+		<File Url="Signatures_Task_1033.xsn" Type="GhostableInLibrary" Level="Published" Path="Signatures_Task_1033.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="Signatures_Task_1033.xsn" />
+			<Property Name="ID" Value="20" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Collect Signatures - SharePoint 2010" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="20;#" />
+			<Property Name="Order" Value="2000.00000000000" />
+		</File>
+	</Module>
+</Elements>

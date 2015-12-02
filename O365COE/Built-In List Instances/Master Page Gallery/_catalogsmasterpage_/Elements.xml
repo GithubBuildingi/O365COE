@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpage_" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="__DeviceChannelMappings.aspx" Type="GhostableInLibrary" Level="Published" Path="__DeviceChannelMappings.aspx">
+			<Property Name="ContentTypeId" Value="0x010100FDA260FD09A244B183A666F2AE2475A600928DD3203B0DAB4780D465A751F4E2EA" />
+			<Property Name="FileLeafRef" Value="__DeviceChannelMappings.aspx" />
+			<Property Name="ID" Value="2201" />
+			<Property Name="ContentType" Value="Device Channel Mappings" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2201;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|ContentTypeId&#xD;&#xA;ContentTypeId:SW|0x010100FDA260FD09A244B183A666F2AE2475A600928DD3203B0DAB4780D465A751F4E2EA&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;" />
+			<Property Name="Order" Value="220100.000000000" />
+		</File>
+		<File Url="COEArticlePage.aspx" Type="GhostableInLibrary" Level="Published" Path="COEArticlePage.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="COEArticlePage.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="COE Article Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#COE Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D1473288;#" />
+			<Property Name="ID" Value="2362" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2362;#vti_parserversion:SR|16.0.0.4420&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_backlinkinfo:VX|Pages/Windows-Devices-Experience.aspx Pages/Information-and-Content-.aspx Pages/Governance-Planning-Process.aspx Pages/Portal-Design-Article.aspx Pages/Architectural-Review.aspx Pages/MissionVision.aspx Pages/Scenarios.aspx Pages/Team.aspx Pages/Security-and-Permission.aspx Pages/Security-and-Permission.aspx Pages/Design-Guidelines.aspx Pages/Design-Guidelines.aspx Pages/Front-Desk-Services.aspx Pages/AppModel.aspx Pages/Frontdesk-Services.aspx Pages/SharePoint-OnlineOffice-365.aspx Pages/Review-Process-.aspx Pages/Review-Process-.aspx Pages/Tools\\ &amp;\\ Framework.aspx Pages/Development-Best-Practices.aspx Pages/Development-Best-Practices.aspx Pages/HTMLSnippetsTest.aspx Pages/Hosting-Strategy.aspx Pages/Best-Practices.aspx Pages/Defining-Governance.aspx Pages/User-Experience.aspx Pages/App-Submission-Process.aspx Pages/App-Submission-Process-.aspx Pages/Azure-Solution-.aspx Pages/Search-and-Discovery-Article.aspx Pages/Building-Your-Experience.aspx Pages/Architecture-Review.aspx Pages/Navigation.aspx Pages/Content-Management.aspx Pages/Content-Management.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/digitalday:TW|15 Jun 2015 23:32:33 -0000&#xD;&#xA;vti_cachedzones:VR|Bottom Bottom&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:27 -0000&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageLayoutTemplate.aspx&#xD;&#xA;vti_title:SW|COE Article Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#COE Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D1473288;#&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="236200.000000000" />
+		</File>
+		<File Url="COEHomePage.aspx" Type="GhostableInLibrary" Level="Draft" Path="COEHomePage.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="COEHomePage.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="COE Home Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+			<Property Name="ID" Value="2363" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2363;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Zone1 Zone2 Zone3 Zone4 Zone5 Zone6 Zone10 Zone11 Zone12 Zone13&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/digitalday:TW|10 Jun 2015 05:29:09 -0000&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:27 -0000&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageLayoutTemplate.aspx&#xD;&#xA;vti_title:SW|COE Home Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="236300.000000000" />
+		</File>
+		<File Url="COESubTopicPage.aspx" DoGUIDFixUp="true" Type="GhostableInLibrary" Level="Draft" Path="COESubTopicPage.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="COESubTopicPage.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="COE Sub-Topic Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#COE Sub-Topic;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D147328802;#" />
+			<Property Name="ID" Value="2364" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2364;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_backlinkinfo:VX|Pages/Manage-Sites-&amp;-Content.aspx Pages/Solution-Design.aspx Pages/Migrate-a-Site.aspx Pages/Security-＆-Access-Management.aspx Pages/Team-Sites-&amp;-Groups.aspx Pages/O365-App-Development.aspx Pages/Review-&amp;-Engagement.aspx Pages/Vision.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/digitalday:TW|18 Jun 2015 20:01:37 -0000&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:27 -0000&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageLayoutTemplate.aspx&#xD;&#xA;vti_title:SW|COE Sub-Topic Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#COE Sub-Topic;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D147328802;#&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="236400.000000000" />
+		</File>
+		<File Url="COETopicPage.aspx" Type="GhostableInLibrary" Level="Draft" Path="COETopicPage.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="COETopicPage.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="COE Topic Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#COE Topic;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D147328801;#" />
+			<Property Name="ID" Value="2365" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2365;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_backlinkinfo:VX|Pages/Manage.aspx Pages/Build.aspx Pages/Deploy.aspx Pages/Plan.aspx Pages/Vision.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Zone1 Zone1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/digitalday:TW|15 Jun 2015 20:17:38 -0000&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:27 -0000&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageLayoutTemplate.aspx&#xD;&#xA;vti_title:SW|COE Topic Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#COE Topic;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D147328801;#&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="236500.000000000" />
+		</File>
+		<File Url="config_ui.aspx" Type="GhostableInLibrary" Level="Draft" Path="config_ui.aspx">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="config_ui.aspx" />
+			<Property Name="ID" Value="2257" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2257;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_cachedcustomprops:VX|ContentTypeId vti_title&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedtitle:SR|&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=8&#xD;&#xA;vti_title:SR|&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body style='height: 600px; overflow-y: scroll; overflow-x: hidden;'&gt;&#xD;&#xA;" />
+			<Property Name="Order" Value="225700.000000000" />
+		</File>
+		<File Url="FoundationBanded.aspx" Type="GhostableInLibrary" Level="Draft" Path="FoundationBanded.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="FoundationBanded.aspx" />
+			<Property Name="Title" Value="Foundation Banded Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="2258" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2258;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|g_7370D4B190DD43ED931AFEC522713537 g_F2C72E52FC154A238522BDA3881D86CE g_3BB3A84FAF4444F3A5B3DAE1C8421942 g_2F7EC13D463E4612981AE640BE8EF3CE g_109C0613842842858E289CD7AE450757&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|FoundationBanded.aspx&#xD;&#xA;vti_title:SW|Foundation Banded Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="225800.000000000" />
+		</File>
+		<File Url="FoundationOrbit.aspx" Type="GhostableInLibrary" Level="Draft" Path="FoundationOrbit.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="FoundationOrbit.aspx" />
+			<Property Name="Title" Value="Foundation Orbit Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="2259" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2259;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|g_CF6EA3849188413185C1890C32F2E6EC g_AB4876CD5DB74D14A6BF422FD7E68DE9 g_A851314ACA4C47C29091B23D7A3C3AEB g_950811B455804EF9AED01D2742E908E7 g_614DA21CECB04ABDB632B732DC3270A8&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|FoundationOrbit.aspx&#xD;&#xA;vti_title:SW|Foundation Orbit Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="225900.000000000" />
+		</File>
+		<File Url="ITBanded.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITBanded.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITBanded.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 6 zones. A 100% header &amp; footer with 2 rows between them. The first row contains 2 zones with 33% to the left and 67% to the right. The second row contains 2 zones with 67% to the left and 33% to the right. " />
+			<Property Name="Title" Value="IT Banded" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITBanded.png, IT Banded" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2260" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2260;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterZone1 CenterZone2 CenterZone3 CenterZone4 Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITBanded.png, IT Banded&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITBanded.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 6 zones. A 100% header &amp; footer with 2 rows between them. The first row contains 2 zones with 33% to the left and 67% to the right. The second row contains 2 zones with 67% to the left and 33% to the right. &#xD;&#xA;vti_title:SW|IT Banded&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;vti_linkinfo:VX|UJUS|/teams/itdesign/library/MicrosoftIT/img/preview/ITBanded.png&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="226000.000000000" />
+		</File>
+		<File Url="ITBrandedLeftNav.html" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedLeftNav.html">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557" />
+			<Property Name="FileLeafRef" Value="ITBrandedLeftNav.html" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignFromMaster" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, Conversion successful." />
+			<Property Name="ID" Value="2261" />
+			<Property Name="ContentType" Value="Html Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2261;#DefaultCssFile:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;HtmlDesignFromMaster:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;vti_cachedcustomprops:VX|DefaultCssFile HtmlDesignConversionSucceeded FSObjType PublishingPreviewImage HtmlDesignPreviewUrl ContentType HtmlDesignFromMaster HtmlDesignStatusAndPreview FileDirRef FileLeafRef ContentTypeId MasterPageDescription HtmlDesignAssociated UIVersion PublishingHidden&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;ContentType:SW|Html Master Page&#xD;&#xA;FileLeafRef:SW|oslo.html&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;PublishingHidden:IW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="226100.000000000" />
+		</File>
+		<File Url="ITBrandedLeftNav.master" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedLeftNav.master">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB" />
+			<Property Name="FileLeafRef" Value="ITBrandedLeftNav.master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, Conversion successful." />
+			<Property Name="ID" Value="2262" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2262;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedLeftNav.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB&#xD;&#xA;FileLeafRef:SW|ITBrandedLeftNav.master&#xD;&#xA;ContentType:SW|ASP NET Master Page&#xD;&#xA;MasterHash:IW|735670507&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body onhashchange=&quot;if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();&quot;&gt;&#xD;&#xA;" />
+			<Property Name="Order" Value="226200.000000000" />
+		</File>
+		<File Url="ITBrandedLeftNav.preview" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedLeftNav.preview">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ITBrandedLeftNav.preview" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="IT Branded Master Rich Footer Preview" />
+			<Property Name="ID" Value="2263" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2263;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010600F0E01E6568F91A47B82192DF8DB8AB2A&#xD;&#xA;FileLeafRef:SW|ITBrandedMasterRichFooter.preview&#xD;&#xA;vti_title:SW|IT Branded Master Rich Footer Preview&#xD;&#xA;ContentType:SW|Master Page Preview&#xD;&#xA;" />
+			<Property Name="Order" Value="226300.000000000" />
+		</File>
+		<File Url="ITBrandedMaster.html" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMaster.html">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557" />
+			<Property Name="FileLeafRef" Value="ITBrandedMaster.html" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="Untitled" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignFromMaster" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, Conversion successful." />
+			<Property Name="ID" Value="2264" />
+			<Property Name="ContentType" Value="Html Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2264;#DefaultCssFile:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;HtmlDesignFromMaster:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;vti_cachedcustomprops:VX|DefaultCssFile HtmlDesignConversionSucceeded FSObjType PublishingPreviewImage HtmlDesignPreviewUrl ContentType HtmlDesignFromMaster HtmlDesignStatusAndPreview FileDirRef FileLeafRef ContentTypeId MasterPageDescription HtmlDesignAssociated UIVersion PublishingHidden&#xD;&#xA;vti_title:SW|Untitled&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;ContentType:SW|Html Master Page&#xD;&#xA;FileLeafRef:SW|oslo.html&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;PublishingHidden:IW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="226400.000000000" />
+		</File>
+		<File Url="ITBrandedMaster.master" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMaster.master">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB" />
+			<Property Name="FileLeafRef" Value="ITBrandedMaster.master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="Untitled" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, Conversion successful." />
+			<Property Name="ID" Value="2265" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2265;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMaster.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB&#xD;&#xA;FileLeafRef:SW|ITBrandedMaster.master&#xD;&#xA;vti_title:SW|Untitled&#xD;&#xA;ContentType:SW|ASP NET Master Page&#xD;&#xA;MasterHash:IW|-1463504442&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body onhashchange=&quot;if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();&quot;&gt;&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;" />
+			<Property Name="Order" Value="226500.000000000" />
+		</File>
+		<File Url="ITBrandedMaster.preview" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMaster.preview">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ITBrandedMaster.preview" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="IT Branded Master Preview" />
+			<Property Name="ID" Value="2266" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2266;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010600F0E01E6568F91A47B82192DF8DB8AB2A&#xD;&#xA;FileLeafRef:SW|ITBrandedMaster.preview&#xD;&#xA;vti_title:SW|IT Branded Master Preview&#xD;&#xA;ContentType:SW|Master Page Preview&#xD;&#xA;" />
+			<Property Name="Order" Value="226600.000000000" />
+		</File>
+		<File Url="ITBrandedMasterRichFooter.html" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMasterRichFooter.html">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557" />
+			<Property Name="FileLeafRef" Value="ITBrandedMasterRichFooter.html" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="Untitled" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignFromMaster" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, Conversion successful." />
+			<Property Name="ID" Value="2267" />
+			<Property Name="ContentType" Value="Html Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2267;#DefaultCssFile:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;HtmlDesignFromMaster:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/NewsCenter&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|DefaultCssFile FSObjType PublishingPreviewImage HtmlDesignPreviewUrl HtmlDesignConversionSucceeded ContentType HtmlDesignFromMaster HtmlDesignStatusAndPreview FileDirRef FileLeafRef ContentTypeId MasterPageDescription HtmlDesignAssociated UIVersion PublishingHidden&#xD;&#xA;vti_title:SW|Untitled&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;ContentType:SW|Html Master Page&#xD;&#xA;FileLeafRef:SW|newscenter.html&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD10003D357F861E29844953D5CAA1D4D8A3A003487EB208DC23844B93D1ABBA22C0557&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;PublishingHidden:IW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="226700.000000000" />
+		</File>
+		<File Url="ITBrandedMasterRichFooter.master" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMasterRichFooter.master">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB" />
+			<Property Name="FileLeafRef" Value="ITBrandedMasterRichFooter.master" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="Untitled" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, Conversion successful." />
+			<Property Name="ID" Value="2268" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2268;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/ITBrandedMasterRichFooter.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB&#xD;&#xA;FileLeafRef:SW|ITBrandedMasterRichFooter.master&#xD;&#xA;vti_title:SW|Untitled&#xD;&#xA;ContentType:SW|ASP NET Master Page&#xD;&#xA;MasterHash:IW|-2017489191&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0 viewport width=device-width,\\ initial-scale=1.0,\\ user-scalable=no&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body onhashchange=&quot;if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();&quot;&gt;&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;" />
+			<Property Name="Order" Value="226800.000000000" />
+		</File>
+		<File Url="ITBrandedMasterRichFooter.preview" Type="GhostableInLibrary" Level="Draft" Path="ITBrandedMasterRichFooter.preview">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ITBrandedMasterRichFooter.preview" />
+			<Property Name="UIVersion" Value=";#15;#" />
+			<Property Name="Title" Value="IT Branded Master Rich Footer Preview" />
+			<Property Name="ID" Value="2269" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2269;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;UIVersion:SW|;#15;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010600F0E01E6568F91A47B82192DF8DB8AB2A&#xD;&#xA;FileLeafRef:SW|ITBrandedMasterRichFooter.preview&#xD;&#xA;vti_title:SW|IT Branded Master Rich Footer Preview&#xD;&#xA;ContentType:SW|Master Page Preview&#xD;&#xA;" />
+			<Property Name="Order" Value="226900.000000000" />
+		</File>
+		<File Url="ITColumnsOffset.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITColumnsOffset.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITColumnsOffset.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 5 zones. A 100% header &amp; footer with 1 row between them.  The row contains 3 zones with 42% to the left, 42% in the center and 16% to the right." />
+			<Property Name="Title" Value="IT Columns Offset" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITColumnsOffset.png, IT Columns Offset" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2270" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2270;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|g_7370D4B190DD43ED931AFEC522713537 g_F2C72E52FC154A238522BDA3881D86CE g_3BB3A84FAF4444F3A5B3DAE1C8421942 g_109C0613842842858E289CD7AE450757 g_5716A3E43F2F4BCE8E1BB8208FE9DE6B&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITColumnsOffset.png, IT Columns Offset&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITColumnsOffset.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 5 zones. A 100% header &amp; footer with 1 row between them.  The row contains 3 zones with 42% to the left, 42% in the center and 16% to the right.&#xD;&#xA;vti_title:SW|IT Columns Offset&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227000.000000000" />
+		</File>
+		<File Url="ITFractured.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITFractured.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITFractured.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 8 zones. A 100% header &amp; footer with 2 rows between them.  The first row contains 2 zones which utilize 50% each. The second row contains 4 zones which use 25% each. " />
+			<Property Name="Title" Value="IT Fractured" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITFractured.png, IT Fractured" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2271" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2271;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterLeftColumn CenterRightColumn CenterZone1 CenterZone2 CenterZone3 CenterZone4 Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITFractured.png, IT Fractured&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITFractured.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 8 zones. A 100% header &amp; footer with 2 rows between them.  The first row contains 2 zones which utilize 50% each. The second row contains 4 zones which use 25% each. &#xD;&#xA;vti_title:SW|IT Fractured&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227100.000000000" />
+		</File>
+		<File Url="ITFramed.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITFramed.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITFramed.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 5 zones. A 100% header &amp; footer with 1 row between them.  The row contains 3 zones with 17% to the left, 66% in the center and 17% to the right." />
+			<Property Name="Title" Value="IT Framed" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITFramed.png, IT Framed" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2272" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2272;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterColumn CenterLeftColumn CenterRightColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITFramed.png, IT Framed&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITFramed.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 5 zones. A 100% header &amp; footer with 1 row between them.  The row contains 3 zones with 17% to the left, 66% in the center and 17% to the right.&#xD;&#xA;vti_title:SW|IT Framed&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227200.000000000" />
+		</File>
+		<File Url="ITNarrow.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITNarrow.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITNarrow.aspx" />
+			<Property Name="Title" Value="IT Narrow Page Layout" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITNarrow.png, IT Narrow" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF39;#" />
+			<Property Name="ID" Value="2273" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2273;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterLeftColumn CenterRightColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITNarrow.png, IT Narrow&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITNarrow.aspx&#xD;&#xA;vti_title:SW|IT Narrow Page Layout&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF39;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227300.000000000" />
+		</File>
+		<File Url="ITPillars.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITPillars.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITPillars.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 5 zones. A 100% header &amp; footer with 1 row between them. The row contains 3 zones each uses 33%. " />
+			<Property Name="Title" Value="IT Pillars" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITPillars.png, IT Pillars" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2274" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2274;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterLeftColumn CenterColumn CenterRightColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITPillars.png, IT Pillars&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITPillars.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 5 zones. A 100% header &amp; footer with 1 row between them. The row contains 3 zones each uses 33%. &#xD;&#xA;vti_title:SW|IT Pillars&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227400.000000000" />
+		</File>
+		<File Url="ITPillars_banded.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITPillars_banded.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITPillars_banded.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 5 zones. A 100% header &amp; footer with 1 row between them. The row contains 3 zones each uses 33%. " />
+			<Property Name="Title" Value="IT Pillars" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITPillars.png, IT Pillars" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2361" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2361;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|TopLeftColumn TopCenterColumn TopRightColumn Top Band Middle Last CenterLeftColumn CenterColumn CenterRightColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITPillars.png, IT Pillars&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITPillars.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 5 zones. A 100% header &amp; footer with 1 row between them. The row contains 3 zones each uses 33%. &#xD;&#xA;vti_title:SW|IT Pillars&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="236100.000000000" />
+		</File>
+		<File Url="ITSideLeft.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITSideLeft.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITSideLeft.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 4 zones. A 100% header &amp; footer with 1 row between them.  The row contains 2 zones with 25% to the left and 75% to the right." />
+			<Property Name="Title" Value="IT Side Left" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITSideLeft.png, IT Side Left" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2275" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2275;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterColumn CenterLeftColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITSideLeft.png, IT Side Left&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITNarrow.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 4 zones. A 100% header &amp; footer with 1 row between them.  The row contains 2 zones with 25% to the left and 75% to the right.&#xD;&#xA;vti_title:SW|IT Side Left&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227500.000000000" />
+		</File>
+		<File Url="ITSideRight.aspx" Type="GhostableInLibrary" Level="Draft" Path="ITSideRight.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ITSideRight.aspx" />
+			<Property Name="MasterPageDescription" Value="This layout has 4 zones. A 100% header &amp; footer with 1 row between them.  The row contains 2 zones with 75% to the left and 25% to the right." />
+			<Property Name="Title" Value="IT Side Right" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITSideRight.png, IT Side Right" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2276" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2276;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedzones:VR|Top CenterColumn CenterRightColumn Bottom&#xD;&#xA;PublishingPreviewImage:SW|https://microsoft.sharepoint.com/teams/itdesign/library/MicrosoftIT/img/preview/ITSideRight.png, IT Side Right&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ITNarrow.aspx&#xD;&#xA;MasterPageDescription:SW|This layout has 4 zones. A 100% header &amp; footer with 1 row between them.  The row contains 2 zones with 75% to the left and 25% to the right.&#xD;&#xA;vti_title:SW|IT Side Right&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;" />
+			<Property Name="Order" Value="227600.000000000" />
+		</File>
+		<File Url="MicrosoftITDesignPackage-1.6.0.wsp" Type="GhostableInLibrary" Level="Draft" Path="MicrosoftITDesignPackage-1.6.0.wsp">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="MicrosoftITDesignPackage-1.6.0.wsp" />
+			<Property Name="ID" Value="2277" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2277;#SolutionHasAssemblies:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/dev_/_catalogs/masterpage&#xD;&#xA;SolutionId:SW|{726a5f31-9c1d-4e3e-9728-9d93b6d410aa}&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;SolutionHash:SW|pJJQrrD5pLATB4/Ws0tc2KPcM1t3nSWPC5IC1ICVAeU=&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_cachedcustomprops:VX|SolutionHasAssemblies SolutionId SolutionHash&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|MicrosoftITDesignPackage-1.6.0.wsp&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_title:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="227700.000000000" />
+		</File>
+		<File Url="PublishingImageRenditions.xml" Type="GhostableInLibrary" Level="Published" Path="PublishingImageRenditions.xml">
+			<Property Name="ContentTypeId" Value="0x010100A5128EA2E3B67E4E85CF0D6A57DDA8FF" />
+			<Property Name="FileLeafRef" Value="PublishingImageRenditions.xml" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="PublishingImageRenditions.xml" />
+			<Property Name="ID" Value="2093" />
+			<Property Name="ContentType" Value="Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2093;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;vti_title:SW|PublishingImageRenditions.xml&#xD;&#xA;FileLeafRef:SW|PublishingImageRenditions.xml&#xD;&#xA;ContentTypeId:SW|0x010100A5128EA2E3B67E4E85CF0D6A57DDA8FF&#xD;&#xA;" />
+			<Property Name="Order" Value="209300.000000000" />
+		</File>
+	</Module>
+</Elements>

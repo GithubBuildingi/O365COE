@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\PublishingResources\dwp" Url="_catalogs/wp" SetupPath="Features\PublishingResources\dwp" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ContentQuery.webpart" Type="GhostableInLibrary" Level="Published" Path="ContentQuery.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="ContentQuery.webpart" />
+			<Property Name="Title" Value="$Resources:cmscore,ContentQueryWebPart_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:cmscore,ContentQueryWebPart_Description" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="17" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="17;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\PublishingResources\\dwp\\ContentQuery.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Publishing.WebControls.ContentByQueryWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Publishing,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:cmscore,ContentQueryWebPart_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;ContentTypeName:SR|Article Page&#xD;&#xA;vti_cachedtitle:SR|$Resources:cmscore,ContentQueryWebPart_Title&#xD;&#xA;vti_title:SR|$Resources:cmscore,ContentQueryWebPart_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1700.00000000000" />
+		</File>
+		<File Url="SummaryLink.webpart" Type="GhostableInLibrary" Level="Published" Path="SummaryLink.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="SummaryLink.webpart" />
+			<Property Name="Title" Value="$Resources:cmscore,SummaryLinkWebPart_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:cmscore,SummaryLinkWebPart_Description" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="18" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="18;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\PublishingResources\\dwp\\SummaryLink.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Publishing.WebControls.SummaryLinkWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Publishing,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:cmscore,SummaryLinkWebPart_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:cmscore,SummaryLinkWebPart_Title&#xD;&#xA;vti_title:SR|$Resources:cmscore,SummaryLinkWebPart_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1800.00000000000" />
+		</File>
+		<File Url="TableOfContents.webpart" Type="GhostableInLibrary" Level="Published" Path="TableOfContents.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="TableOfContents.webpart" />
+			<Property Name="Title" Value="$Resources:cmscore,TableOfContentsWebPart_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:cmscore,TableOfContentsWebPart_Description" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="19" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="19;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\PublishingResources\\dwp\\TableOfContents.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Publishing,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:cmscore,TableOfContentsWebPart_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:cmscore,TableOfContentsWebPart_Title&#xD;&#xA;vti_title:SR|$Resources:cmscore,TableOfContentsWebPart_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1900.00000000000" />
+		</File>
+	</Module>
+</Elements>

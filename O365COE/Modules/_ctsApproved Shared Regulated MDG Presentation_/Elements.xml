@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_ctsApproved Shared Regulated MDG Presentation_" Url="_cts/Approved Shared Regulated MDG Presentation" RootWebOnly="FALSE" Path="Files\_cts\Approved Shared Regulated MDG Presentation" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="regulated_MDG_ppt_template.pptx" Level="Published" Path="regulated_MDG_ppt_template.pptx" />
+		<File Url="regulated_ppt_template.pptx" Level="Published" Path="regulated_ppt_template.pptx" />
+	</Module>
+</Elements>

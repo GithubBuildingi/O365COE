@@ -1,0 +1,154 @@
+<?xml version="1.0"?><!-- _lcid="1026" _version="16.0.3912" _dal="1" --><!-- _LocalBinding --><WorkflowConfig Version="15.0.0.411">
+	<Template BaseID="{E43856D2-1BB4-40ef-B08B-016D89A00402}" DocLibURL="_catalogs/wfpub" XomlHref="_catalogs/wfpub/Одобрение за публикуване/ReviewPublishing_1026.xoml" XomlVersion="V1.0" AssociationURL="~layouts/CstWrkflIP.aspx" TaskContentType="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0402" StartManually="true" Visibility="RootPublic" Category="List;Language:1026;#ContentType;Language:1026" RestrictLanguage="1026" RulesHref="_catalogs/wfpub/Одобрение за публикуване/ReviewPublishing_1026.xoml.rules" RulesVersion = "V1.0" Description="Маршрутизира страница за одобрение. Одобряващите могат да одобрят или да отхвърлят страницата, да възложат повторно задачата за одобряване или да поискат промени в страницата." PreviewHref="/_catalogs/wfpub/Одобрение за публикуване/ReviewPublishing_1026.vdw" ShowPreview="true" PreviewVersion="V1.0" AllowStartOnMajorCheckin="true"/>
+	<ContentTypes>
+		<ContentType Name="Publishing Approval Workflow Task (bg-bg)" ContentTypeID="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0402" WorkflowForm="/_catalogs/wfpub/Одобрение за публикуване/ReviewPublishing_Task_1026.xsn" WorkflowFormVersion = "V0.0" Description="Работен елемент, създаден от работен поток, който трябва да се завърши от вас или вашия екип.">
+			<Fields/>
+			<WorkflowFormData>
+				<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dfs:queryFields>
+					</dfs:queryFields>
+					<dfs:dataFields>
+						<d:SharePointListItem_RW>
+							<d:Status/>
+							<d:Author/>
+							<d:FieldName_ConsolidatedComments/>
+							<d:DueDate xsi:nil="true"/>
+							<d:FieldName_Comments/>
+							<d:FieldName_DelegateTo/>
+							<d:FieldName_NewDescription/>
+							<d:FieldName_NewSerialTaskDuration xsi:nil="true"/>
+							<d:FieldName_NewDurationUnits>Day</d:FieldName_NewDurationUnits>
+							<d:FieldName_RequestTo/>
+							<d:Body/>
+							<d:Title/>
+							<d:Priority>(2) Normal</d:Priority>
+							<d:PercentComplete xsi:nil="true"/>
+							<d:AssignedTo/>
+							<d:StartDate/>
+							<d:WorkflowLink Description=""/>
+							<d:OffsiteParticipant/>
+							<d:OffsiteParticipantReason/>
+							<d:WorkflowOutcome/>
+							<d:WorkflowName/>
+							<d:FormURN/>
+							<d:FormData/>
+							<d:EmailBody/>
+							<d:HasCustomEmailBody xsi:nil="true"/>
+							<d:SendEmailNotification xsi:nil="true"/>
+							<d:PendingModTime xsi:nil="true"/>
+							<d:Completed>false</d:Completed>
+							<d:ExtendedProperties/>
+							<d:ID xsi:nil="true"/>
+							<d:Modified xsi:nil="true"/>
+							<d:Created xsi:nil="true"/>
+							<d:Editor/>
+						</d:SharePointListItem_RW>
+					</dfs:dataFields>
+				</dfs:myFields>
+			</WorkflowFormData>
+		</ContentType>
+	</ContentTypes>
+	<Initiation URL="~layouts/IniWrkflIP.aspx">
+		<Fields>
+			<Field Name="Approvers" GroupName="Assignment" FormType="Association" DisplayName="Одобряващи" Type="HybridUser" Description="Въведете имената на хората, на които работният поток ще възложи задачи, и изберете реда, в който се възлагат тези задачи. Разделете ги с точка и запетая. Можете също да добавите етапи, за да възложите задачи на повече хора в различен ред." Direction="None" InsertButtonText="Добавяне на нов етап">
+				<Default/>
+				<Field Name="Assignee" DisplayName="Възлагане на" List="UserInfo" Description="" Width="305" Type="UserMulti" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" Direction="None"/>
+				<Field Name="Stage" DisplayName="Етап" Description="" Width="1" Type="Number" Direction="None" Hidden="TRUE">
+					<Default></Default>
+				</Field>
+				<Field Name="AssignmentType" Format="Dropdown" BaseType="Text" DisplayName="Подреждане" Description="" Width="150" Type="Choice" Direction="None">
+					<Default>Serial</Default>
+					<CHOICES>
+						<CHOICE DisplayName="Един по един (последователно)">Serial</CHOICE>
+						<CHOICE DisplayName="Всички едновременно (паралелно)">Parallel</CHOICE>
+					</CHOICES>
+				</Field>
+			</Field>
+			<Field Name="ExpandGroups" FormType="Association" DisplayName="Разгъване на групи" Description="За всяка въведена група възложете задача на всеки отделен член и на всяка група, на която е член." Direction="None" Type="Boolean">
+				<Default>1</Default>
+			</Field>
+			<Field Name="NotificationMessage" FormType="Both" NumLines="5" Sortable="FALSE" RichTextMode="Compatible" DisplayName="Искане" Description="Това съобщение ще бъде изпратено на хората, на които са възложени задачи." Direction="None" Type="Note">
+				<Default/>
+			</Field>
+			<Field Name="DueDateforAllTasks" FormType="Both" Format="DateOnly" DisplayName="Срок за всички задачи" Description="Дата, до която всички задачи трябва да се изпълнят." Direction="None" Type="DateTime">
+				<CustomValidation>
+					<Condition>. != "" and msxsl:string-compare(., xdDate:Now()) &lt; 0</Condition>
+					<Message ScreenTip="Стойностите за тази контрола трябва да са по-големи от текущата дата и час." ShowScreenTipOnly="TRUE">Стойностите за тази контрола трябва да са по-големи от текущата дата и час.</Message>
+				</CustomValidation>
+			</Field>
+			<Field Name="DurationforSerialTasks" FormType="Both" Min="1" Max="999" DisplayName="Времетраене на задача" Description="Времето, за което задачата трябва да се изпълни. Изберете единиците от &quot;Единици за времетраене&quot;." Direction="None" Type="Number"/>
+			<Field Name="DurationUnits" FormType="Both" Format="Dropdown" BaseType="Text" DisplayName="Единици за времетраене" Description="Задайте единиците за време, използвани от &quot;Времетраене на задача&quot;." Direction="None" Type="Choice">
+				<CHOICES>
+					<CHOICE DisplayName="Ден(дни)">Day</CHOICE>
+					<CHOICE DisplayName="Седмица(и)">Week</CHOICE>
+					<CHOICE DisplayName="Месец(а)">Month</CHOICE>
+				</CHOICES>
+				<Default>Day</Default>
+			</Field>
+			<Field Name="CC" FormType="Both" List="UserInfo" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" DisplayName="Як" Description="Уведомете тези хора, когато започва и свършва този работен поток, без да им възлагате задачи." Direction="None" Type="UserMulti" Mult="TRUE"/>
+			<Field Name="CancelonRejection" FormType="Association" DisplayName="Край при първо отхвърляне" Description="Автоматично отхвърляне на документа, ако е отхвърлен от някой участник." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="CancelonChange" FormType="Association" DisplayName="Край при промяна на документа" Description="Автоматично отхвърляне на документа, ако е променен преди завършване на работния поток." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="EnableContentApproval" FormType="Association" DisplayName="Разреши одобрението на съдържание" Description="Актуализиране на състоянието на одобрение след завършване на работния поток (използвайте този работен поток, за да управлявате одобрението на съдържание)." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+		</Fields>
+		<Parameters>
+			<Parameter Name="Approvers" Type="System.String"/>
+			<Parameter Name="ExpandGroups" Type="System.Boolean"/>
+			<Parameter Name="NotificationMessage" Type="System.String"/>
+			<Parameter Name="DueDateforAllTasks" Type="System.DateTime"/>
+			<Parameter Name="DurationforSerialTasks" Type="System.Double"/>
+			<Parameter Name="DurationUnits" Type="System.String"/>
+			<Parameter Name="CC" Type="System.String"/>
+			<Parameter Name="CancelonRejection" Type="System.Boolean"/>
+			<Parameter Name="CancelonChange" Type="System.Boolean"/>
+			<Parameter Name="EnableContentApproval" Type="System.Boolean"/>
+		</Parameters>
+		<DefaultData>
+			<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<dfs:queryFields>
+				</dfs:queryFields>
+				<dfs:dataFields>
+					<d:SharePointListItem_RW>
+						<d:Approvers>
+							<d:Assignment>
+								<d:Assignee/>
+								<d:Stage xsi:nil="true"/>
+								<d:AssignmentType>Serial</d:AssignmentType>
+							</d:Assignment>
+						</d:Approvers>
+						<d:ExpandGroups>true</d:ExpandGroups>
+						<d:NotificationMessage/>
+						<d:DueDateforAllTasks xsi:nil="true"/>
+						<d:DurationforSerialTasks xsi:nil="true"/>
+						<d:DurationUnits>Day</d:DurationUnits>
+						<d:CC/>
+						<d:CancelonRejection>false</d:CancelonRejection>
+						<d:CancelonChange>false</d:CancelonChange>
+						<d:EnableContentApproval>false</d:EnableContentApproval>
+					</d:SharePointListItem_RW>
+				</dfs:dataFields>
+			</dfs:myFields>
+		</DefaultData>
+	</Initiation>
+	<Extended>
+		<Fields/>
+	</Extended>
+	<MetaData>
+		<TaskForms/>
+		<Modifications ModificationUrl="~layouts/ModWrkflIP.aspx">
+			<Modification TypeId="a938eabe-8db1-45b9-87cb-b930728afe10" NameFormat="Отмяна на всички задачи на {0}" FormURN="urn:schemas-microsoft-com:office:infopath:workflow:OOB-WrapItUp:1026"/>
+		</Modifications>
+		<Instantiation_FormURI Version= "V0.0">/_catalogs/wfpub/Одобрение за публикуване/reviewpublishing_1026.xsn</Instantiation_FormURI>
+		<Association_FormURN Version= "V0.0">/_catalogs/wfpub/Одобрение за публикуване/reviewpublishing_1026.xsn</Association_FormURN>
+		<ExtendedStatusColumnValues>
+			<StatusColumnValue>Отменено</StatusColumnValue>
+			<StatusColumnValue>Одобрено</StatusColumnValue>
+			<StatusColumnValue>Отхвърлено</StatusColumnValue>
+		</ExtendedStatusColumnValues>
+	</MetaData>
+</WorkflowConfig>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageO365img_" Url="_catalogs/masterpage/O365/img" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\O365\img" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="icon-home-24-dark.png" Type="GhostableInLibrary" Level="Draft" Path="icon-home-24-dark.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="icon-home-24-dark.png" />
+			<Property Name="ID" Value="2319" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2319;#FSObjType:SW|0&#xD;&#xA;vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/img&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_lastwidth:IW|19&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|icon-home-24-dark.png&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_lastheight:IW|19&#xD;&#xA;wic_YResolution:DW|96.0000000000000&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|96.0000000000000&#xD;&#xA;" />
+			<Property Name="Order" Value="231900.000000000" />
+		</File>
+		<File Url="icon-home-24-orange.png" Type="GhostableInLibrary" Level="Draft" Path="icon-home-24-orange.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="icon-home-24-orange.png" />
+			<Property Name="ID" Value="2320" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2320;#FSObjType:SW|0&#xD;&#xA;vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/img&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_lastwidth:IW|19&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|icon-home-24-orange.png&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_lastheight:IW|19&#xD;&#xA;wic_YResolution:DW|96.0000000000000&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|96.0000000000000&#xD;&#xA;" />
+			<Property Name="Order" Value="232000.000000000" />
+		</File>
+		<File Url="Placeholder-Image.gif" Type="GhostableInLibrary" Level="Draft" Path="Placeholder-Image.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="Placeholder-Image.gif" />
+			<Property Name="ID" Value="2321" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2321;#FSObjType:SW|0&#xD;&#xA;vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/img&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_lastwidth:IW|600&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|Placeholder-Image.gif&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_lastheight:IW|400&#xD;&#xA;wic_YResolution:DW|96.0000000000000&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|96.0000000000000&#xD;&#xA;" />
+			<Property Name="Order" Value="232100.000000000" />
+		</File>
+		<File Url="plus_minus_black.png" Type="GhostableInLibrary" Level="Published" Path="plus_minus_black.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="plus_minus_black.png" />
+			<Property Name="ID" Value="2402" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2402;#vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/O365/css/o365.css&#xD;&#xA;vti_lastwidth:IW|20&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_lastheight:IW|40&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;wic_YResolution:DW|72.0090026855469&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|72.0090026855469&#xD;&#xA;" />
+			<Property Name="Order" Value="240200.000000000" />
+		</File>
+		<File Url="plus_minus_white.png" Type="GhostableInLibrary" Level="Published" Path="plus_minus_white.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="plus_minus_white.png" />
+			<Property Name="ID" Value="2403" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2403;#vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/O365/css/o365.css&#xD;&#xA;vti_lastwidth:IW|20&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_lastheight:IW|40&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;wic_YResolution:DW|72.0090026855469&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|72.0090026855469&#xD;&#xA;" />
+			<Property Name="Order" Value="240300.000000000" />
+		</File>
+		<File Url="siteSprite.png" Type="GhostableInLibrary" Level="Draft" Path="siteSprite.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="siteSprite.png" />
+			<Property Name="Title" Value="siteSprite" />
+			<Property Name="ID" Value="2322" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/img" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2322;#FSObjType:SW|0&#xD;&#xA;vti_thumbnailexists:BW|false&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/img&#xD;&#xA;vti_stickycachedpluggableparserprops:VX|wic_XResolution vti_lastheight vti_lastwidth wic_YResolution oisimg_imageparsedversion&#xD;&#xA;vti_lastwidth:IW|204&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_previewexists:BW|false&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|siteSprite.png&#xD;&#xA;vti_title:SW|siteSprite&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;vti_lastheight:IW|1670&#xD;&#xA;wic_YResolution:DW|95.9866027832031&#xD;&#xA;oisimg_imageparsedversion:IW|4&#xD;&#xA;wic_XResolution:DW|95.9866027832031&#xD;&#xA;" />
+			<Property Name="Order" Value="232200.000000000" />
+		</File>
+	</Module>
+</Elements>

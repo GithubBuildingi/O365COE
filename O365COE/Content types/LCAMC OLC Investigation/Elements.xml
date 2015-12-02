@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x0101000A0FD7B476571846BDD9D7A70AD486D90101" Name="LCAMC OLC Investigation" Group="Approved Shared LCA Content Types" Description="Intended for use in Matter Center for OLC Investigation." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/LCAMC OLC Investigation" />
+		<FieldRefs>
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{6dcb3aa3-ed8d-423e-b719-8cd5b91dd43a}" Name="LCAMCPracticeGroup" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{01de90bf-0994-4605-b539-5c5ca240cb6c}" Name="lcaregion" AllowDeletion="TRUE" />
+			<FieldRef ID="{4740e5cd-024f-4997-86f9-9a9788809ee9}" Name="LCAAreaofLaw" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d5a34e10-bce0-4039-8014-bea15bd049bb}" Name="LCASubareaofLaw" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{268722ed-f699-4313-ba38-2d975b47e0ef}" Name="GroupID" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7a375a7a-2769-43a4-b241-c03ebb06aebc}" Name="GroupName" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ef021c35-e855-4432-a314-e9d9aad4dbe2}" Name="MatterID" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{884533b4-8b65-431b-a356-666ea4551c94}" Name="MatterName" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{a8b3a2de-1b1e-459c-9463-6179902fbcf1}" Name="ResponsibleAttorney" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7645292f-f23e-419b-8d5f-94947c656afc}" Name="OpenDate" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7bad4095-2872-467a-ace3-215928a5824e}" Name="CloseDate" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{bd4754b6-5d50-4c0f-a27c-bdfc8f942fb7}" Name="DocumentOwner" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{bb137679-eabd-4039-a0ad-3f6ad466b520}" Name="LCARetention" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f2a7e553-b3e0-4909-9239-287197a22175}" Name="BccAddress" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{098f9a55-827f-4014-9ecc-d97016ee6e45}" Name="Bcc-Type" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{abe2d6cc-a737-44d5-a4e9-6f551aba8f99}" Name="Cc" />
+			<FieldRef ID="{88f0c674-5ae3-41ab-92aa-a7fe343dbbc7}" Name="CcAddress" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{a6dd5ac4-e466-4ad1-82dc-3590248487f9}" Name="CcType" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ca24a0b9-a940-4c6a-8e07-46884229b03f}" Name="From1" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1b06ea53-d80a-458f-9135-bae38a0ba11b}" Name="FromAddress" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{5676f579-eaa1-4a78-904b-ebc1d790ef0a}" Name="FromType" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d5fdcd56-5ed9-482b-b142-87629bc94e0e}" Name="Importance" />
+			<FieldRef ID="{014a71c1-5621-40ac-92e1-c34b1d908d26}" Name="Received" />
+			<FieldRef ID="{6bfcdd80-632c-4eb6-8f60-78c14131ef1d}" Name="ReceivedUTC" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7e30f983-dc1a-416a-987e-e7d2b716feb1}" Name="Sensitivity" />
+			<FieldRef ID="{8678d160-11e2-43a6-9b5d-ef2fdd31660b}" Name="Sent" AllowDeletion="TRUE" />
+			<FieldRef ID="{8f9b7b64-8a32-42b6-9414-942fbc603970}" Name="SentUTC" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{126140d7-f097-4706-9f83-d3e6abcdfef5}" Name="SubjectLine" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{c794d813-b215-4597-bbb2-3e1a0fbc9496}" Name="To" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f3f617bb-00ea-43e1-9afc-572907ecbdb7}" Name="ToAddress" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{5bfd4fd8-ce29-4816-aefe-58b4d6c1f76b}" Name="ToType" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3f6e0094-7ac3-4771-9ec3-ba5b9ece91b7}" Name="FromMailbox" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{80fc7ed8-6100-4b79-bc04-151e23e11d4b}" Name="ConversationID" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{fe11833f-b208-4e03-ac01-0177ce83db5b}" Name="ConversationTopic" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{78e1f748-421a-448f-8287-90c924338c2a}" Name="EmailCategories" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{c8116bbe-603a-4716-a9bf-4625e04f1382}" Name="HasAttachment" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1f4ca342-e385-44db-b036-bb0ab3071f37}" Name="Attachment" />
+			<FieldRef ID="{f104f800-808f-42fe-a6ff-2ab375be0064}" Name="Bcc" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{ceb68053-5163-424b-a6ea-7705930ff245}" Name="bb137679eabd4039a0ad3f6ad466b520" Hidden="TRUE" />
+			<FieldRef ID="{29e37fa0-1670-443e-bf06-b42bda6c0e9f}" Name="g1de90bf09944605b5395c5ca240cb6c" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{4af2826b-44b2-4703-827f-dd55bfdb5806}" Name="k740e5cd024f499786f99a9788809ee9" Hidden="TRUE" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{64707171-6a93-4a44-8807-0df12eb5caf2}" Name="d5a34e10bce040398014bea15bd049bb" Hidden="TRUE" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{0414eb3b-fe3d-477f-8119-32c95b468adb}" Name="mdcb3aa3ed8d423eb7198cd5b91dd43a" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{f070ca5e-c59e-495a-b635-9a71d8c4a28a}" Name="OriginalName" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x0101000A0FD7B476571846BDD9D7A70AD486D90101" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

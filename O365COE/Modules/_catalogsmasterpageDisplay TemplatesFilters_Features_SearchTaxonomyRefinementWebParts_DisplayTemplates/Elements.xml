@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesFilters_Features\SearchTaxonomyRefinementWebParts\DisplayTemplates" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/Display Templates/Filters" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Filters" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_TaxonomyRefinement.js" Type="GhostableInLibrary" Level="Draft" Path="Control_TaxonomyRefinement.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_TaxonomyRefinement.js" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="Title" Value="Default Taxonomy Refinement" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#TaxonomyRefinement;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Control_TaxonomyRefinement.html, Conversion successful." />
+			<Property Name="ID" Value="512" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="512;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:SW|TRUE&#xD;&#xA;CompatibleManagedProperties:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;CompatibleSearchDataTypes:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;TemplateHidden:SW|0&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;TargetControlType:SW|;#TaxonomyRefinement;#&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Filters&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Control_TaxonomyRefinement.html, Conversion successful.&#xD;&#xA;vti_title:SW|Default Taxonomy Refinement&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_TaxonomyRefinement.js&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTaxonomyRefinementWebParts\\DisplayTemplates\\Control_TaxonomyRefinement.js&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;UIVersion:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="51200.0000000000" />
+		</File>
+		<File Url="Filter_TaxonomyRefinement.js" Type="GhostableInLibrary" Level="Draft" Path="Filter_TaxonomyRefinement.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Filter_TaxonomyRefinement.js" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="Title" Value="Link with count" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#TaxonomyRefinement;#" />
+			<Property Name="DisplayTemplateLevel" Value="Filter" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Filter_TaxonomyRefinement.html, Conversion successful." />
+			<Property Name="ID" Value="513" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="513;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:SW|TRUE&#xD;&#xA;CompatibleManagedProperties:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;CompatibleSearchDataTypes:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;TemplateHidden:SW|0&#xD;&#xA;DisplayTemplateLevel:SW|Filter&#xD;&#xA;DisplayTemplateJSTemplateType:SW|Override&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;TargetControlType:SW|;#TaxonomyRefinement;#&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Filters&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Filter_TaxonomyRefinement.html, Conversion successful.&#xD;&#xA;vti_title:SW|Link with count&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Filter_TaxonomyRefinement.js&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTaxonomyRefinementWebParts\\DisplayTemplates\\Filter_TaxonomyRefinement.js&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;UIVersion:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="51300.0000000000" />
+		</File>
+	</Module>
+</Elements>

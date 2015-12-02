@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="wfsvc" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>WorkflowServiceDefinition Updating</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowDefinitionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceSubscription Updating</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowSubscriptionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceDefinition Deleting</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemDeleting</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowDefinitionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceSubscription Deleting</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemDeleting</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowSubscriptionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceDefinition Added</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowDefinitionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceSubscription Added</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowSubscriptionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>WorkflowServiceDefinition Updated</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>10</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.WorkflowServices, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.WorkflowServices.WorkflowDefinitionStorageEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x2BDF632CABCEC642AEFFB3968162D4B1</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+	</Receivers>
+</Elements>

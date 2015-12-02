@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageO365jsfoundation_" Url="_catalogs/masterpage/O365/js/foundation" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\O365\js\foundation" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="foundation.abide.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.abide.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.abide.js" />
+			<Property Name="Title" Value="foundation.abide" />
+			<Property Name="ID" Value="2326" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2326;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.abide.js&#xD;&#xA;vti_title:SW|foundation.abide&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="232600.000000000" />
+		</File>
+		<File Url="foundation.accordion.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.accordion.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.accordion.js" />
+			<Property Name="Title" Value="foundation.accordion" />
+			<Property Name="ID" Value="2327" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2327;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.accordion.js&#xD;&#xA;vti_title:SW|foundation.accordion&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="232700.000000000" />
+		</File>
+		<File Url="foundation.alert.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.alert.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.alert.js" />
+			<Property Name="Title" Value="foundation.alert" />
+			<Property Name="ID" Value="2328" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2328;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.alert.js&#xD;&#xA;vti_title:SW|foundation.alert&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="232800.000000000" />
+		</File>
+		<File Url="foundation.clearing.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.clearing.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.clearing.js" />
+			<Property Name="Title" Value="foundation.clearing" />
+			<Property Name="ID" Value="2329" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2329;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.clearing.js&#xD;&#xA;vti_title:SW|foundation.clearing&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="232900.000000000" />
+		</File>
+		<File Url="foundation.dropdown.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.dropdown.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.dropdown.js" />
+			<Property Name="Title" Value="foundation.dropdown" />
+			<Property Name="ID" Value="2330" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2330;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.dropdown.js&#xD;&#xA;vti_title:SW|foundation.dropdown&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233000.000000000" />
+		</File>
+		<File Url="foundation.equalizer.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.equalizer.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.equalizer.js" />
+			<Property Name="Title" Value="foundation.equalizer" />
+			<Property Name="ID" Value="2331" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2331;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.equalizer.js&#xD;&#xA;vti_title:SW|foundation.equalizer&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233100.000000000" />
+		</File>
+		<File Url="foundation.interchange.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.interchange.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.interchange.js" />
+			<Property Name="Title" Value="foundation.interchange" />
+			<Property Name="ID" Value="2332" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2332;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.interchange.js&#xD;&#xA;vti_title:SW|foundation.interchange&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233200.000000000" />
+		</File>
+		<File Url="foundation.joyride.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.joyride.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.joyride.js" />
+			<Property Name="Title" Value="foundation.joyride" />
+			<Property Name="ID" Value="2333" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2333;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.joyride.js&#xD;&#xA;vti_title:SW|foundation.joyride&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233300.000000000" />
+		</File>
+		<File Url="foundation.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.js" />
+			<Property Name="Title" Value="foundation" />
+			<Property Name="ID" Value="2334" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2334;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.js&#xD;&#xA;vti_title:SW|foundation&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233400.000000000" />
+		</File>
+		<File Url="foundation.magellan.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.magellan.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.magellan.js" />
+			<Property Name="Title" Value="foundation.magellan" />
+			<Property Name="ID" Value="2335" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2335;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.magellan.js&#xD;&#xA;vti_title:SW|foundation.magellan&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233500.000000000" />
+		</File>
+		<File Url="foundation.offcanvas.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.offcanvas.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.offcanvas.js" />
+			<Property Name="Title" Value="foundation.offcanvas" />
+			<Property Name="ID" Value="2336" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2336;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.offcanvas.js&#xD;&#xA;vti_title:SW|foundation.offcanvas&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233600.000000000" />
+		</File>
+		<File Url="foundation.reveal.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.reveal.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.reveal.js" />
+			<Property Name="Title" Value="foundation.reveal" />
+			<Property Name="ID" Value="2337" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2337;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.reveal.js&#xD;&#xA;vti_title:SW|foundation.reveal&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233700.000000000" />
+		</File>
+		<File Url="foundation.slider.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.slider.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.slider.js" />
+			<Property Name="Title" Value="foundation.slider" />
+			<Property Name="ID" Value="2338" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2338;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.slider.js&#xD;&#xA;vti_title:SW|foundation.slider&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233800.000000000" />
+		</File>
+		<File Url="foundation.tab.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.tab.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.tab.js" />
+			<Property Name="Title" Value="foundation.tab" />
+			<Property Name="ID" Value="2339" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2339;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.tab.js&#xD;&#xA;vti_title:SW|foundation.tab&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="233900.000000000" />
+		</File>
+		<File Url="foundation.tooltip.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.tooltip.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.tooltip.js" />
+			<Property Name="Title" Value="foundation.tooltip" />
+			<Property Name="ID" Value="2340" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2340;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.tooltip.js&#xD;&#xA;vti_title:SW|foundation.tooltip&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234000.000000000" />
+		</File>
+		<File Url="foundation.topbar.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.topbar.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.topbar.js" />
+			<Property Name="Title" Value="foundation.topbar" />
+			<Property Name="ID" Value="2341" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2341;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.topbar.js&#xD;&#xA;vti_title:SW|foundation.topbar&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234100.000000000" />
+		</File>
+		<File Url="jquery.cookie.js" Type="GhostableInLibrary" Level="Draft" Path="jquery.cookie.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="jquery.cookie.js" />
+			<Property Name="Title" Value="jquery.cookie" />
+			<Property Name="ID" Value="2342" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/foundation" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2342;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/foundation&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|jquery.cookie.js&#xD;&#xA;vti_title:SW|jquery.cookie&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234200.000000000" />
+		</File>
+	</Module>
+</Elements>

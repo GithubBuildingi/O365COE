@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\BasicWebParts" Url="_catalogs/wp" SetupPath="Features\BasicWebParts" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="BlogAdmin.dwp" Type="GhostableInLibrary" Level="Published" Path="BlogAdmin.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BlogAdmin.dwp" />
+			<Property Name="Title" Value="$Resources:core,adminlinks_schema_blg_title;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,BlogAdminLinksWPDescription;" />
+			<Property Name="Group" Value="$Resources:core,BlogWebPartGroup;" />
+			<Property Name="ID" Value="15" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="15;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,BlogWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\BlogAdmin.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.BlogAdminWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,BlogAdminLinksWPDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,adminlinks_schema_blg_title;&#xD;&#xA;vti_title:SR|$Resources:core,adminlinks_schema_blg_title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1500.00000000000" />
+		</File>
+		<File Url="BlogArchives.dwp" Type="GhostableInLibrary" Level="Published" Path="BlogArchives.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BlogArchives.dwp" />
+			<Property Name="Title" Value="$Resources:core,BlogArchivesWPTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,BlogArchivesWPDescription;" />
+			<Property Name="Group" Value="$Resources:core,BlogWebPartGroup;" />
+			<Property Name="ID" Value="16" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="16;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,BlogWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\BlogArchives.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.BlogMonthQuickLaunch&#xD;&#xA;WebPartDescription:SW|$Resources:core,BlogArchivesWPDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,BlogArchivesWPTitle;&#xD;&#xA;vti_title:SR|$Resources:core,BlogArchivesWPTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1600.00000000000" />
+		</File>
+		<File Url="BlogNotifications.webpart" Type="GhostableInLibrary" Level="Published" Path="BlogNotifications.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BlogNotifications.webpart" />
+			<Property Name="Title" Value="$Resources:core,BlogNotificationsWPTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,BlogNotificationsWPDescription;" />
+			<Property Name="Group" Value="$Resources:core,BlogWebPartGroup;" />
+			<Property Name="ID" Value="14" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="14;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,BlogWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\BlogNotifications.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.BlogLinksWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,BlogNotificationsWPDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,BlogNotificationsWPTitle;&#xD;&#xA;vti_title:SR|$Resources:core,BlogNotificationsWPTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1400.00000000000" />
+		</File>
+		<File Url="GettingStarted.webpart" Type="GhostableInLibrary" Level="Published" Path="GettingStarted.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="GettingStarted.webpart" />
+			<Property Name="Title" Value="$Resources:core,GettingStartedWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,GettingStartedWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="13" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="13;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\GettingStarted.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.GettingStartedWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,GettingStartedWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,GettingStartedWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,GettingStartedWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1300.00000000000" />
+		</File>
+		<File Url="MSContentEditor.dwp" Type="GhostableInLibrary" Level="Published" Path="MSContentEditor.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSContentEditor.dwp" />
+			<Property Name="Title" Value="$Resources:core,ContentEditorWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,ContentEditorWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="1" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/mscontl.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSContentEditor.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.ContentEditorWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,ContentEditorWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,ContentEditorWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,ContentEditorWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="100.000000000000" />
+		</File>
+		<File Url="MSImage.dwp" Type="GhostableInLibrary" Level="Published" Path="MSImage.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSImage.dwp" />
+			<Property Name="Title" Value="$Resources:core,ImageWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,ImageWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="3" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="3;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msimagel.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSImage.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.ImageWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,ImageWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,ImageWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,ImageWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="300.000000000000" />
+		</File>
+		<File Url="MSMembers.dwp" Type="GhostableInLibrary" Level="Published" Path="MSMembers.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSMembers.dwp" />
+			<Property Name="Title" Value="$Resources:core,MembersWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,MembersWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,PeopleWebPartGroup;" />
+			<Property Name="ID" Value="4" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="4;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,PeopleWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msmeml.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSMembers.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.MembersWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,MembersWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,MembersWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,MembersWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="400.000000000000" />
+		</File>
+		<File Url="MSPageViewer.dwp" Type="GhostableInLibrary" Level="Published" Path="MSPageViewer.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSPageViewer.dwp" />
+			<Property Name="Title" Value="$Resources:core,PageViewerWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,PageViewerWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="2" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/mscntvwl.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSPageViewer.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.PageViewerWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,PageViewerWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,PageViewerWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,PageViewerWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="200.000000000000" />
+		</File>
+		<File Url="MSPictureLibrarySlideshow.webpart" Type="GhostableInLibrary" Level="Published" Path="MSPictureLibrarySlideshow.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSPictureLibrarySlideshow.webpart" />
+			<Property Name="Title" Value="$Resources:core,PictureLibrarySlideshowWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,PictureLibrarySlideshowWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="9" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="9;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSPictureLibrarySlideshow.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.PictureLibrarySlideshowWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,PictureLibrarySlideshowWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,PictureLibrarySlideshowWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,PictureLibrarySlideshowWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="900.000000000000" />
+		</File>
+		<File Url="MSScriptEditor.webpart" Type="GhostableInLibrary" Level="Published" Path="MSScriptEditor.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSScriptEditor.webpart" />
+			<Property Name="Title" Value="$Resources:core,ScriptEditorWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,ScriptEditorWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="11" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="11;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSScriptEditor.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.ScriptEditorWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,ScriptEditorWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,ScriptEditorWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,ScriptEditorWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1100.00000000000" />
+		</File>
+		<File Url="MSSimpleForm.dwp" Type="GhostableInLibrary" Level="Published" Path="MSSimpleForm.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSSimpleForm.dwp" />
+			<Property Name="Title" Value="$Resources:core,FormWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,FormWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,FormsWebPartGroup;" />
+			<Property Name="ID" Value="5" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="5;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,FormsWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/mssfwp.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSSimpleForm.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.SimpleFormWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,FormWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,FormWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,FormWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="500.000000000000" />
+		</File>
+		<File Url="MSUserDocs.dwp" Type="GhostableInLibrary" Level="Published" Path="MSUserDocs.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSUserDocs.dwp" />
+			<Property Name="Title" Value="$Resources:core,UserDocsWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,UserDocsWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="ID" Value="6" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="6;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msusdocs.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSUserDocs.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.UserDocsWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,UserDocsWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,UserDocsWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,UserDocsWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="600.000000000000" />
+		</File>
+		<File Url="MSUserTasks.dwp" Type="GhostableInLibrary" Level="Published" Path="MSUserTasks.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSUserTasks.dwp" />
+			<Property Name="Title" Value="$Resources:core,UserTasksWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,UserTasksWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,PeopleWebPartGroup;" />
+			<Property Name="ID" Value="7" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="7;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,PeopleWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msustask.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSUserTasks.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.UserTasksWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,UserTasksWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,UserTasksWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,UserTasksWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="700.000000000000" />
+		</File>
+		<File Url="MSXml.dwp" Type="GhostableInLibrary" Level="Published" Path="MSXml.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MSXml.dwp" />
+			<Property Name="Title" Value="$Resources:core,XmlWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,XmlWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="ID" Value="8" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="8;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msxmll.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\MSXml.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.XmlWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:core,XmlWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,XmlWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,XmlWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="800.000000000000" />
+		</File>
+		<File Url="Silverlight.webpart" Type="GhostableInLibrary" Level="Published" Path="Silverlight.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Silverlight.webpart" />
+			<Property Name="Title" Value="$Resources:core,SilverlightWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,SilverlightWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="ID" Value="10" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="10;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\Silverlight.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.SilverlightWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,SilverlightWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,SilverlightWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:core,SilverlightWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1000.00000000000" />
+		</File>
+		<File Url="Timeline.webpart" Type="GhostableInLibrary" Level="Published" Path="Timeline.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Timeline.webpart" />
+			<Property Name="Title" Value="$Resources:core,TimelineWebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:core,TimelineWebPart_Description;" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="ID" Value="12" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="12;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BasicWebParts\\Timeline.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.WebPartPages.SPTimelineWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:core,TimelineWebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:core,TimelineWebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:core,TimelineWebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="1200.00000000000" />
+		</File>
+	</Module>
+</Elements>

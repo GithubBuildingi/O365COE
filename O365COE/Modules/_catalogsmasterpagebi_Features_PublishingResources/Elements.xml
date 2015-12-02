@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpagebi_Features\PublishingResources" Url="_catalogs/masterpage/bi" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\bi" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="bi-banded-home.aspx" Type="GhostableInLibrary" Level="Published" Path="bi-banded-home.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="bi-banded-home.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Banded Home Page Layout" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#" />
+			<Property Name="ID" Value="2366" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/bi" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2366;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingResources\\PageLayoutTemplate.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_cachedzones:VR|Zone1 Zone2 Zone3 Zone4 Zone5 Zone6 Zone10 Zone11 Zone12 Zone13&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:27 -0000&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageLayoutTemplate.aspx&#xD;&#xA;vti_title:SW|Banded Home Page Layout&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;PublishingHidden:BW|false&#xD;&#xA;PublishingAssociatedContentType:SW|;#Approved Shared Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2000E4CB7077FEE4FF7AE86D4A500EEC780;#&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/sites/o365coe/test:TW|22 Jun 2015 21:07:16 -0000&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="700.000000000000" />
+		</File>
+	</Module>
+</Elements>

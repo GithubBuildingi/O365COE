@@ -1,0 +1,154 @@
+<?xml version="1.0"?><!-- _lcid="1028" _version="16.0.3912" _dal="1" --><!-- _LocalBinding --><WorkflowConfig Version="15.0.0.411">
+	<Template BaseID="{E43856D2-1BB4-40ef-B08B-016D89A00404}" DocLibURL="_catalogs/wfpub" XomlHref="_catalogs/wfpub/發佈核准/ReviewPublishing_1028.xoml" XomlVersion="V1.0" AssociationURL="~layouts/CstWrkflIP.aspx" TaskContentType="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0404" StartManually="true" Visibility="RootPublic" Category="List;Language:1028;#ContentType;Language:1028" RestrictLanguage="1028" RulesHref="_catalogs/wfpub/發佈核准/ReviewPublishing_1028.xoml.rules" RulesVersion = "V1.0" Description="安排頁面的核准流程。核准者可核准或拒絕頁面、重新指派核准工作，或是要求變更頁面。" PreviewHref="/_catalogs/wfpub/發佈核准/ReviewPublishing_1028.vdw" ShowPreview="true" PreviewVersion="V1.0" AllowStartOnMajorCheckin="true"/>
+	<ContentTypes>
+		<ContentType Name="Publishing Approval Workflow Task (zh-tw)" ContentTypeID="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0404" WorkflowForm="/_catalogs/wfpub/發佈核准/ReviewPublishing_Task_1028.xsn" WorkflowFormVersion = "V0.0" Description="您或您的團隊需要完成之工作流程所建立的工作項目。">
+			<Fields/>
+			<WorkflowFormData>
+				<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dfs:queryFields>
+					</dfs:queryFields>
+					<dfs:dataFields>
+						<d:SharePointListItem_RW>
+							<d:Status/>
+							<d:Author/>
+							<d:FieldName_ConsolidatedComments/>
+							<d:DueDate xsi:nil="true"/>
+							<d:FieldName_Comments/>
+							<d:FieldName_DelegateTo/>
+							<d:FieldName_NewDescription/>
+							<d:FieldName_NewSerialTaskDuration xsi:nil="true"/>
+							<d:FieldName_NewDurationUnits>Day</d:FieldName_NewDurationUnits>
+							<d:FieldName_RequestTo/>
+							<d:Body/>
+							<d:Title/>
+							<d:Priority>(2) Normal</d:Priority>
+							<d:PercentComplete xsi:nil="true"/>
+							<d:AssignedTo/>
+							<d:StartDate/>
+							<d:WorkflowLink Description=""/>
+							<d:OffsiteParticipant/>
+							<d:OffsiteParticipantReason/>
+							<d:WorkflowOutcome/>
+							<d:WorkflowName/>
+							<d:FormURN/>
+							<d:FormData/>
+							<d:EmailBody/>
+							<d:HasCustomEmailBody xsi:nil="true"/>
+							<d:SendEmailNotification xsi:nil="true"/>
+							<d:PendingModTime xsi:nil="true"/>
+							<d:Completed>false</d:Completed>
+							<d:ExtendedProperties/>
+							<d:ID xsi:nil="true"/>
+							<d:Modified xsi:nil="true"/>
+							<d:Created xsi:nil="true"/>
+							<d:Editor/>
+						</d:SharePointListItem_RW>
+					</dfs:dataFields>
+				</dfs:myFields>
+			</WorkflowFormData>
+		</ContentType>
+	</ContentTypes>
+	<Initiation URL="~layouts/IniWrkflIP.aspx">
+		<Fields>
+			<Field Name="Approvers" GroupName="Assignment" FormType="Association" DisplayName="核准者" Type="HybridUser" Description="輸入將接受工作流程所指派工作的人員名稱，並選擇工作的指派順序。請以分號分隔人員名稱。您也可以新增階段，以不同順序將工作指派給更多人員。" Direction="None" InsertButtonText="新增階段">
+				<Default/>
+				<Field Name="Assignee" DisplayName="指派給" List="UserInfo" Description="" Width="305" Type="UserMulti" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" Direction="None"/>
+				<Field Name="Stage" DisplayName="階段" Description="" Width="1" Type="Number" Direction="None" Hidden="TRUE">
+					<Default></Default>
+				</Field>
+				<Field Name="AssignmentType" Format="Dropdown" BaseType="Text" DisplayName="順序" Description="" Width="150" Type="Choice" Direction="None">
+					<Default>Serial</Default>
+					<CHOICES>
+						<CHOICE DisplayName="一次一個 (循序)">Serial</CHOICE>
+						<CHOICE DisplayName="一次全部 (平行)">Parallel</CHOICE>
+					</CHOICES>
+				</Field>
+			</Field>
+			<Field Name="ExpandGroups" FormType="Association" DisplayName="展開群組" Description="針對每個輸入的群組，指派工作給每位成員及其所含的每個群組。" Direction="None" Type="Boolean">
+				<Default>1</Default>
+			</Field>
+			<Field Name="NotificationMessage" FormType="Both" NumLines="5" Sortable="FALSE" RichTextMode="Compatible" DisplayName="要求" Description="此訊息將傳送給獲指派工作的人員。" Direction="None" Type="Note">
+				<Default/>
+			</Field>
+			<Field Name="DueDateforAllTasks" FormType="Both" Format="DateOnly" DisplayName="所有工作到期日" Description="所有工作的到期日。" Direction="None" Type="DateTime">
+				<CustomValidation>
+					<Condition>. != "" and msxsl:string-compare(., xdDate:Now()) &lt; 0</Condition>
+					<Message ScreenTip="此控制項的值必須大於目前的日期和時間。" ShowScreenTipOnly="TRUE">此控制項的值必須大於目前的日期和時間。</Message>
+				</CustomValidation>
+			</Field>
+			<Field Name="DurationforSerialTasks" FormType="Both" Min="1" Max="999" DisplayName="每項工作所需的持續時間" Description="工作到期前的時間量。使用 [持續時間單位] 選擇時間單位。" Direction="None" Type="Number"/>
+			<Field Name="DurationUnits" FormType="Both" Format="Dropdown" BaseType="Text" DisplayName="持續時間單位" Description="定義 [每項工作所需的持續時間] 的時間單位。" Direction="None" Type="Choice">
+				<CHOICES>
+					<CHOICE DisplayName="天">Day</CHOICE>
+					<CHOICE DisplayName="週">Week</CHOICE>
+					<CHOICE DisplayName="月">Month</CHOICE>
+				</CHOICES>
+				<Default>Day</Default>
+			</Field>
+			<Field Name="CC" FormType="Both" List="UserInfo" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" DisplayName="副本" Description="工作流程開始結束時通知這些人員，而不為其指派工作。" Direction="None" Type="UserMulti" Mult="TRUE"/>
+			<Field Name="CancelonRejection" FormType="Association" DisplayName="首次拒絕時結束" Description="若文件遭任何參與者拒絕，則自動拒絕此文件。" Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="CancelonChange" FormType="Association" DisplayName="文件變更時結束" Description="若文件在工作流程完成前已變更，則自動拒絕此文件。" Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="EnableContentApproval" FormType="Association" DisplayName="啟用內容核准" Description="工作流程完成後，更新核准狀態 (使用此工作流程控制內容核准)。" Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+		</Fields>
+		<Parameters>
+			<Parameter Name="Approvers" Type="System.String"/>
+			<Parameter Name="ExpandGroups" Type="System.Boolean"/>
+			<Parameter Name="NotificationMessage" Type="System.String"/>
+			<Parameter Name="DueDateforAllTasks" Type="System.DateTime"/>
+			<Parameter Name="DurationforSerialTasks" Type="System.Double"/>
+			<Parameter Name="DurationUnits" Type="System.String"/>
+			<Parameter Name="CC" Type="System.String"/>
+			<Parameter Name="CancelonRejection" Type="System.Boolean"/>
+			<Parameter Name="CancelonChange" Type="System.Boolean"/>
+			<Parameter Name="EnableContentApproval" Type="System.Boolean"/>
+		</Parameters>
+		<DefaultData>
+			<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<dfs:queryFields>
+				</dfs:queryFields>
+				<dfs:dataFields>
+					<d:SharePointListItem_RW>
+						<d:Approvers>
+							<d:Assignment>
+								<d:Assignee/>
+								<d:Stage xsi:nil="true"/>
+								<d:AssignmentType>Serial</d:AssignmentType>
+							</d:Assignment>
+						</d:Approvers>
+						<d:ExpandGroups>true</d:ExpandGroups>
+						<d:NotificationMessage/>
+						<d:DueDateforAllTasks xsi:nil="true"/>
+						<d:DurationforSerialTasks xsi:nil="true"/>
+						<d:DurationUnits>Day</d:DurationUnits>
+						<d:CC/>
+						<d:CancelonRejection>false</d:CancelonRejection>
+						<d:CancelonChange>false</d:CancelonChange>
+						<d:EnableContentApproval>false</d:EnableContentApproval>
+					</d:SharePointListItem_RW>
+				</dfs:dataFields>
+			</dfs:myFields>
+		</DefaultData>
+	</Initiation>
+	<Extended>
+		<Fields/>
+	</Extended>
+	<MetaData>
+		<TaskForms/>
+		<Modifications ModificationUrl="~layouts/ModWrkflIP.aspx">
+			<Modification TypeId="a938eabe-8db1-45b9-87cb-b930728afe10" NameFormat="取消所有 {0} 工作" FormURN="urn:schemas-microsoft-com:office:infopath:workflow:OOB-WrapItUp:1028"/>
+		</Modifications>
+		<Instantiation_FormURI Version= "V0.0">/_catalogs/wfpub/發佈核准/reviewpublishing_1028.xsn</Instantiation_FormURI>
+		<Association_FormURN Version= "V0.0">/_catalogs/wfpub/發佈核准/reviewpublishing_1028.xsn</Association_FormURN>
+		<ExtendedStatusColumnValues>
+			<StatusColumnValue>已取消</StatusColumnValue>
+			<StatusColumnValue>已核准</StatusColumnValue>
+			<StatusColumnValue>已拒絕</StatusColumnValue>
+		</ExtendedStatusColumnValues>
+	</MetaData>
+</WorkflowConfig>

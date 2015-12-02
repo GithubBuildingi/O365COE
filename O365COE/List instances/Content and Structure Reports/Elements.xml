@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-de22-43b2-a848-c05709900100}" TemplateType="100" Title="Content and Structure Reports" Description="Use the reports list to customize the queries that appear in the Content and Structure Tool views" Url="Reports List" CustomSchema="Files\Reports List\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

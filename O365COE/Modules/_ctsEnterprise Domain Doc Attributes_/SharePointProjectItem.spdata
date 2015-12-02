@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_cts\Enterprise Domain Doc Attributes\_docsethomepage.aspx" Target="Files\_cts\Enterprise Domain Doc Attributes\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_cts\Enterprise Domain Doc Attributes\docsethomepage.aspx" Target="Files\_cts\Enterprise Domain Doc Attributes\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_ctsEnterprise Domain Doc Attributes_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

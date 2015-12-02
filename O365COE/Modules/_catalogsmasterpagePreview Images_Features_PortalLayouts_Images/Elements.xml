@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpagePreview Images_Features\PortalLayouts\Images" Url="_catalogs/masterpage/Preview Images" SetupPath="Features\PortalLayouts\Images" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Preview Images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="advancedsearch.gif" Type="GhostableInLibrary" Level="Published" Path="advancedsearch.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="advancedsearch.gif" />
+			<Property Name="ID" Value="2217" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2217;#" />
+			<Property Name="Order" Value="221700.000000000" />
+		</File>
+		<File Url="advancedsearch.png" Type="GhostableInLibrary" Level="Published" Path="advancedsearch.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="advancedsearch.png" />
+			<Property Name="ID" Value="2213" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2213;#" />
+			<Property Name="Order" Value="221300.000000000" />
+		</File>
+		<File Url="peoplesearchpage.gif" Type="GhostableInLibrary" Level="Published" Path="peoplesearchpage.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="peoplesearchpage.gif" />
+			<Property Name="ID" Value="2218" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2218;#" />
+			<Property Name="Order" Value="221800.000000000" />
+		</File>
+		<File Url="peoplesearchpage.png" Type="GhostableInLibrary" Level="Published" Path="peoplesearchpage.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="peoplesearchpage.png" />
+			<Property Name="ID" Value="2214" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2214;#" />
+			<Property Name="Order" Value="221400.000000000" />
+		</File>
+		<File Url="searchpage.gif" Type="GhostableInLibrary" Level="Published" Path="searchpage.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="searchpage.gif" />
+			<Property Name="ID" Value="2220" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2220;#" />
+			<Property Name="Order" Value="222000.000000000" />
+		</File>
+		<File Url="searchpage.png" Type="GhostableInLibrary" Level="Published" Path="searchpage.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="searchpage.png" />
+			<Property Name="ID" Value="2216" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2216;#" />
+			<Property Name="Order" Value="221600.000000000" />
+		</File>
+		<File Url="searchresults.gif" Type="GhostableInLibrary" Level="Published" Path="searchresults.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="searchresults.gif" />
+			<Property Name="ID" Value="2219" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2219;#" />
+			<Property Name="Order" Value="221900.000000000" />
+		</File>
+		<File Url="searchresults.png" Type="GhostableInLibrary" Level="Published" Path="searchresults.png">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="searchresults.png" />
+			<Property Name="ID" Value="2215" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2215;#" />
+			<Property Name="Order" Value="221500.000000000" />
+		</File>
+		<File Url="sitedir_layout.gif" Type="GhostableInLibrary" Level="Published" Path="sitedir_layout.gif">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="sitedir_layout.gif" />
+			<Property Name="ID" Value="2212" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2212;#" />
+			<Property Name="Order" Value="221200.000000000" />
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageO365js_" Url="_catalogs/masterpage/O365/js" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\O365\js" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="foundation.min.js" Type="GhostableInLibrary" Level="Draft" Path="foundation.min.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.min.js" />
+			<Property Name="Title" Value="foundation.min" />
+			<Property Name="ID" Value="2353" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2353;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.min.js&#xD;&#xA;vti_title:SW|foundation.min&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="235300.000000000" />
+		</File>
+		<File Url="O365COE.js" Type="GhostableInLibrary" Level="Published" Path="O365COE.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="O365COE.js" />
+			<Property Name="Title" Value="O365COE.js" />
+			<Property Name="ID" Value="2354" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2354;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/COEArticlePage.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-chrbro@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|O365COE.js&#xD;&#xA;vti_title:SW|O365COE.js&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="235400.000000000" />
+		</File>
+		<File Url="O365COE-2.js" Type="GhostableInLibrary" Level="Published" Path="O365COE-2.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="O365COE-2.js" />
+			<Property Name="ID" Value="2406" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2406;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_author:SR|i:0#.f|membership|b-misven@microsoft.com&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|b-misven@microsoft.com&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;vti_title:SW|&#xD;&#xA;" />
+			<Property Name="Order" Value="240600.000000000" />
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\wfpub\Odobrenje za objavljivanje\ReviewPublishing_1050.xoml.wfconfig.xml" Target="Files\_catalogs\wfpub\Odobrenje za objavljivanje\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogswfpubOdobrenje za objavljivanje_Features_ReviewPublishingSPD1050\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

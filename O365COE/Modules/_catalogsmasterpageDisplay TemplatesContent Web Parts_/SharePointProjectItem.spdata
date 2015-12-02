@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_AnnouncementAccordion.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_AnnouncementAccordion.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsCarousel.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsCarousel.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsList.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsList.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsList_TwoColumn.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsList_TwoColumn.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsListWithPaging.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_IT_NewsListWithPaging.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_O365_Topic.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_O365_Topic.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_O365List.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_O365List.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_AnnouncementAccordion.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_AnnouncementAccordion.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_Arch_KB.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_Arch_KB.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsCarousel.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsCarousel.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsDetail.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsDetail.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsList.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_IT_NewsList.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_O365TwoLinesNoIcon.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_O365TwoLinesNoIcon.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_PictureTitleOnTop.html" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_PictureTitleOnTop.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpageDisplay TemplatesContent Web Parts_\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

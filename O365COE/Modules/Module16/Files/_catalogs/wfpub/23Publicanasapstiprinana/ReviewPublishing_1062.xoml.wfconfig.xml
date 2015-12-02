@@ -1,0 +1,154 @@
+<?xml version="1.0"?><!-- _lcid="1062" _version="16.0.3912" _dal="1" --><!-- _LocalBinding --><WorkflowConfig Version="15.0.0.411">
+	<Template BaseID="{E43856D2-1BB4-40ef-B08B-016D89A00426}" DocLibURL="_catalogs/wfpub" XomlHref="_catalogs/wfpub/Publicēšanas apstiprināšana/ReviewPublishing_1062.xoml" XomlVersion="V1.0" AssociationURL="~layouts/CstWrkflIP.aspx" TaskContentType="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0426" StartManually="true" Visibility="RootPublic" Category="List;Language:1062;#ContentType;Language:1062" RestrictLanguage="1062" RulesHref="_catalogs/wfpub/Publicēšanas apstiprināšana/ReviewPublishing_1062.xoml.rules" RulesVersion = "V1.0" Description="Maršrutē lapu apstiprināšanai. Apstiprinātāji var apstiprināt vai noraidīt šo lapu, piešķirt apstiprināšanas uzdevumu no jauna vai pieprasīt izmaiņas lapā." PreviewHref="/_catalogs/wfpub/Publicēšanas apstiprināšana/ReviewPublishing_1062.vdw" ShowPreview="true" PreviewVersion="V1.0" AllowStartOnMajorCheckin="true"/>
+	<ContentTypes>
+		<ContentType Name="Publishing Approval Workflow Task (lv-lv)" ContentTypeID="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0426" WorkflowForm="/_catalogs/wfpub/Publicēšanas apstiprināšana/ReviewPublishing_Task_1062.xsn" WorkflowFormVersion = "V0.0" Description="Darbplūsmas izveidots darba uzdevums, kas jāpabeidz jums vai jūsu grupai.">
+			<Fields/>
+			<WorkflowFormData>
+				<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dfs:queryFields>
+					</dfs:queryFields>
+					<dfs:dataFields>
+						<d:SharePointListItem_RW>
+							<d:Status/>
+							<d:Author/>
+							<d:FieldName_ConsolidatedComments/>
+							<d:DueDate xsi:nil="true"/>
+							<d:FieldName_Comments/>
+							<d:FieldName_DelegateTo/>
+							<d:FieldName_NewDescription/>
+							<d:FieldName_NewSerialTaskDuration xsi:nil="true"/>
+							<d:FieldName_NewDurationUnits>Day</d:FieldName_NewDurationUnits>
+							<d:FieldName_RequestTo/>
+							<d:Body/>
+							<d:Title/>
+							<d:Priority>(2) Normal</d:Priority>
+							<d:PercentComplete xsi:nil="true"/>
+							<d:AssignedTo/>
+							<d:StartDate/>
+							<d:WorkflowLink Description=""/>
+							<d:OffsiteParticipant/>
+							<d:OffsiteParticipantReason/>
+							<d:WorkflowOutcome/>
+							<d:WorkflowName/>
+							<d:FormURN/>
+							<d:FormData/>
+							<d:EmailBody/>
+							<d:HasCustomEmailBody xsi:nil="true"/>
+							<d:SendEmailNotification xsi:nil="true"/>
+							<d:PendingModTime xsi:nil="true"/>
+							<d:Completed>false</d:Completed>
+							<d:ExtendedProperties/>
+							<d:ID xsi:nil="true"/>
+							<d:Modified xsi:nil="true"/>
+							<d:Created xsi:nil="true"/>
+							<d:Editor/>
+						</d:SharePointListItem_RW>
+					</dfs:dataFields>
+				</dfs:myFields>
+			</WorkflowFormData>
+		</ContentType>
+	</ContentTypes>
+	<Initiation URL="~layouts/IniWrkflIP.aspx">
+		<Fields>
+			<Field Name="Approvers" GroupName="Assignment" FormType="Association" DisplayName="Apstiprinātāji" Type="HybridUser" Description="Ievadiet to personu vārdus, kam darbplūsma piešķirs uzdevumus, un izvēlieties šo uzdevumu piešķiršanas secību. Saraksta elementus atdaliet ar semikolu. Lai papildu lietotājiem piešķirtu uzdevumus citā secībā, var pievienot posmus." Direction="None" InsertButtonText="Pievienot jaunu posmu">
+				<Default/>
+				<Field Name="Assignee" DisplayName="Kam piešķirt" List="UserInfo" Description="" Width="305" Type="UserMulti" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" Direction="None"/>
+				<Field Name="Stage" DisplayName="Posms" Description="" Width="1" Type="Number" Direction="None" Hidden="TRUE">
+					<Default></Default>
+				</Field>
+				<Field Name="AssignmentType" Format="Dropdown" BaseType="Text" DisplayName="Secība" Description="" Width="150" Type="Choice" Direction="None">
+					<Default>Serial</Default>
+					<CHOICES>
+						<CHOICE DisplayName="Pa vienam (seriāli)">Serial</CHOICE>
+						<CHOICE DisplayName="Visi vienlaikus (paralēli)">Parallel</CHOICE>
+					</CHOICES>
+				</Field>
+			</Field>
+			<Field Name="ExpandGroups" FormType="Association" DisplayName="Izvērst grupas" Description="Katrā ievadītajā grupā piešķiriet uzdevumu katram atsevišķajam dalībniekam un katrai ietvertajai grupai." Direction="None" Type="Boolean">
+				<Default>1</Default>
+			</Field>
+			<Field Name="NotificationMessage" FormType="Both" NumLines="5" Sortable="FALSE" RichTextMode="Compatible" DisplayName="Pieprasījums" Description="Šis ziņojums tiks nosūtīts lietotājiem, kas piešķīra uzdevumus." Direction="None" Type="Note">
+				<Default/>
+			</Field>
+			<Field Name="DueDateforAllTasks" FormType="Both" Format="DateOnly" DisplayName="Visu uzdevumu izpildes datums" Description="Visu uzdevumu pabeigšanas termiņš." Direction="None" Type="DateTime">
+				<CustomValidation>
+					<Condition>. != "" and msxsl:string-compare(., xdDate:Now()) &lt; 0</Condition>
+					<Message ScreenTip="Šīs vadīklas vērtībām ir jābūt lielākām nekā pašreizējam datumam un laikam." ShowScreenTipOnly="TRUE">Šīs vadīklas vērtībām ir jābūt lielākām nekā pašreizējam datumam un laikam.</Message>
+				</CustomValidation>
+			</Field>
+			<Field Name="DurationforSerialTasks" FormType="Both" Min="1" Max="999" DisplayName="Katra uzdevuma ilgums" Description="Laiks līdz uzdevuma pabeigšanas termiņam. Vienības izvēlieties, izmantojot Ilguma vienības." Direction="None" Type="Number"/>
+			<Field Name="DurationUnits" FormType="Both" Format="Dropdown" BaseType="Text" DisplayName="Ilguma vienības" Description="Definēt laukā Katra uzdevuma ilgums izmantotās laika vienības." Direction="None" Type="Choice">
+				<CHOICES>
+					<CHOICE DisplayName="Diena(s)">Day</CHOICE>
+					<CHOICE DisplayName="Nedēļa(s)">Week</CHOICE>
+					<CHOICE DisplayName="Mēnesis(ši)">Month</CHOICE>
+				</CHOICES>
+				<Default>Day</Default>
+			</Field>
+			<Field Name="CC" FormType="Both" List="UserInfo" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" DisplayName="Kopija" Description="Paziņot šīm personām par šīs darbplūsmas sākšanos un beigām, nepiešķirot tām uzdevumus." Direction="None" Type="UserMulti" Mult="TRUE"/>
+			<Field Name="CancelonRejection" FormType="Association" DisplayName="Beigt līdz ar pirmo noraidījumu" Description="Automātiski noraidīt dokumentu, ja kāds dalībnieks to noraida." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="CancelonChange" FormType="Association" DisplayName="Beigt līdz ar dokumenta izmaiņām" Description="Automātiski noraidīt dokumentu, ja pirms darbplūsmas pabeigšanas tas tiek mainīts." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="EnableContentApproval" FormType="Association" DisplayName="Iespējot satura apstiprināšanu" Description="Atjaunināt apstiprināšanas statusu pēc darbplūsmas pabeigšanas (izmantojiet šo darbplūsmu, lai kontrolētu satura apstiprināšanu)." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+		</Fields>
+		<Parameters>
+			<Parameter Name="Approvers" Type="System.String"/>
+			<Parameter Name="ExpandGroups" Type="System.Boolean"/>
+			<Parameter Name="NotificationMessage" Type="System.String"/>
+			<Parameter Name="DueDateforAllTasks" Type="System.DateTime"/>
+			<Parameter Name="DurationforSerialTasks" Type="System.Double"/>
+			<Parameter Name="DurationUnits" Type="System.String"/>
+			<Parameter Name="CC" Type="System.String"/>
+			<Parameter Name="CancelonRejection" Type="System.Boolean"/>
+			<Parameter Name="CancelonChange" Type="System.Boolean"/>
+			<Parameter Name="EnableContentApproval" Type="System.Boolean"/>
+		</Parameters>
+		<DefaultData>
+			<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<dfs:queryFields>
+				</dfs:queryFields>
+				<dfs:dataFields>
+					<d:SharePointListItem_RW>
+						<d:Approvers>
+							<d:Assignment>
+								<d:Assignee/>
+								<d:Stage xsi:nil="true"/>
+								<d:AssignmentType>Serial</d:AssignmentType>
+							</d:Assignment>
+						</d:Approvers>
+						<d:ExpandGroups>true</d:ExpandGroups>
+						<d:NotificationMessage/>
+						<d:DueDateforAllTasks xsi:nil="true"/>
+						<d:DurationforSerialTasks xsi:nil="true"/>
+						<d:DurationUnits>Day</d:DurationUnits>
+						<d:CC/>
+						<d:CancelonRejection>false</d:CancelonRejection>
+						<d:CancelonChange>false</d:CancelonChange>
+						<d:EnableContentApproval>false</d:EnableContentApproval>
+					</d:SharePointListItem_RW>
+				</dfs:dataFields>
+			</dfs:myFields>
+		</DefaultData>
+	</Initiation>
+	<Extended>
+		<Fields/>
+	</Extended>
+	<MetaData>
+		<TaskForms/>
+		<Modifications ModificationUrl="~layouts/ModWrkflIP.aspx">
+			<Modification TypeId="a938eabe-8db1-45b9-87cb-b930728afe10" NameFormat="Atcelt visus darbplūsmas {0} uzdevumus" FormURN="urn:schemas-microsoft-com:office:infopath:workflow:OOB-WrapItUp:1062"/>
+		</Modifications>
+		<Instantiation_FormURI Version= "V0.0">/_catalogs/wfpub/Publicēšanas apstiprināšana/reviewpublishing_1062.xsn</Instantiation_FormURI>
+		<Association_FormURN Version= "V0.0">/_catalogs/wfpub/Publicēšanas apstiprināšana/reviewpublishing_1062.xsn</Association_FormURN>
+		<ExtendedStatusColumnValues>
+			<StatusColumnValue>Atcelta</StatusColumnValue>
+			<StatusColumnValue>Apstiprināts</StatusColumnValue>
+			<StatusColumnValue>Noraidīts</StatusColumnValue>
+		</ExtendedStatusColumnValues>
+	</MetaData>
+</WorkflowConfig>

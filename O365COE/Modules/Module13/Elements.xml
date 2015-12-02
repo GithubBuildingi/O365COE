@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubKözzététel jóváhagyása_Features\ReviewPublishingSPD1038" Url="_catalogs/wfpub/Közzététel jóváhagyása" SetupPath="Features\ReviewPublishingSPD1038" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\12Kzztteljvhagysa" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_1038.vdw" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1038.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1038.vdw" />
+			<Property Name="ID" Value="161" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Közzététel jóváhagyása" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="161;#" />
+			<Property Name="Order" Value="16100.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1038.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1038.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1038.xoml.rules" />
+			<Property Name="ID" Value="157" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Közzététel jóváhagyása" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="157;#" />
+			<Property Name="Order" Value="15700.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1038.xoml" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1038.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1038.xoml" />
+			<Property Name="ID" Value="156" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Közzététel jóváhagyása" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="156;#" />
+			<Property Name="Order" Value="15600.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1038.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1038.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1038.xsn" />
+			<Property Name="ID" Value="159" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Közzététel jóváhagyása" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="159;#" />
+			<Property Name="Order" Value="15900.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_Task_1038.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_Task_1038.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_Task_1038.xsn" />
+			<Property Name="ID" Value="160" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Közzététel jóváhagyása" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="160;#" />
+			<Property Name="Order" Value="16000.0000000000" />
+		</File>
+	</Module>
+</Elements>

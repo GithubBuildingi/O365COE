@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesSearch_Features\SearchWebParts\DisplayTemplates" Url="_catalogs/masterpage/Display Templates/Search" SetupPath="Features\SearchWebParts\DisplayTemplates" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Search" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_Blank.js" Type="GhostableInLibrary" Level="Published" Path="Control_Blank.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_Blank.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Blank Control" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="1809" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1809;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Control_Blank.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Blank Control&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180900.000000000" />
+		</File>
+		<File Url="Control_SearchBox.js" Type="GhostableInLibrary" Level="Published" Path="Control_SearchBox.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_SearchBox.js" />
+			<Property Name="MasterPageDescription" Value="Displays the Search Box control." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Search Box" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchBox;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="1807" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1807;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchBox;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Control_SearchBox.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Search Box&#xD;&#xA;MasterPageDescription:SR|Displays the Search Box control.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180700.000000000" />
+		</File>
+		<File Url="Control_SearchBox_Compact.js" Type="GhostableInLibrary" Level="Published" Path="Control_SearchBox_Compact.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_SearchBox_Compact.js" />
+			<Property Name="MasterPageDescription" Value="Displays the Search Box control in a compact form." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Site Search Box" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchBox;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="1808" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1808;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchBox;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Control_SearchBox_Compact.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Site Search Box&#xD;&#xA;MasterPageDescription:SR|Displays the Search Box control in a compact form.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180800.000000000" />
+		</File>
+		<File Url="Control_SearchResults.js" Type="GhostableInLibrary" Level="Published" Path="Control_SearchResults.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_SearchResults.js" />
+			<Property Name="MasterPageDescription" Value="Displays the Search Results control." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Result" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="1806" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1806;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Control_SearchResults.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Result&#xD;&#xA;MasterPageDescription:SR|Displays the Search Results control.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180600.000000000" />
+		</File>
+		<File Url="Group_Default.js" Type="GhostableInLibrary" Level="Published" Path="Group_Default.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Group_Default.js" />
+			<Property Name="MasterPageDescription" Value="Displays the default group template. Items can be horizontally or vertically depending on how the item template styled." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Group" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Group" />
+			<Property Name="ID" Value="1805" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1805;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Group_Default.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Group&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Group&#xD;&#xA;MasterPageDescription:SR|Displays the default group template. Items can be horizontally or vertically depending on how the item template styled.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180500.000000000" />
+		</File>
+		<File Url="Item_BestBet.js" Type="GhostableInLibrary" Level="Published" Path="Item_BestBet.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_BestBet.js" />
+			<Property Name="MasterPageDescription" Value="Displays a single Best Bet or Promoted result." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Best Bet Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1793" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1793;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_BestBet.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Best Bet Item&#xD;&#xA;MasterPageDescription:SR|Displays a single Best Bet or Promoted result.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179300.000000000" />
+		</File>
+		<File Url="Item_CommonHoverPanel_Actions.js" Type="GhostableInLibrary" Level="Published" Path="Item_CommonHoverPanel_Actions.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CommonHoverPanel_Actions.js" />
+			<Property Name="MasterPageDescription" Value="Displays the hover panel actions that are common to all results." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Common Hover Panel Actions" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1811" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1811;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_CommonHoverPanel_Actions.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Common Hover Panel Actions&#xD;&#xA;MasterPageDescription:SR|Displays the hover panel actions that are common to all results.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181100.000000000" />
+		</File>
+		<File Url="Item_CommonHoverPanel_Body.js" Type="GhostableInLibrary" Level="Published" Path="Item_CommonHoverPanel_Body.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CommonHoverPanel_Body.js" />
+			<Property Name="MasterPageDescription" Value="Displays the hover panel footer elements that are common to all results." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Common Hover Panel Body" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1812" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1812;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_CommonHoverPanel_Body.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Common Hover Panel Body&#xD;&#xA;MasterPageDescription:SR|Displays the hover panel footer elements that are common to all results.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181200.000000000" />
+		</File>
+		<File Url="Item_CommonHoverPanel_Header.js" Type="GhostableInLibrary" Level="Published" Path="Item_CommonHoverPanel_Header.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CommonHoverPanel_Header.js" />
+			<Property Name="MasterPageDescription" Value="Displays the hover panel header elements that are common to all results." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Common Hover Panel Header" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1813" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1813;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_CommonHoverPanel_Header.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Common Hover Panel Header&#xD;&#xA;MasterPageDescription:SR|Displays the hover panel header elements that are common to all results.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181300.000000000" />
+		</File>
+		<File Url="Item_CommonItem_Body.js" Type="GhostableInLibrary" Level="Published" Path="Item_CommonItem_Body.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CommonItem_Body.js" />
+			<Property Name="MasterPageDescription" Value="Displays the inline result body elements that are common to all results." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Common Item Body" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1786" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1786;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_CommonItem_Body.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Common Item Body&#xD;&#xA;MasterPageDescription:SR|Displays the inline result body elements that are common to all results.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="178600.000000000" />
+		</File>
+		<File Url="Item_Community.js" Type="GhostableInLibrary" Level="Published" Path="Item_Community.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Community.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Community Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','CommunityMembersCount':'CommunityMembersCount','CommunityRepliesCount':'CommunityRepliesCount','CommunityTopicsCount':'CommunityTopicsCount'" />
+			<Property Name="ID" Value="1787" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1787;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Community.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','CommunityMembersCount':'CommunityMembersCount','CommunityRepliesCount':'CommunityRepliesCount','CommunityTopicsCount':'CommunityTopicsCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Community Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="178700.000000000" />
+		</File>
+		<File Url="Item_Community_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Community_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Community_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Community Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','CommunityMembersCount':'CommunityMembersCount','CommunityRepliesCount':'CommunityRepliesCount','CommunityTopicsCount':'CommunityTopicsCount'" />
+			<Property Name="ID" Value="1814" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1814;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Community_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','CommunityMembersCount':'CommunityMembersCount','CommunityRepliesCount':'CommunityRepliesCount','CommunityTopicsCount':'CommunityTopicsCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Community Hover Panel&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181400.000000000" />
+		</File>
+		<File Url="Item_Default.js" Type="GhostableInLibrary" Level="Published" Path="Item_Default.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Default.js" />
+			<Property Name="MasterPageDescription" Value="Displays the default result item template." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1785" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1785;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Default.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Item&#xD;&#xA;MasterPageDescription:SR|Displays the default result item template.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="178500.000000000" />
+		</File>
+		<File Url="Item_Default_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Default_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Default_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays the default hover panel template." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1810" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1810;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Default_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays the default hover panel template.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181000.000000000" />
+		</File>
+		<File Url="Item_Discussion.js" Type="GhostableInLibrary" Level="Published" Path="Item_Discussion.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Discussion.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Discussion Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'" />
+			<Property Name="ID" Value="1788" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1788;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Discussion.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Discussion Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="178800.000000000" />
+		</File>
+		<File Url="Item_Discussion_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Discussion_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Discussion_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Discussion Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'" />
+			<Property Name="ID" Value="1815" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1815;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Discussion_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Discussion Hover Panel&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181500.000000000" />
+		</File>
+		<File Url="Item_Excel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Excel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Excel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for Microsoft Excel documents." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Excel Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','ServerRedirectedURL':'ServerRedirectedURL','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1794" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1794;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Excel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','ServerRedirectedURL':'ServerRedirectedURL','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Excel Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for Microsoft Excel documents.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179400.000000000" />
+		</File>
+		<File Url="Item_Excel_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Excel_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Excel_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for Microsoft Excel documents." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Excel Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1817" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1817;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Excel_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Excel Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for Microsoft Excel documents.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181700.000000000" />
+		</File>
+		<File Url="Item_MicroBlog.js" Type="GhostableInLibrary" Level="Published" Path="Item_MicroBlog.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_MicroBlog.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for Microblog feed posts and replies." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Microblog Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1828" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1828;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_MicroBlog.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Microblog Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for Microblog feed posts and replies.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182800.000000000" />
+		</File>
+		<File Url="Item_MicroBlog_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_MicroBlog_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_MicroBlog_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for Microblog feed posts and replies." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Microblog Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1829" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1829;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_MicroBlog_HoverPanel.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Microblog Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for Microblog feed posts and replies.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182900.000000000" />
+		</File>
+		<File Url="Item_OfficeDocument.js" Type="GhostableInLibrary" Level="Published" Path="Item_OfficeDocument.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_OfficeDocument.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a Microsoft Office document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Office Document Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1795" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1795;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_OfficeDocument.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Office Document Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a Microsoft Office document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179500.000000000" />
+		</File>
+		<File Url="Item_OfficeDocument_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_OfficeDocument_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_OfficeDocument_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a Microsoft Office document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Office Document Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1819" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1819;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_OfficeDocument_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Office Document Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a Microsoft Office document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181900.000000000" />
+		</File>
+		<File Url="Item_OneNote.js" Type="GhostableInLibrary" Level="Published" Path="Item_OneNote.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_OneNote.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a Microsoft OneNote document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="OneNote Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1796" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1796;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_OneNote.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|OneNote Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a Microsoft OneNote document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179600.000000000" />
+		</File>
+		<File Url="Item_OneNote_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_OneNote_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_OneNote_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a Microsoft OneNote document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="OneNote Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1822" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1822;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_OneNote_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|OneNote Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a Microsoft OneNote document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182200.000000000" />
+		</File>
+		<File Url="Item_PDF.js" Type="GhostableInLibrary" Level="Published" Path="Item_PDF.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PDF.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a Portable Document Format (PDF) document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="PDF Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1797" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1797;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_PDF.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|PDF Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a Portable Document Format (PDF) document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179700.000000000" />
+		</File>
+		<File Url="Item_PDF_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_PDF_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PDF_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a Portable Document Format (PDF) document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="PDF Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'" />
+			<Property Name="ID" Value="1818" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1818;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_PDF_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|PDF Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a Portable Document Format (PDF) document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181800.000000000" />
+		</File>
+		<File Url="Item_Person.js" Type="GhostableInLibrary" Level="Published" Path="Item_Person.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Person.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a person." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="People Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1801" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1801;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Person.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|People Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a person.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180100.000000000" />
+		</File>
+		<File Url="Item_Person_CompactHorizontal.js" Type="GhostableInLibrary" Level="Published" Path="Item_Person_CompactHorizontal.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Person_CompactHorizontal.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for showing a person in a compact and horizontal layout." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="People Intent Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1802" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1802;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Person_CompactHorizontal.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|People Intent Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for showing a person in a compact and horizontal layout.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180200.000000000" />
+		</File>
+		<File Url="Item_Person_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Person_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Person_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a person." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="People Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'AccountName':'AccountName','PreferredName':'PreferredName','YomiDisplayName':'YomiDisplayName','JobTitle':'JobTitle','Department':'Department','PictureURL':'PictureURL','WorkEmail':'WorkEmail','Path':'Path','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','Responsibilities':'Responsibilities','Skills':'Skills','SipAddress':'SipAddress','Schools':'Schools','PastProjects':'PastProjects','Interests':'Interests','Memberships':'Memberships','AboutMe':'AboutMe','BaseOfficeLocation':'BaseOfficeLocation'" />
+			<Property Name="ID" Value="1825" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1825;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Person_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'AccountName':'AccountName','PreferredName':'PreferredName','YomiDisplayName':'YomiDisplayName','JobTitle':'JobTitle','Department':'Department','PictureURL':'PictureURL','WorkEmail':'WorkEmail','Path':'Path','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','Responsibilities':'Responsibilities','Skills':'Skills','SipAddress':'SipAddress','Schools':'Schools','PastProjects':'PastProjects','Interests':'Interests','Memberships':'Memberships','AboutMe':'AboutMe','BaseOfficeLocation':'BaseOfficeLocation'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|People Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a person.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182500.000000000" />
+		</File>
+		<File Url="Item_PersonalFavorite.js" Type="GhostableInLibrary" Level="Published" Path="Item_PersonalFavorite.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PersonalFavorite.js" />
+			<Property Name="MasterPageDescription" Value="Displays a personal favorite result. A personal favorite is a result a user has clicked on before." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Personal Result Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="1798" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1798;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_PersonalFavorite.js&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Personal Result Item&#xD;&#xA;MasterPageDescription:SR|Displays a personal favorite result. A personal favorite is a result a user has clicked on before.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179800.000000000" />
+		</File>
+		<File Url="Item_Picture.js" Type="GhostableInLibrary" Level="Published" Path="Item_Picture.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Picture.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a picture." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Picture Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','PictureHeight':'PictureHeight','PictureWidth':'PictureWidth','ImageDateCreated':'ImageDateCreated','PictureThumbnailURL':'PictureThumbnailURL','PictureURL':'PictureURL'" />
+			<Property Name="ID" Value="1799" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1799;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Picture.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','PictureHeight':'PictureHeight','PictureWidth':'PictureWidth','ImageDateCreated':'ImageDateCreated','PictureThumbnailURL':'PictureThumbnailURL','PictureURL':'PictureURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Picture Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a picture.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179900.000000000" />
+		</File>
+		<File Url="Item_Picture_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Picture_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Picture_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a picture." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Picture Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','PictureHeight':'PictureHeight','PictureWidth':'PictureWidth','ImageDateCreated':'ImageDateCreated','PictureThumbnailURL':'PictureThumbnailURL','PictureURL':'PictureURL'" />
+			<Property Name="ID" Value="1823" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1823;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Picture_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','PictureHeight':'PictureHeight','PictureWidth':'PictureWidth','ImageDateCreated':'ImageDateCreated','PictureThumbnailURL':'PictureThumbnailURL','PictureURL':'PictureURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Picture Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a picture.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182300.000000000" />
+		</File>
+		<File Url="Item_PowerPoint.js" Type="GhostableInLibrary" Level="Published" Path="Item_PowerPoint.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PowerPoint.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a Microsoft PowerPoint document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="PowerPoint Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1800" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1800;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_PowerPoint.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|PowerPoint Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a Microsoft PowerPoint document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180000.000000000" />
+		</File>
+		<File Url="Item_PowerPoint_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_PowerPoint_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PowerPoint_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a Microsoft PowerPoint document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="PowerPoint Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1821" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1821;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_PowerPoint_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|PowerPoint Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a Microsoft PowerPoint document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182100.000000000" />
+		</File>
+		<File Url="Item_Reply.js" Type="GhostableInLibrary" Level="Published" Path="Item_Reply.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Reply.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Reply Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'" />
+			<Property Name="ID" Value="1789" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1789;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Reply.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Reply Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="178900.000000000" />
+		</File>
+		<File Url="Item_Reply_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Reply_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Reply_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Reply Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'" />
+			<Property Name="ID" Value="1816" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1816;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Reply_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','AuthorOWSUSER':'AuthorOWSUSER','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType','ReplyCount':'ReplyCount','LikesCount':'LikesCount','BestAnswerId':'BestAnswerId','DiscussionCategory':'DiscussionCategory','DiscussionPost':'DiscussionPost','Created':'Created','DiscussionLikesCount':'DiscussionLikesCount'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Reply Hover Panel&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="181600.000000000" />
+		</File>
+		<File Url="Item_Site.js" Type="GhostableInLibrary" Level="Published" Path="Item_Site.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Site.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a SharePoint site." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Site Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType'" />
+			<Property Name="ID" Value="1790" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1790;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Site.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Site Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a SharePoint site.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179000.000000000" />
+		</File>
+		<File Url="Item_Site_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Site_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Site_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a SharePoint site." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Site Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType'" />
+			<Property Name="ID" Value="1824" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1824;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Site_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','SiteLogo':'SiteLogo','SiteDescription':'SiteDescription','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','deeplinks':'deeplinks','importance':'importance','FileType':'FileType'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Site Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a SharePoint site.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182400.000000000" />
+		</File>
+		<File Url="Item_Video.js" Type="GhostableInLibrary" Level="Published" Path="Item_Video.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Video.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a video." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Video Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url'{Picture URL}:'PictureThumbnailURL;PictureURL;','Title','Title Link Url'{Link URL}:'Path','Summary'{Line 2}:'Description','HitHighlightedProperties','HitHighlightedSummary','FileExtension'{File Extension}:'SecondaryFileExtension','Author','ContentTypeId','Created','PeopleInMedia','MediaDuration','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'" />
+			<Property Name="ID" Value="1803" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1803;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Video.js&#xD;&#xA;ManagedPropertyMapping:SR|'Image Url'{Picture URL}:'PictureThumbnailURL;PictureURL;','Title','Title Link Url'{Link URL}:'Path','Summary'{Line 2}:'Description','HitHighlightedProperties','HitHighlightedSummary','FileExtension'{File Extension}:'SecondaryFileExtension','Author','ContentTypeId','Created','PeopleInMedia','MediaDuration','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Video Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a video.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180300.000000000" />
+		</File>
+		<File Url="Item_Video_CompactHorizontal.js" Type="GhostableInLibrary" Level="Published" Path="Item_Video_CompactHorizontal.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Video_CompactHorizontal.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for showing a video in a compact and horizontal layout." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Video" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Line 1'{Line 1}:'Title','Link URL'{Link URL}:'Path','FileExtension'{File Extension}:'SecondaryFileExtension','MediaDuration','ViewCount'{View Count}:'','ContentTypeId','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'" />
+			<Property Name="ID" Value="1804" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1804;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Video_CompactHorizontal.js&#xD;&#xA;ManagedPropertyMapping:SR|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Line 1'{Line 1}:'Title','Link URL'{Link URL}:'Path','FileExtension'{File Extension}:'SecondaryFileExtension','MediaDuration','ViewCount'{View Count}:'','ContentTypeId','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Video&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for showing a video in a compact and horizontal layout.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="180400.000000000" />
+		</File>
+		<File Url="Item_Video_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Video_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Video_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a video." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Video Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url'{Picture URL}:'PictureThumbnailURL;PictureURL;','Title','Title Link Url'{Link URL}:'Path','Summary'{Line 2}:'Description','HitHighlightedProperties','HitHighlightedSummary','FileExtension'{File Extension}:'SecondaryFileExtension','Author','ContentTypeId','Created','PeopleInMedia','MediaDuration','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'" />
+			<Property Name="ID" Value="1826" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1826;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Video_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Image Url'{Picture URL}:'PictureThumbnailURL;PictureURL;','Title','Title Link Url'{Link URL}:'Path','Summary'{Line 2}:'Description','HitHighlightedProperties','HitHighlightedSummary','FileExtension'{File Extension}:'SecondaryFileExtension','Author','ContentTypeId','Created','PeopleInMedia','MediaDuration','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Video Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a video.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182600.000000000" />
+		</File>
+		<File Url="Item_WebPage.js" Type="GhostableInLibrary" Level="Published" Path="Item_WebPage.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_WebPage.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a web page." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Web Page Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1791" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1791;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_WebPage.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Web Page Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a web page.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179100.000000000" />
+		</File>
+		<File Url="Item_WebPage_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_WebPage_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_WebPage_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a web page." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Web page Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'" />
+			<Property Name="ID" Value="1827" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1827;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_WebPage_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Web page Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a web page.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182700.000000000" />
+		</File>
+		<File Url="Item_Word.js" Type="GhostableInLibrary" Level="Published" Path="Item_Word.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Word.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result tailored for a Microsoft Word document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Word Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1792" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1792;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Word.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Word Item&#xD;&#xA;MasterPageDescription:SR|Displays a result tailored for a Microsoft Word document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="179200.000000000" />
+		</File>
+		<File Url="Item_Word_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_Word_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_Word_HoverPanel.js" />
+			<Property Name="MasterPageDescription" Value="Displays a result hover panel tailored for a Microsoft Word document." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Word Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchHoverPanel;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'" />
+			<Property Name="ID" Value="1820" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Search" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1820;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchHoverPanel;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Item_Word_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Description':'Description','EditorOWSUSER':'EditorOWSUSER','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink','FileType':'FileType','IsContainer':'IsContainer','SecondaryFileExtension':'SecondaryFileExtension','DisplayAuthor':'DisplayAuthor','ServerRedirectedURL':'ServerRedirectedURL','SectionNames':'SectionNames','SectionIndexes':'SectionIndexes','ServerRedirectedEmbedURL':'ServerRedirectedEmbedURL','ServerRedirectedPreviewURL':'ServerRedirectedPreviewURL'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|0&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Word Hover Panel&#xD;&#xA;MasterPageDescription:SR|Displays a result hover panel tailored for a Microsoft Word document.&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="182000.000000000" />
+		</File>
+	</Module>
+</Elements>

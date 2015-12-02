@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\SearchDrivenContent\WebParts" Url="_catalogs/wp" SetupPath="Features\SearchDrivenContent\WebParts" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="CatalogItemReuse.webpart" Type="GhostableInLibrary" Level="Published" Path="CatalogItemReuse.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CatalogItemReuse.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBSItem_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBSItem_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Search;#" />
+			<Property Name="ID" Value="21" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="21;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Search;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CatalogItemReuse.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.CatalogItemReuseWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBSItem_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBSItem_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBSItem_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2100.00000000000" />
+		</File>
+		<File Url="CBS_Articles.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_Articles.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_Articles.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Articles_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Articles_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="22" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="22;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_Articles.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Articles_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Articles_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Articles_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2200.00000000000" />
+		</File>
+		<File Url="CBS_Pictures.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_Pictures.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_Pictures.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Pictures_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Pictures_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="25" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="25;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_Pictures.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Pictures_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Pictures_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Pictures_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2500.00000000000" />
+		</File>
+		<File Url="CBS_PopularItems.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_PopularItems.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_PopularItems.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Popular_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Popular_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="26" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="26;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_PopularItems.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Popular_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Popular_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Popular_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2600.00000000000" />
+		</File>
+		<File Url="CBS_RecentChanged.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_RecentChanged.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_RecentChanged.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_RecentlyChanged_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_RecentlyChanged_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="27" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="27;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_RecentChanged.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_RecentlyChanged_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_RecentlyChanged_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_RecentlyChanged_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2700.00000000000" />
+		</File>
+		<File Url="CBS_RecommendedItems.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_RecommendedItems.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_RecommendedItems.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Recommended_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Recommended_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="28" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="28;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_RecommendedItems.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Recommended_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Recommended_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Recommended_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2800.00000000000" />
+		</File>
+		<File Url="CBS_Tag.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_Tag.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_Tag.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Tags_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Tags_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="23" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="23;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_Tag.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Tags_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Tags_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Tags_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2300.00000000000" />
+		</File>
+		<File Url="CBS_Videos.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_Videos.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_Videos.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Videos_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Videos_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="29" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="29;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_Videos.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Videos_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Videos_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Videos_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2900.00000000000" />
+		</File>
+		<File Url="CBS_WebPages.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_WebPages.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_WebPages.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_WebPage_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_WebPage_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="24" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="24;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_WebPages.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_WebPage_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_WebPage_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_WebPage_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2400.00000000000" />
+		</File>
+		<File Url="CBS_WikiPages.webpart" Type="GhostableInLibrary" Level="Published" Path="CBS_WikiPages.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CBS_WikiPages.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_WikiPages_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_WikiPages_Description;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="30" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="30;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchDrivenWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\CBS_WikiPages.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_WikiPages_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_WikiPages_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_WikiPages_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3000.00000000000" />
+		</File>
+		<File Url="ContentBySearch.webpart" Type="GhostableInLibrary" Level="Published" Path="ContentBySearch.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="ContentBySearch.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,CBS_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,CBS_Description;" />
+			<Property Name="Group" Value="$Resources:core,ContentRollupWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="20" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="20;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchDrivenContent\\WebParts\\ContentBySearch.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ContentBySearchWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,CBS_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,CBS_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,CBS_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="2000.00000000000" />
+		</File>
+	</Module>
+</Elements>

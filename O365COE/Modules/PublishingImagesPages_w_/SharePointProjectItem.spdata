@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\PublishingImages\Pages\_w\GOVERNANCE2_gif.jpg" Target="Files\PublishingImages\Pages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\Pages\_w\GOVERNANCE3_gif.jpg" Target="Files\PublishingImages\Pages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="PublishingImagesPages_w_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

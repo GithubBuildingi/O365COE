@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesServer Style Sheets_Features\SearchWebParts\DisplayTemplates" Url="_catalogs/masterpage/Display Templates/Server Style Sheets" SetupPath="Features\SearchWebParts\DisplayTemplates" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Server Style Sheets" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ServerRenderTemplate.xsl" Type="GhostableInLibrary" Level="Published" Path="ServerRenderTemplate.xsl">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="ServerRenderTemplate.xsl" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Server Render Template" />
+			<Property Name="ID" Value="2040" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Server Style Sheets" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2040;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\ServerRenderTemplate.xsl&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SR|Server Render Template&#xD;&#xA;ContentType:SR|Design File&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;" />
+			<Property Name="Order" Value="204000.000000000" />
+		</File>
+	</Module>
+</Elements>

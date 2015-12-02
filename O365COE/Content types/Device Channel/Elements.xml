@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x01009AF87C5C1DF34CA38277FEABCB5018F6" Name="Device Channel" Group="_Hidden" Description="Create a channel to change this site's appearance based on what devices visit the site." Sealed="TRUE" Overwrite="TRUE" FeatureId="{57cc6207-aebf-426e-9ece-45946ea82e4a}" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Device Channel" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" DisplayName="Name" Required="TRUE" />
+			<FieldRef ID="{b5a4e101-ed09-42bb-b6ad-f1ac2d31a8b8}" Name="ChannelAlias" Required="TRUE" />
+			<FieldRef ID="{5e05a24c-35a3-4ab6-b68f-41a85d1892f9}" Name="ChannelDescription" />
+			<FieldRef ID="{bc23a71f-2d3a-4b37-91e9-05ffbbf4bb77}" Name="UserAgentSubstrings" Required="TRUE" />
+			<FieldRef ID="{0c7cd3aa-a457-41b3-a76c-4ac09841a330}" Name="ChannelIsActive" />
+			<FieldRef ID="{f0d93c70-7d82-44c1-8f9c-b51312d30319}" Name="ChannelPriority" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

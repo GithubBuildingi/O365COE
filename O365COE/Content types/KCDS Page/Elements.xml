@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D03" Name="KCDS Page" Group="SMSG Content Types" Description="Document Set Advanced View Page" ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/KCDS Page" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" DisplayName="Title" Required="FALSE" Hidden="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{9da97a8a-1da5-4a77-98d3-4bc10456e700}" Name="Comments" />
+			<FieldRef ID="{51d39414-03dc-4bd0-b777-d3e20cb350f7}" Name="PublishingStartDate" DisplayName="Scheduling Start Date" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{a990e64f-faa3-49c1-aafa-885fda79de62}" Name="PublishingExpirationDate" DisplayName="Scheduling End Date" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{aea1a4dd-0f19-417d-8721-95a1d28762ab}" Name="PublishingContact" DisplayName="Contact" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{c79dba91-e60b-400e-973d-c6d06f192720}" Name="PublishingContactEmail" DisplayName="Contact E-Mail Address" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7546ad0d-6c33-4501-b470-fb3003ca14ba}" Name="PublishingContactName" DisplayName="Contact Name" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{dc47d55f-9bf9-494a-8d5b-e619214dd19a}" Name="PublishingContactPicture" DisplayName="Contact Picture" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{0f800910-b30d-4c8f-b011-8189b2297094}" Name="PublishingPageLayout" />
+			<FieldRef ID="{914fdb80-7d4f-4500-bf4c-ce46ad7484a4}" Name="PublishingVariationGroupID" />
+			<FieldRef ID="{766da693-38e5-4b1b-997f-e830b6dfcc7b}" Name="PublishingVariationRelationshipLinkFieldID" />
+			<FieldRef ID="{543bc2cf-1f30-488e-8f25-6fe3b689d9ac}" Name="PublishingRollupImage" DisplayName="Rollup Image" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{61cbb965-1e04-4273-b658-eedaa662f48d}" Name="Audience" DisplayName="Target Audiences" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3de94b06-4120-41a5-b907-88773e493458}" Name="PublishingPageImage" DisplayName="Page Image" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f55c4d88-1f2e-4ad9-aaa8-819af4ee7ee8}" Name="PublishingPageContent" DisplayName="Page Content" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{b3525efe-59b5-4f0f-b1e4-6e26cb6ef6aa}" Name="SummaryLinks" DisplayName="Summary Links" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d3429cc9-adc4-439b-84a8-5679070f84cb}" Name="ArticleByLine" DisplayName="Byline" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{71316cea-40a0-49f3-8659-f0cefdbdbd4f}" Name="ArticleStartDate" DisplayName="Article Date" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{66f500e9-7955-49ab-abb1-663621727d10}" Name="PublishingImageCaption" DisplayName="Image Caption" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{a932ec3f-94c1-48b1-b6dc-41aaa6eb7e54}" Name="HeaderStyleDefinitions" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{50631c24-1371-4ecf-a5ae-ed41b03f4499}" Name="PublishingIsFurlPage" />
+			<FieldRef ID="{ff92f929-d18b-46d4-9879-521378c689ef}" Name="SeoBrowserTitle" />
+			<FieldRef ID="{d83897e5-2430-4df7-8e5a-9bc06c664992}" Name="SeoMetaDescription" />
+			<FieldRef ID="{45ae2169-585c-440b-aa4c-1d5e981fbbe5}" Name="SeoKeywords" />
+			<FieldRef ID="{325c00dd-fd91-468b-81cf-5bb9951abba1}" Name="RobotsNoIndex" />
+			<FieldRef ID="{4b10edc3-3ce3-4184-a52b-99b581b64a44}" Name="DocumentDescription" DisplayName="Document Description" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{2159d64e-b9b0-4eaf-b45f-acd6a2cc2f99}" Name="Owner" DisplayName="Owner" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{fc2b805b-748d-402a-8911-a862bb62c70f}" Name="Coowner" DisplayName="Co-Owner" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{5c527bd6-8443-4296-ae58-46d6de45fe28}" Name="eb54ac91059940029a3cc8a4ff5af673" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{eb54ac91-0599-4002-9a3c-c8a4ff5af673}" Name="SMSGDomain" DisplayName="SMSG Domain" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ae749e73-946a-48cc-aeb4-aaf96e0bd553}" Name="hd9637eefc984b85b6097c6374e15725" Hidden="TRUE" />
+			<FieldRef ID="{1d9637ee-fc98-4b85-b609-7c6374e15725}" Name="ItemType" DisplayName="Item Type" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e7dd135e-966e-40f8-9ac9-c5d12faa44fe}" Name="bf80e81150e248c48aa8cffdf0021a1f" Hidden="TRUE" />
+			<FieldRef ID="{bf80e811-50e2-48c4-8aa8-cffdf0021a1f}" Name="Products" DisplayName="Products &amp; Technologies" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d99271ce-0294-48ea-8f15-c89baa9acb50}" Name="i0d941ee1e744ffea7aeee9924c91cbb" Hidden="TRUE" />
+			<FieldRef ID="{20d941ee-1e74-4ffe-a7ae-ee9924c91cbb}" Name="BusinessArchitecture" DisplayName="Business Architecture" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{dcfc2f64-d0f1-4f5e-a9af-f6c9daebdacb}" Name="k20e0dfa74bf4e44818db03027b0ccd8" Hidden="TRUE" />
+			<FieldRef ID="{420e0dfa-74bf-4e44-818d-b03027b0ccd8}" Name="Segments" DisplayName="Customer Segments" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{6df782cb-6c92-4b9e-923e-988b659710eb}" Name="mb88723863e1404388ba3733387d48df" Hidden="TRUE" />
+			<FieldRef ID="{6b887238-63e1-4043-88ba-3733387d48df}" Name="Audiences" DisplayName="Customer Audiences" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{13eec539-f5d6-42e5-8e16-a1287a828b86}" Name="ec5b2ad5c27b45fb8a00a1f27c7ce1ae" Hidden="TRUE" />
+			<FieldRef ID="{ec5b2ad5-c27b-45fb-8a00-a1f27c7ce1ae}" Name="Partners" DisplayName="Partners" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{62c8e2ae-a931-4c47-a8e4-defe4c8b6d2c}" Name="kf34bcdc8fc34e479d3f94c6210e8e27" Hidden="TRUE" />
+			<FieldRef ID="{4f34bcdc-8fc3-4e47-9d3f-94c6210e8e27}" Name="Competitors" DisplayName="Competition" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3b97f02e-7d81-43c2-9506-404f4cb4f7e4}" Name="b60f8d2dbb984f349d80d8196897f4d3" Hidden="TRUE" />
+			<FieldRef ID="{b60f8d2d-bb98-4f34-9d80-d8196897f4d3}" Name="Roles" DisplayName="Roles" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e5124dd0-b53e-406e-a74e-f800f7078aa6}" Name="ConfidentialityTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{840a9f3c-1e14-4c21-9dbf-5637765665db}" Name="Confidentiality" DisplayName="Confidentiality" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{323649ac-9463-4230-af6f-8cc29986135c}" Name="od9986d31974458fb3007746ec0bce5f" Hidden="TRUE" />
+			<FieldRef ID="{8d9986d3-1974-458f-b300-7746ec0bce5f}" Name="Languages" DisplayName="Languages" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{51def3ac-9360-464f-bc00-f8dacb12ea7e}" Name="i1b478372f814787abd313030b81fcb2" Hidden="TRUE" />
+			<FieldRef ID="{21b47837-2f81-4787-abd3-13030b81fcb2}" Name="ActivitiesAndPrograms" DisplayName="Activities &amp; Programs" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ffe68ef1-6499-42f5-b961-f263f7404597}" Name="k21a64daf20d4502b2796a1c6b8ce6c8" Hidden="TRUE" />
+			<FieldRef ID="{421a64da-f20d-4502-b279-6a1c6b8ce6c8}" Name="Industries" DisplayName="Industries" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3c9aaab2-b783-472f-a9eb-1ee49cfb14cb}" Name="ef109fd36bcf4bcd9dd945731030600b" Hidden="TRUE" />
+			<FieldRef ID="{ef109fd3-6bcf-4bcd-9dd9-45731030600b}" Name="Region" DisplayName="Region" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7e7a69f5-b836-4f2e-adbb-b96ec2d565af}" Name="m6c7b4717b6346e6a075a59dd47eac69" Hidden="TRUE" />
+			<FieldRef ID="{66c7b471-7b63-46e6-a075-a59dd47eac69}" Name="Topics" DisplayName="Topics" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{de49a0e5-4a4d-401e-9a2a-5dea6269a0d8}" Name="SpecialSearchQuery" DisplayName="SpecialSearchQuery" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{0588618b-d7ee-48dc-b332-002a8216463f}" Name="DocumentSetID" DisplayName="DocumentSetID" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7f8e08de-93ea-483e-bf92-0ee0d10f9b7f}" Name="l3c3ea61849e4288a8acc49bb5388e8c" Hidden="TRUE" />
+			<FieldRef ID="{53c3ea61-849e-4288-a8ac-c49bb5388e8c}" Name="Groups" DisplayName="Groups" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d9fb903f-84be-4335-887f-48a68657cb08}" Name="Staged" DisplayName="Staged" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1153ce93-034d-4e2d-9683-68d0183c44e5}" Name="Thumbnail1" DisplayName="Thumbnail" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{a92c6316-4495-46a1-b028-de0578fc2d11}" Name="Private" DisplayName="Private" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" DisplayName="Enterprise Keywords" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ee6361c2-8d55-4f46-98d1-b7b35fd1ec5c}" Name="CreatedBy" DisplayName="CreatedBy" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{9f8e3022-1d0b-4b78-970a-eb35697d19ac}" Name="CreatedDate" DisplayName="CreatedDate" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{5d3bfbdd-be69-4c55-8356-3a56e7e5ff65}" Name="Yammer_x0020_Feed_x0020_ID" DisplayName="Yammer Feed ID" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{5006e6db-78b8-4896-8439-19aa27cd74e8}" Name="DomainNavigationLink" DisplayName="DomainNavigationLink" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e56ecdad-b63c-4df7-a634-b537e7d70306}" Name="ContentClassification" DisplayName="ContentClassification" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e79aa369-b8f3-41a3-8ead-f923fc8ea91f}" Name="Abstract" DisplayName="Abstract" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{eec9ab9e-2b7a-4f71-87ac-d524193489c3}" Name="Hide_x0020_Page_x0020_Title" DisplayName="Hide Page Title" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f2e692ff-a21f-4103-8f88-71d8ceae2e24}" Name="Hide_x0020_Sections" DisplayName="Show-Hide Sections" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{0e7b03b5-787b-4b62-bfad-0fc7c5f26742}" Name="TagTemplate" DisplayName="TagTemplate" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+		</FieldRefs>
+		<DocumentTemplate TargetName="/_layouts/CreatePage.aspx" />
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D03" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpagesr-latn-csPreview Images_Features\PublishingLayouts\sr-latn-cs" Url="_catalogs/masterpage/sr-latn-cs/Preview Images" SetupPath="Features\PublishingLayouts\sr-latn-cs" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\sr-latn-cs\Preview Images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ArticleBodyOnly.png" Type="GhostableInLibrary" Level="Published" Path="ArticleBodyOnly.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleBodyOnly.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1595" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1595;#" />
+			<Property Name="Order" Value="159500.000000000" />
+		</File>
+		<File Url="ArticleLeft.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLeft.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLeft.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1586" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1586;#" />
+			<Property Name="Order" Value="158600.000000000" />
+		</File>
+		<File Url="ArticleLinks.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLinks.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLinks.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1583" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1583;#" />
+			<Property Name="Order" Value="158300.000000000" />
+		</File>
+		<File Url="ArticleRight.png" Type="GhostableInLibrary" Level="Published" Path="ArticleRight.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleRight.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1592" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1592;#" />
+			<Property Name="Order" Value="159200.000000000" />
+		</File>
+		<File Url="BlankWebPartPage.png" Type="GhostableInLibrary" Level="Published" Path="BlankWebPartPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="BlankWebPartPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1589" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1589;#" />
+			<Property Name="Order" Value="158900.000000000" />
+		</File>
+		<File Url="RedirectPage.png" Type="GhostableInLibrary" Level="Published" Path="RedirectPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="RedirectPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1598" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1598;#" />
+			<Property Name="Order" Value="159800.000000000" />
+		</File>
+		<File Url="WelcomeSplash.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeSplash.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeSplash.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1604" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1604;#" />
+			<Property Name="Order" Value="160400.000000000" />
+		</File>
+		<File Url="WelcomeTOC.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeTOC.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeTOC.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1601" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/sr-latn-cs/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1601;#" />
+			<Property Name="Order" Value="160100.000000000" />
+		</File>
+	</Module>
+</Elements>

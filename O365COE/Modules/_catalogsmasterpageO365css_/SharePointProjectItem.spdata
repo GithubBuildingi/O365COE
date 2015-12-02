@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\O365\css\foundation.css" Target="Files\_catalogs\masterpage\O365\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\O365\css\foundation.min.css" Target="Files\_catalogs\masterpage\O365\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\O365\css\normalize.css" Target="Files\_catalogs\masterpage\O365\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\O365\css\o365.css" Target="Files\_catalogs\masterpage\O365\css\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpageO365css_\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

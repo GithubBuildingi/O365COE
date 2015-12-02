@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Filters\Control_TaxonomyRefinement.js" Target="Files\_catalogs\masterpage\Display Templates\Filters\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Filters\Filter_TaxonomyRefinement.js" Target="Files\_catalogs\masterpage\Display Templates\Filters\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpageDisplay TemplatesFilters_Features_SearchTaxonomyRefinementWebParts_DisplayTemplates\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

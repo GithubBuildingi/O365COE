@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-de22-43b2-a848-c05709900100}" TemplateType="100" Title="Device Channels" Description="Use this page to create and manage mobile and alternate device channels. Channels allow you to classify visitors based on the devices they use to browse your site and optimize the display of your pages accordingly. Channels created here can each be assigned a different Master Page and can have regions of each Page Layout selectively hidden and revealed to them with Device Channel Panels." Url="DeviceChannels" CustomSchema="Files\DeviceChannels\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

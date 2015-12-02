@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesLanguage Filestr-tr_Features\SearchWebParts\tr-tr" Url="_catalogs/masterpage/Display Templates/Language Files/tr-tr" SetupPath="Features\SearchWebParts\tr-tr" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Language Files\tr-tr" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="CustomStrings.js" Type="GhostableInLibrary" Level="Published" Path="CustomStrings.js">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="CustomStrings.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="2021" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Language Files/tr-tr" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2021;#" />
+			<Property Name="Order" Value="202100.000000000" />
+		</File>
+	</Module>
+</Elements>

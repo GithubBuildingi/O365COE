@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubSchválení publikování_Features\ReviewPublishingSPD1029" Url="_catalogs/wfpub/Schválení publikování" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\14Schvlenpublikovn" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_1029.xoml.wfconfig.xml" DoGUIDFixUp="true" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1029.xoml.wfconfig.xml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1029.xoml.wfconfig.xml" />
+			<Property Name="NoCodeVisibility" Value="RootPublic" />
+			<Property Name="ID" Value="228" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Schválení publikování" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="228;#BaseAssociationGuid:SW|{E43856D2-1BB4-40ef-B08B-016D89A00405}&#xD;&#xA;WorkflowDisplayName:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;XomlUrl:SW|_catalogs/wfpub/Schválení publikování/ReviewPublishing_1029.xoml&#xD;&#xA;NoCodeVisibility:SW|RootPublic&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\ReviewPublishingSPD1029\\ReviewPublishing_1029.xoml.wfconfig.xml&#xD;&#xA;RulesUrl:SW|_catalogs/wfpub/Schválení publikování/ReviewPublishing_1029.xoml.rules&#xD;&#xA;RestrictContentTypeId:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;AssociatedListId:SW|&#xD;&#xA;vti_cachedcustomprops:VX|BaseAssociationGuid WorkflowDisplayName AssociatedListId XomlUrl NoCodeVisibility RulesUrl RestrictContentTypeId&#xD;&#xA;ContentTypeId:SW|0x010107009570ED3EB3BA3749A9E97C8C6AB2931C&#xD;&#xA;" />
+			<Property Name="Order" Value="22800.0000000000" />
+		</File>
+	</Module>
+</Elements>

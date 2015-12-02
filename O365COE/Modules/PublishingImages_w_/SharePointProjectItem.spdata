@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\PublishingImages\_w\9WIN12_Vipul_032_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\grass_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\lookdown_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\pie_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\screenshot-lca_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\screenshot-msw_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\screenshot-refweb_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\sitting_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\vision_jpg.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\web-based_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Bill_07_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Chris_02_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Jon_01_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Kiki_01_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Phil_07_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\_w\WIN12_Renee_02_png.jpg" Target="Files\PublishingImages\_w\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="PublishingImages_w_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

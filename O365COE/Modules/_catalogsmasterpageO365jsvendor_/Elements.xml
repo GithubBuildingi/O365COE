@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageO365jsvendor_" Url="_catalogs/masterpage/O365/js/vendor" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\O365\js\vendor" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="fastclick.js" Type="GhostableInLibrary" Level="Draft" Path="fastclick.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="fastclick.js" />
+			<Property Name="Title" Value="fastclick" />
+			<Property Name="ID" Value="2346" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/vendor" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2346;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/vendor&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|fastclick.js&#xD;&#xA;vti_title:SW|fastclick&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234600.000000000" />
+		</File>
+		<File Url="jquery.cookie.js" Type="GhostableInLibrary" Level="Draft" Path="jquery.cookie.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="jquery.cookie.js" />
+			<Property Name="Title" Value="jquery.cookie" />
+			<Property Name="ID" Value="2347" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/vendor" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2347;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/vendor&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|jquery.cookie.js&#xD;&#xA;vti_title:SW|jquery.cookie&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234700.000000000" />
+		</File>
+		<File Url="jquery.js" Type="GhostableInLibrary" Level="Draft" Path="jquery.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="jquery.js" />
+			<Property Name="Title" Value="jquery" />
+			<Property Name="ID" Value="2348" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/vendor" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2348;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/vendor&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|jquery.js&#xD;&#xA;vti_title:SW|jquery&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234800.000000000" />
+		</File>
+		<File Url="modernizr.js" Type="GhostableInLibrary" Level="Draft" Path="modernizr.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="modernizr.js" />
+			<Property Name="Title" Value="modernizr" />
+			<Property Name="ID" Value="2349" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/vendor" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2349;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/vendor&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|modernizr.js&#xD;&#xA;vti_title:SW|modernizr&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="234900.000000000" />
+		</File>
+		<File Url="placeholder.js" Type="GhostableInLibrary" Level="Draft" Path="placeholder.js">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="placeholder.js" />
+			<Property Name="Title" Value="placeholder" />
+			<Property Name="ID" Value="2350" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/js/vendor" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2350;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/js/vendor&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|placeholder.js&#xD;&#xA;vti_title:SW|placeholder&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="235000.000000000" />
+		</File>
+	</Module>
+</Elements>

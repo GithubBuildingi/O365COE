@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010051BE23F45989CB4C8932B369595EFCFC" Name="Approved Social Playlist" Group="Approved Shared Content Types" ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Approved Social Playlist" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{5e40fb39-e3bc-463a-ad3d-2fdb45e2a2c5}" Name="PrimaryFile" />
+			<FieldRef ID="{a25e73cd-59f1-47ed-971a-0d9888d63b7e}" Name="ThumbnailUrl" />
+			<FieldRef ID="{a6980912-95c1-401a-9195-fd7ae1c4678f}" Name="SocialUrl" />
+			<FieldRef ID="{b8492c8d-fafc-402d-ae35-c483fca5df8e}" Name="Owners" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010051BE23F45989CB4C8932B369595EFCFC" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

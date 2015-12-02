@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesSystem_Features\HtmlDesign\DisplayTemplates" Url="_catalogs/masterpage/Display Templates/System" SetupPath="Features\HtmlDesign\DisplayTemplates" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\System" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_CatalogDefault.html" Type="GhostableInLibrary" Level="Published" Path="Control_CatalogDefault.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_CatalogDefault.html" />
+			<Property Name="Title" Value="Default Catalog Result" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2170" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2170;#" />
+			<Property Name="Order" Value="217000.000000000" />
+		</File>
+		<File Url="Control_eDiscoveryExchangeResult.html" Type="GhostableInLibrary" Level="Published" Path="Control_eDiscoveryExchangeResult.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_eDiscoveryExchangeResult.html" />
+			<Property Name="Title" Value="Tabular Exchange results" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2180" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2180;#" />
+			<Property Name="Order" Value="218000.000000000" />
+		</File>
+		<File Url="Control_eDiscoverySharePointResult.html" Type="GhostableInLibrary" Level="Published" Path="Control_eDiscoverySharePointResult.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_eDiscoverySharePointResult.html" />
+			<Property Name="Title" Value="Tabular SharePoint results" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2181" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2181;#" />
+			<Property Name="Order" Value="218100.000000000" />
+		</File>
+		<File Url="Control_QueryBuilderPreview.html" Type="GhostableInLibrary" Level="Published" Path="Control_QueryBuilderPreview.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_QueryBuilderPreview.html" />
+			<Property Name="Title" Value="Query Builder Preview Control" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2192" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2192;#" />
+			<Property Name="Order" Value="219200.000000000" />
+		</File>
+		<File Url="Control_QueryBuilderRefinement.html" Type="GhostableInLibrary" Level="Published" Path="Control_QueryBuilderRefinement.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_QueryBuilderRefinement.html" />
+			<Property Name="Title" Value="Query Builder Refinement Control" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2194" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2194;#" />
+			<Property Name="Order" Value="219400.000000000" />
+		</File>
+		<File Url="Control_Recommendations.html" Type="GhostableInLibrary" Level="Published" Path="Control_Recommendations.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_Recommendations.html" />
+			<Property Name="Title" Value="Recommended Items Result" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2197" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2197;#" />
+			<Property Name="Order" Value="219700.000000000" />
+		</File>
+		<File Url="Control_TopReport.html" Type="GhostableInLibrary" Level="Published" Path="Control_TopReport.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_TopReport.html" />
+			<Property Name="Title" Value="Top Report Result" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2182" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2182;#" />
+			<Property Name="Order" Value="218200.000000000" />
+		</File>
+		<File Url="Filter_RefinementPreview.html" Type="GhostableInLibrary" Level="Published" Path="Filter_RefinementPreview.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660400C7892DA18D400F4AA90347CBD8B6C45B" />
+			<Property Name="FileLeafRef" Value="Filter_RefinementPreview.html" />
+			<Property Name="Title" Value="Filter Refinement Web Part Preview" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Refinement;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2189" />
+			<Property Name="ContentType" Value="Filter Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2189;#" />
+			<Property Name="Order" Value="218900.000000000" />
+		</File>
+		<File Url="Group_QueryBuilderPreview.html" Type="GhostableInLibrary" Level="Published" Path="Group_QueryBuilderPreview.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F385106602005EB8CB5CE269864386A1BFE550BE3360" />
+			<Property Name="FileLeafRef" Value="Group_QueryBuilderPreview.html" />
+			<Property Name="Title" Value="Query Builder Preview Group" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2191" />
+			<Property Name="ContentType" Value="Group Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2191;#" />
+			<Property Name="Order" Value="219100.000000000" />
+		</File>
+		<File Url="Item_CatalogDateTime.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogDateTime.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogDateTime.html" />
+			<Property Name="Title" Value="Catalog Date Time Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Date':'Write'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2171" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2171;#" />
+			<Property Name="Order" Value="217100.000000000" />
+		</File>
+		<File Url="Item_CatalogDefault.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogDefault.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogDefault.html" />
+			<Property Name="Title" Value="Catalog Default Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Text':'Title'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2173" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2173;#" />
+			<Property Name="Order" Value="217300.000000000" />
+		</File>
+		<File Url="Item_CatalogItemPicker.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogItemPicker.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogItemPicker.html" />
+			<Property Name="Title" Value="Search with hover" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Author':'Author','Size':'Size','Path':'Path','Description':'Description','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','DocumentSummarySize':'DocumentSummarySize','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2175" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2175;#" />
+			<Property Name="Order" Value="217500.000000000" />
+		</File>
+		<File Url="Item_CatalogItemPicker_HoverPanel.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogItemPicker_HoverPanel.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogItemPicker_HoverPanel.html" />
+			<Property Name="Title" Value="Search with hover" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Author':'Author','Size':'Size','Path':'Path','owsqUSRUserEditor':'owsqUSRUserEditor','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','DocumentSummarySize':'DocumentSummarySize','ParentLink':'ParentLink'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2176" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2176;#" />
+			<Property Name="Order" Value="217600.000000000" />
+		</File>
+		<File Url="Item_CatalogRich.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogRich.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogRich.html" />
+			<Property Name="Title" Value="Catalog Rich Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Rich Data':'owsrNTEHTMLPublishingPageContent'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2172" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2172;#" />
+			<Property Name="Order" Value="217200.000000000" />
+		</File>
+		<File Url="Item_CatalogTitle.html" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogTitle.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CatalogTitle.html" />
+			<Property Name="Title" Value="Catalog Item Title" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Page Title':'Title'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2174" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2174;#" />
+			<Property Name="Order" Value="217400.000000000" />
+		</File>
+		<File Url="Item_CommunityPortal.html" Type="GhostableInLibrary" Level="Published" Path="Item_CommunityPortal.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_CommunityPortal.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a picture of the community site on the left. The title, description, number of members, posts and replies will display to the right of the picture." />
+			<Property Name="Title" Value="Community Portal Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'SiteLogo','Path','Title','Description','CommunityMembersCount','CommunityTopicsCount','CommunityRepliesCount','Created','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2177" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2177;#" />
+			<Property Name="Order" Value="217700.000000000" />
+		</File>
+		<File Url="Item_eDiscoveryExchange_HoverPanel.html" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoveryExchange_HoverPanel.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoveryExchange_HoverPanel.html" />
+			<Property Name="Title" Value="Disovery Exchange Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2184" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2184;#" />
+			<Property Name="Order" Value="218400.000000000" />
+		</File>
+		<File Url="Item_eDiscoveryExchangeResult.html" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoveryExchangeResult.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoveryExchangeResult.html" />
+			<Property Name="Title" Value="One property per cell, one item per row for Exchange" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2183" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2183;#" />
+			<Property Name="Order" Value="218300.000000000" />
+		</File>
+		<File Url="Item_eDiscoverySharePoint_HoverPanel.html" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoverySharePoint_HoverPanel.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoverySharePoint_HoverPanel.html" />
+			<Property Name="Title" Value="Disovery SharePoint Hover Panel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2186" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2186;#" />
+			<Property Name="Order" Value="218600.000000000" />
+		</File>
+		<File Url="Item_eDiscoverySharePointResult.html" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoverySharePointResult.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoverySharePointResult.html" />
+			<Property Name="Title" Value="One property per cell, one item per row for SharePoint" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2185" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2185;#" />
+			<Property Name="Order" Value="218500.000000000" />
+		</File>
+		<File Url="Item_QueryBuilderPreview.html" Type="GhostableInLibrary" Level="Published" Path="Item_QueryBuilderPreview.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_QueryBuilderPreview.html" />
+			<Property Name="Title" Value="Query Builder Preview Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Author':'Author','Size':'Size','Path':'Path','Description':'Description','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','HitHighlightedProperties':'HitHighlightedProperties','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2190" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2190;#" />
+			<Property Name="Order" Value="219000.000000000" />
+		</File>
+		<File Url="Item_QueryBuilderRefinement.html" Type="GhostableInLibrary" Level="Published" Path="Item_QueryBuilderRefinement.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_QueryBuilderRefinement.html" />
+			<Property Name="Title" Value="Query Builder Refinement Item" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Refinement;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2193" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2193;#" />
+			<Property Name="Order" Value="219300.000000000" />
+		</File>
+		<File Url="Item_Recommendations.html" Type="GhostableInLibrary" Level="Published" Path="Item_Recommendations.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_Recommendations.html" />
+			<Property Name="Title" Value="Recommendations Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2198" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2198;#" />
+			<Property Name="Order" Value="219800.000000000" />
+		</File>
+		<File Url="Item_TopReport.html" Type="GhostableInLibrary" Level="Published" Path="Item_TopReport.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_TopReport.html" />
+			<Property Name="Title" Value="Top Report Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url':'PictureThumbnailURL;PictureURL','Title','Path','Description','FileExtension','ListItemID','ListID','HitHighlightedSummary','HitHighlightedProperties'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2187" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2187;#" />
+			<Property Name="Order" Value="218700.000000000" />
+		</File>
+		<File Url="Item_VideoVertical.html" Type="GhostableInLibrary" Level="Published" Path="Item_VideoVertical.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_VideoVertical.html" />
+			<Property Name="Title" Value="Video Vertical Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url':'PictureThumbnailURL;PictureURL;','Line 1':'Title','Line 1 Link Url':'Path','FileExtension':'SecondaryFileExtension','MediaDuration','ViewCount':'ViewsLifeTime','ContentTypeId','Created','PeopleInMedia','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="ID" Value="2188" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2188;#" />
+			<Property Name="Order" Value="218800.000000000" />
+		</File>
+	</Module>
+</Elements>

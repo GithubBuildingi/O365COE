@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpagero-roPreview Images_Features\PublishingLayouts\ro-ro" Url="_catalogs/masterpage/ro-ro/Preview Images" SetupPath="Features\PublishingLayouts\ro-ro" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\ro-ro\Preview Images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ArticleBodyOnly.png" Type="GhostableInLibrary" Level="Published" Path="ArticleBodyOnly.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleBodyOnly.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1470" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1470;#" />
+			<Property Name="Order" Value="147000.000000000" />
+		</File>
+		<File Url="ArticleLeft.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLeft.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLeft.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1461" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1461;#" />
+			<Property Name="Order" Value="146100.000000000" />
+		</File>
+		<File Url="ArticleLinks.png" Type="GhostableInLibrary" Level="Published" Path="ArticleLinks.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleLinks.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1458" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1458;#" />
+			<Property Name="Order" Value="145800.000000000" />
+		</File>
+		<File Url="ArticleRight.png" Type="GhostableInLibrary" Level="Published" Path="ArticleRight.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="ArticleRight.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1467" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1467;#" />
+			<Property Name="Order" Value="146700.000000000" />
+		</File>
+		<File Url="BlankWebPartPage.png" Type="GhostableInLibrary" Level="Published" Path="BlankWebPartPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="BlankWebPartPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1464" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1464;#" />
+			<Property Name="Order" Value="146400.000000000" />
+		</File>
+		<File Url="RedirectPage.png" Type="GhostableInLibrary" Level="Published" Path="RedirectPage.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="RedirectPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1473" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1473;#" />
+			<Property Name="Order" Value="147300.000000000" />
+		</File>
+		<File Url="WelcomeSplash.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeSplash.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeSplash.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1479" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1479;#" />
+			<Property Name="Order" Value="147900.000000000" />
+		</File>
+		<File Url="WelcomeTOC.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeTOC.png">
+			<Property Name="ContentTypeId" Value="0x01010600F0E01E6568F91A47B82192DF8DB8AB2A" />
+			<Property Name="FileLeafRef" Value="WelcomeTOC.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="1476" />
+			<Property Name="ContentType" Value="Master Page Preview" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/ro-ro/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1476;#" />
+			<Property Name="Order" Value="147600.000000000" />
+		</File>
+	</Module>
+</Elements>

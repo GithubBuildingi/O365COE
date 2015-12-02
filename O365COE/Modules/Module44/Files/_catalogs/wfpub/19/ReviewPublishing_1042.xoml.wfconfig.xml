@@ -1,0 +1,154 @@
+<?xml version="1.0"?><!-- _lcid="1042" _version="16.0.3912" _dal="1" --><!-- _LocalBinding --><WorkflowConfig Version="15.0.0.411">
+	<Template BaseID="{E43856D2-1BB4-40ef-B08B-016D89A00412}" DocLibURL="_catalogs/wfpub" XomlHref="_catalogs/wfpub/게시 승인/ReviewPublishing_1042.xoml" XomlVersion="V1.0" AssociationURL="~layouts/CstWrkflIP.aspx" TaskContentType="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0412" StartManually="true" Visibility="RootPublic" Category="List;Language:1042;#ContentType;Language:1042" RestrictLanguage="1042" RulesHref="_catalogs/wfpub/게시 승인/ReviewPublishing_1042.xoml.rules" RulesVersion = "V1.0" Description="승인용으로 페이지를 회람합니다. 승인자는 페이지를 승인 또는 거절하고 승인 작업을 다시 할당하거나 페이지 변경을 요청할 수 있습니다." PreviewHref="/_catalogs/wfpub/게시 승인/ReviewPublishing_1042.vdw" ShowPreview="true" PreviewVersion="V1.0" AllowStartOnMajorCheckin="true"/>
+	<ContentTypes>
+		<ContentType Name="Publishing Approval Workflow Task (ko-kr)" ContentTypeID="0x01080100C9C9515DE4E24001905074F980F9316000A245BAB39C6543159300E33084BA0412" WorkflowForm="/_catalogs/wfpub/게시 승인/ReviewPublishing_Task_1042.xsn" WorkflowFormVersion = "V0.0" Description="사용자 또는 사용자 팀이 완료해야 하는 워크플로에서 생성되는 작업 항목입니다.">
+			<Fields/>
+			<WorkflowFormData>
+				<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+					<dfs:queryFields>
+					</dfs:queryFields>
+					<dfs:dataFields>
+						<d:SharePointListItem_RW>
+							<d:Status/>
+							<d:Author/>
+							<d:FieldName_ConsolidatedComments/>
+							<d:DueDate xsi:nil="true"/>
+							<d:FieldName_Comments/>
+							<d:FieldName_DelegateTo/>
+							<d:FieldName_NewDescription/>
+							<d:FieldName_NewSerialTaskDuration xsi:nil="true"/>
+							<d:FieldName_NewDurationUnits>Day</d:FieldName_NewDurationUnits>
+							<d:FieldName_RequestTo/>
+							<d:Body/>
+							<d:Title/>
+							<d:Priority>(2) Normal</d:Priority>
+							<d:PercentComplete xsi:nil="true"/>
+							<d:AssignedTo/>
+							<d:StartDate/>
+							<d:WorkflowLink Description=""/>
+							<d:OffsiteParticipant/>
+							<d:OffsiteParticipantReason/>
+							<d:WorkflowOutcome/>
+							<d:WorkflowName/>
+							<d:FormURN/>
+							<d:FormData/>
+							<d:EmailBody/>
+							<d:HasCustomEmailBody xsi:nil="true"/>
+							<d:SendEmailNotification xsi:nil="true"/>
+							<d:PendingModTime xsi:nil="true"/>
+							<d:Completed>false</d:Completed>
+							<d:ExtendedProperties/>
+							<d:ID xsi:nil="true"/>
+							<d:Modified xsi:nil="true"/>
+							<d:Created xsi:nil="true"/>
+							<d:Editor/>
+						</d:SharePointListItem_RW>
+					</dfs:dataFields>
+				</dfs:myFields>
+			</WorkflowFormData>
+		</ContentType>
+	</ContentTypes>
+	<Initiation URL="~layouts/IniWrkflIP.aspx">
+		<Fields>
+			<Field Name="Approvers" GroupName="Assignment" FormType="Association" DisplayName="승인자" Type="HybridUser" Description="워크플로의 작업을 배정받을 사람의 이름을 입력하고 해당 작업의 배정 순서를 선택합니다. 이름은 세미콜론으로 구분합니다. 스테이지를 더 추가하여 다른 순서로 더 많은 사람에게 작업을 배정할 수도 있습니다." Direction="None" InsertButtonText="새 스테이지 추가">
+				<Default/>
+				<Field Name="Assignee" DisplayName="배정 대상" List="UserInfo" Description="" Width="305" Type="UserMulti" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" Direction="None"/>
+				<Field Name="Stage" DisplayName="스테이지" Description="" Width="1" Type="Number" Direction="None" Hidden="TRUE">
+					<Default></Default>
+				</Field>
+				<Field Name="AssignmentType" Format="Dropdown" BaseType="Text" DisplayName="순서" Description="" Width="150" Type="Choice" Direction="None">
+					<Default>Serial</Default>
+					<CHOICES>
+						<CHOICE DisplayName="한 번에 한 참석자씩(순차적)">Serial</CHOICE>
+						<CHOICE DisplayName="모든 참석자가 동시에(동시)">Parallel</CHOICE>
+					</CHOICES>
+				</Field>
+			</Field>
+			<Field Name="ExpandGroups" FormType="Association" DisplayName="그룹 확장" Description="입력한 각 그룹에 속한 모든 구성원과 그룹에 개별적으로 작업을 할당합니다." Direction="None" Type="Boolean">
+				<Default>1</Default>
+			</Field>
+			<Field Name="NotificationMessage" FormType="Both" NumLines="5" Sortable="FALSE" RichTextMode="Compatible" DisplayName="요청" Description="이 메시지는 작업이 배정된 사람에게 전송됩니다." Direction="None" Type="Note">
+				<Default/>
+			</Field>
+			<Field Name="DueDateforAllTasks" FormType="Both" Format="DateOnly" DisplayName="모든 작업의 기한" Description="모든 작업의 기한 날짜입니다." Direction="None" Type="DateTime">
+				<CustomValidation>
+					<Condition>. != "" and msxsl:string-compare(., xdDate:Now()) &lt; 0</Condition>
+					<Message ScreenTip="이 제어 값은 현재 날짜 및 시간보다 나중이어야 합니다." ShowScreenTipOnly="TRUE">이 제어 값은 현재 날짜 및 시간보다 나중이어야 합니다.</Message>
+				</CustomValidation>
+			</Field>
+			<Field Name="DurationforSerialTasks" FormType="Both" Min="1" Max="999" DisplayName="작업당 시간" Description="작업 기한이 만료할 때까지의 기간입니다. [기간 단위]를 사용하여 단위를 선택하십시오." Direction="None" Type="Number"/>
+			<Field Name="DurationUnits" FormType="Both" Format="Dropdown" BaseType="Text" DisplayName="기간 단위" Description="작업당 시간에 사용되는 시간 단위를 정의합니다." Direction="None" Type="Choice">
+				<CHOICES>
+					<CHOICE DisplayName="일">Day</CHOICE>
+					<CHOICE DisplayName="주">Week</CHOICE>
+					<CHOICE DisplayName="월">Month</CHOICE>
+				</CHOICES>
+				<Default>Day</Default>
+			</Field>
+			<Field Name="CC" FormType="Both" List="UserInfo" ShowField="ImnName" UserSelectionMode="PeopleAndGroups" UserSelectionScope="0" DisplayName="참조" Description="워크플로를 시작하고 끝낼 때 작업을 배정하지 않고 이 사람들에게 알립니다." Direction="None" Type="UserMulti" Mult="TRUE"/>
+			<Field Name="CancelonRejection" FormType="Association" DisplayName="처음 거부 시 종료" Description="문서를 거부하는 참가자가 한 명이라도 있으면 문서를 자동으로 거부합니다." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="CancelonChange" FormType="Association" DisplayName="문서 변경 시 종료" Description="워크플로가 완료되기 전에 문서가 변경되면 문서를 자동으로 거부합니다." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+			<Field Name="EnableContentApproval" FormType="Association" DisplayName="콘텐츠 승인 사용" Description="워크플로 완료 후에 승인 상태를 업데이트합니다. 이 워크플로를 통해 콘텐츠 승인을 제어합니다." Direction="None" Type="Boolean">
+				<Default>0</Default>
+			</Field>
+		</Fields>
+		<Parameters>
+			<Parameter Name="Approvers" Type="System.String"/>
+			<Parameter Name="ExpandGroups" Type="System.Boolean"/>
+			<Parameter Name="NotificationMessage" Type="System.String"/>
+			<Parameter Name="DueDateforAllTasks" Type="System.DateTime"/>
+			<Parameter Name="DurationforSerialTasks" Type="System.Double"/>
+			<Parameter Name="DurationUnits" Type="System.String"/>
+			<Parameter Name="CC" Type="System.String"/>
+			<Parameter Name="CancelonRejection" Type="System.Boolean"/>
+			<Parameter Name="CancelonChange" Type="System.Boolean"/>
+			<Parameter Name="EnableContentApproval" Type="System.Boolean"/>
+		</Parameters>
+		<DefaultData>
+			<dfs:myFields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<dfs:queryFields>
+				</dfs:queryFields>
+				<dfs:dataFields>
+					<d:SharePointListItem_RW>
+						<d:Approvers>
+							<d:Assignment>
+								<d:Assignee/>
+								<d:Stage xsi:nil="true"/>
+								<d:AssignmentType>Serial</d:AssignmentType>
+							</d:Assignment>
+						</d:Approvers>
+						<d:ExpandGroups>true</d:ExpandGroups>
+						<d:NotificationMessage/>
+						<d:DueDateforAllTasks xsi:nil="true"/>
+						<d:DurationforSerialTasks xsi:nil="true"/>
+						<d:DurationUnits>Day</d:DurationUnits>
+						<d:CC/>
+						<d:CancelonRejection>false</d:CancelonRejection>
+						<d:CancelonChange>false</d:CancelonChange>
+						<d:EnableContentApproval>false</d:EnableContentApproval>
+					</d:SharePointListItem_RW>
+				</dfs:dataFields>
+			</dfs:myFields>
+		</DefaultData>
+	</Initiation>
+	<Extended>
+		<Fields/>
+	</Extended>
+	<MetaData>
+		<TaskForms/>
+		<Modifications ModificationUrl="~layouts/ModWrkflIP.aspx">
+			<Modification TypeId="a938eabe-8db1-45b9-87cb-b930728afe10" NameFormat="모든 {0} 작업 취소" FormURN="urn:schemas-microsoft-com:office:infopath:workflow:OOB-WrapItUp:1042"/>
+		</Modifications>
+		<Instantiation_FormURI Version= "V0.0">/_catalogs/wfpub/게시 승인/reviewpublishing_1042.xsn</Instantiation_FormURI>
+		<Association_FormURN Version= "V0.0">/_catalogs/wfpub/게시 승인/reviewpublishing_1042.xsn</Association_FormURN>
+		<ExtendedStatusColumnValues>
+			<StatusColumnValue>취소됨</StatusColumnValue>
+			<StatusColumnValue>승인됨</StatusColumnValue>
+			<StatusColumnValue>거부됨</StatusColumnValue>
+		</ExtendedStatusColumnValues>
+	</MetaData>
+</WorkflowConfig>

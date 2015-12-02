@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00bfea71-f600-43f6-a895-40c0de7b0117}" TemplateType="122" Title="wfpub" Description="wfpub" Url="_catalogs/wfpub" CustomSchema="Files\_catalogs\wfpub\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Data>
+			<Rows>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Approval - SharePoint 2010</Field>
+					<Field Name="ID">1</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1;#</Field>
+					<Field Name="Order">100.000000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Collect Feedback - SharePoint 2010</Field>
+					<Field Name="ID">8</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">8;#</Field>
+					<Field Name="Order">800.000000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Collect Signatures - SharePoint 2010</Field>
+					<Field Name="ID">15</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">15;#</Field>
+					<Field Name="Order">1500.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Veröffentlichungsgenehmigung</Field>
+					<Field Name="ID">22</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">22;#</Field>
+					<Field Name="Order">2200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Approbation de publication</Field>
+					<Field Name="ID">29</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">29;#</Field>
+					<Field Name="Order">2900.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publiseringsgodkjenning</Field>
+					<Field Name="ID">36</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">36;#</Field>
+					<Field Name="Order">3600.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Утверждение публикации</Field>
+					<Field Name="ID">43</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">43;#</Field>
+					<Field Name="Order">4300.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">正在发布审批</Field>
+					<Field Name="ID">50</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">50;#</Field>
+					<Field Name="Order">5000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">發佈核准</Field>
+					<Field Name="ID">57</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">57;#</Field>
+					<Field Name="Order">5700.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprovació de publicació</Field>
+					<Field Name="ID">64</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">64;#</Field>
+					<Field Name="Order">6400.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">प्रकाशन अनुमोदन</Field>
+					<Field Name="ID">71</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">71;#</Field>
+					<Field Name="Order">7100.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprobare publicare</Field>
+					<Field Name="ID">78</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">78;#</Field>
+					<Field Name="Order">7800.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Odobritev objave</Field>
+					<Field Name="ID">85</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">85;#</Field>
+					<Field Name="Order">8500.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Godkendelse af udgivelse</Field>
+					<Field Name="ID">92</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">92;#</Field>
+					<Field Name="Order">9200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Argitaratzeko onartzea</Field>
+					<Field Name="ID">99</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">99;#</Field>
+					<Field Name="Order">9900.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Julkaisemisen hyväksyntä</Field>
+					<Field Name="ID">106</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">106;#</Field>
+					<Field Name="Order">10600.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publicatie goedkeuren</Field>
+					<Field Name="ID">113</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">113;#</Field>
+					<Field Name="Order">11300.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Schválenie publikovania</Field>
+					<Field Name="ID">120</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">120;#</Field>
+					<Field Name="Order">12000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Одобрение за публикуване</Field>
+					<Field Name="ID">127</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">127;#</Field>
+					<Field Name="Order">12700.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprobación da publicación</Field>
+					<Field Name="ID">134</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">134;#</Field>
+					<Field Name="Order">13400.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Yayımlama Onayı</Field>
+					<Field Name="ID">141</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">141;#</Field>
+					<Field Name="Order">14100.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Odobrenje za objavljivanje</Field>
+					<Field Name="ID">148</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">148;#</Field>
+					<Field Name="Order">14800.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Közzététel jóváhagyása</Field>
+					<Field Name="ID">155</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">155;#</Field>
+					<Field Name="Order">15500.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">게시 승인</Field>
+					<Field Name="ID">162</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">162;#</Field>
+					<Field Name="Order">16200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publikavimo patvirtinimas</Field>
+					<Field Name="ID">169</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">169;#</Field>
+					<Field Name="Order">16900.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publishing Approval</Field>
+					<Field Name="ID">176</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">176;#</Field>
+					<Field Name="Order">17600.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">نشر الموافقة</Field>
+					<Field Name="ID">183</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">183;#</Field>
+					<Field Name="Order">18300.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">発行の承認</Field>
+					<Field Name="ID">190</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">190;#</Field>
+					<Field Name="Order">19000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publicēšanas apstiprināšana</Field>
+					<Field Name="ID">197</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">197;#</Field>
+					<Field Name="Order">19700.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprovação para Publicação</Field>
+					<Field Name="ID">204</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">204;#</Field>
+					<Field Name="Order">20400.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprovação de Publicação</Field>
+					<Field Name="ID">211</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">211;#</Field>
+					<Field Name="Order">21100.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">การอนุมัติการประกาศ</Field>
+					<Field Name="ID">218</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">218;#</Field>
+					<Field Name="Order">21800.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Schválení publikování</Field>
+					<Field Name="ID">225</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">225;#</Field>
+					<Field Name="Order">22500.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Aprobación de publicación</Field>
+					<Field Name="ID">232</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">232;#</Field>
+					<Field Name="Order">23200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">אישור פרסום</Field>
+					<Field Name="ID">239</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">239;#</Field>
+					<Field Name="Order">23900.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Zatwierdzanie publikowania</Field>
+					<Field Name="ID">246</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">246;#</Field>
+					<Field Name="Order">24600.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Objavljivanje odobrenja</Field>
+					<Field Name="ID">253</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">253;#</Field>
+					<Field Name="Order">25300.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Затвердження публікації</Field>
+					<Field Name="ID">260</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">260;#</Field>
+					<Field Name="Order">26000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Έγκριση δημοσίευσης</Field>
+					<Field Name="ID">267</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">267;#</Field>
+					<Field Name="Order">26700.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Avaldamise kinnitamine</Field>
+					<Field Name="ID">274</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">274;#</Field>
+					<Field Name="Order">27400.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Approvazione pubblicazione</Field>
+					<Field Name="ID">281</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">281;#</Field>
+					<Field Name="Order">28100.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Жариялауды бекіту</Field>
+					<Field Name="ID">288</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">288;#</Field>
+					<Field Name="Order">28800.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120004B8AC0654C889D4FBD284F33590A24D7</Field>
+					<Field Name="FileLeafRef">Publiceringsgodkännande</Field>
+					<Field Name="ID">295</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">295;#</Field>
+					<Field Name="Order">29500.0000000000</Field>
+				</Row>
+			</Rows>
+		</Data>
+	</ListInstance>
+</Elements>

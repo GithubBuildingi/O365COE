@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="SiteCollectionImages" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>DocumentSet ItemAdding</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdding</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x0120D520A80800D02E554A14598A4FAB9404C540385521</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>DocSetItemsEventReceiver ItemAdding</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdding</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>DocumentSet ItemUpdating</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x0120D520A80800D02E554A14598A4FAB9404C540385521</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>DocSetItemsEventReceiver ItemUpdating</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>DocumentSet ItemAdded</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x0120D520A80800D02E554A14598A4FAB9404C540385521</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>DocumentSet ItemUpdated</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>100</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x0120D520A80800D02E554A14598A4FAB9404C540385521</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+	</Receivers>
+</Elements>

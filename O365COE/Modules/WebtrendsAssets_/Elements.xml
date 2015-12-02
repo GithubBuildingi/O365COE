@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="WebtrendsAssets_" Url="WebtrendsAssets" RootWebOnly="FALSE" Path="Files\WebtrendsAssets" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="webtrends.js" Level="Published" Path="webtrends.js" />
+		<File Url="webtrends.load.js" Level="Published" Path="webtrends.load.js" />
+		<File Url="webtrends.sp.js" Level="Published" Path="webtrends.sp.js" />
+		<File Url="webtrends.ups.js" Level="Published" Path="webtrends.ups.js" />
+	</Module>
+</Elements>

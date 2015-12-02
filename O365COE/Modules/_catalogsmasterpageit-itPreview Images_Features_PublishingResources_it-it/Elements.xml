@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageit-itPreview Images_Features\PublishingResources\it-it" Url="_catalogs/masterpage/it-it/Preview Images" SetupPath="Features\PublishingResources\it-it" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\it-it\Preview Images" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="DefaultMasterPage.png" Type="GhostableInLibrary" Level="Published" Path="DefaultMasterPage.png">
+			<Property Name="ContentTypeId" Value="0x01010500361D2BEAF212874C814FD1904A90D495" />
+			<Property Name="FileLeafRef" Value="DefaultMasterPage.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="249" />
+			<Property Name="ContentType" Value="Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/it-it/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="249;#" />
+			<Property Name="Order" Value="24900.0000000000" />
+		</File>
+		<File Url="DefaultPageLayout.png" Type="GhostableInLibrary" Level="Published" Path="DefaultPageLayout.png">
+			<Property Name="ContentTypeId" Value="0x01010500361D2BEAF212874C814FD1904A90D495" />
+			<Property Name="FileLeafRef" Value="DefaultPageLayout.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="246" />
+			<Property Name="ContentType" Value="Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/it-it/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="246;#" />
+			<Property Name="Order" Value="24600.0000000000" />
+		</File>
+		<File Url="WelcomeLinks.png" Type="GhostableInLibrary" Level="Published" Path="WelcomeLinks.png">
+			<Property Name="ContentTypeId" Value="0x01010500361D2BEAF212874C814FD1904A90D495" />
+			<Property Name="FileLeafRef" Value="WelcomeLinks.png" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="ID" Value="243" />
+			<Property Name="ContentType" Value="Master Page" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/it-it/Preview Images" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="243;#" />
+			<Property Name="Order" Value="24300.0000000000" />
+		</File>
+	</Module>
+</Elements>

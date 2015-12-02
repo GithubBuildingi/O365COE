@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesContent Web Parts_" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/Display Templates/Content Web Parts" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Content Web Parts" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_IT_AnnouncementAccordion.html" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_AnnouncementAccordion.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_IT_AnnouncementAccordion.html" />
+			<Property Name="MasterPageDescription" Value="This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show." />
+			<Property Name="Title" Value="IT Announcement Accordion" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_AnnouncementAccordion.html, Conversion successful." />
+			<Property Name="ID" Value="2228" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2228;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_lmt:SW|Thu, 17 Apr 2014 01:24:13 GMT&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_AnnouncementAccordion.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;_dlc_DocIdItemGuid:SW|1a9f7b07-ccb4-4430-bd49-0cab61eba4d9&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType _dlc_DocId HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated _dlc_DocIdItemGuid _dlc_DocIdUrl&#xD;&#xA;vti_lat:SW|Mon, 24 Feb 2014 09:20:51 GMT&#xD;&#xA;vti_ct:SW|Thu, 20 Feb 2014 06:58:33 GMT&#xD;&#xA;vti_cachedtitle:SR|IT Announcement Accordion&#xD;&#xA;vti_title:SW|IT Announcement Accordion&#xD;&#xA;MasterPageDescription:SW|This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;_dlc_DocId:SW|7QNHQRECQA2S-2-1944&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_IT_AnnouncementAccordion.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;_dlc_DocIdUrl:SW|https://microsoft.sharepoint.com/teams/b/_layouts/15/DocIdRedir.aspx?ID=7QNHQRECQA2S-2-1944, 7QNHQRECQA2S-2-1944&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|24 Feb 2014 09:20:51 -0000&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="222800.000000000" />
+		</File>
+		<File Url="Control_IT_AnnouncementAccordion.js" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_AnnouncementAccordion.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_IT_AnnouncementAccordion.js" />
+			<Property Name="MasterPageDescription" Value="This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show." />
+			<Property Name="Title" Value="IT Announcement Accordion" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/DiscoDesignPackageTest/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_AnnouncementAccordion.html, Conversion successful." />
+			<Property Name="ID" Value="2229" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2229;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/DiscoDesignPackageTest/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_AnnouncementAccordion.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_IT_AnnouncementAccordion.js&#xD;&#xA;MasterPageDescription:SW|This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show.&#xD;&#xA;vti_title:SW|IT Announcement Accordion&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;" />
+			<Property Name="Order" Value="222900.000000000" />
+		</File>
+		<File Url="Control_IT_NewsCarousel.html" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsCarousel.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsCarousel.html" />
+			<Property Name="MasterPageDescription" Value="This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture." />
+			<Property Name="Title" Value="IT News Carousel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsCarousel.html, Conversion successful." />
+			<Property Name="ID" Value="2230" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2230;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_NewsCarousel.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/sprdp:TW|17 Feb 2014 10:05:43 -0000&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News Carousel&#xD;&#xA;vti_title:SW|IT News Carousel&#xD;&#xA;MasterPageDescription:SW|This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_HotNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="223000.000000000" />
+		</File>
+		<File Url="Control_IT_NewsCarousel.js" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsCarousel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsCarousel.js" />
+			<Property Name="MasterPageDescription" Value="This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture." />
+			<Property Name="Title" Value="IT News Carousel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsCarousel.html, Conversion successful." />
+			<Property Name="ID" Value="2231" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2231;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsCarousel.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_HotNews.js&#xD;&#xA;MasterPageDescription:SW|This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture.&#xD;&#xA;vti_title:SW|IT News Carousel&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;" />
+			<Property Name="Order" Value="223100.000000000" />
+		</File>
+		<File Url="Control_IT_NewsList.html" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsList.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsList.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList.html, Conversion successful." />
+			<Property Name="ID" Value="2232" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2232;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_NewsList.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/sprdp:TW|11 Feb 2014 06:36:36 -0000&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News List&#xD;&#xA;vti_title:SW|IT News List&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_RecentNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="223200.000000000" />
+		</File>
+		<File Url="Control_IT_NewsList.js" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsList.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsList.js" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList.html, Conversion successful." />
+			<Property Name="ID" Value="2233" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2233;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_RecentNews.js&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;vti_title:SW|IT News List&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;" />
+			<Property Name="Order" Value="223300.000000000" />
+		</File>
+		<File Url="Control_IT_NewsList_TwoColumn.html" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsList_TwoColumn.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsList_TwoColumn.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List Two Column" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList_TwoColumn.html, Conversion successful." />
+			<Property Name="ID" Value="2234" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2234;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_NewsList_TwoColumn.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News List Two Column&#xD;&#xA;vti_title:SW|IT News List Two Column&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_RecentNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="223400.000000000" />
+		</File>
+		<File Url="Control_IT_NewsList_TwoColumn.js" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsList_TwoColumn.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsList_TwoColumn.js" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List Two Column" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList_TwoColumn.html, Conversion successful." />
+			<Property Name="ID" Value="2235" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2235;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsList_TwoColumn.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_IT_NewsList_TwoColumn.js&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;vti_title:SW|IT News List Two Column&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;" />
+			<Property Name="Order" Value="223500.000000000" />
+		</File>
+		<File Url="Control_IT_NewsListWithPaging.html" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsListWithPaging.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsListWithPaging.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List with Paging" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsListWithPaging.html, Conversion successful." />
+			<Property Name="ID" Value="2236" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2236;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_IT_NewsListWithPaging.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News List with Paging&#xD;&#xA;vti_title:SW|IT News List with Paging&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_RecentNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="223600.000000000" />
+		</File>
+		<File Url="Control_IT_NewsListWithPaging.js" Type="GhostableInLibrary" Level="Draft" Path="Control_IT_NewsListWithPaging.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_IT_NewsListWithPaging.js" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="IT News List with Paging" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsListWithPaging.html, Conversion successful." />
+			<Property Name="ID" Value="2237" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2237;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsListWithPaging.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_IT_NewsListWithPaging.js&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;vti_title:SW|IT News List with Paging&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;" />
+			<Property Name="Order" Value="223700.000000000" />
+		</File>
+		<File Url="Control_O365_Topic.html" Type="GhostableInLibrary" Level="Published" Path="Control_O365_Topic.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_O365_Topic.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="O365 Topic" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365_Topic.html, Conversion successful." />
+			<Property Name="ID" Value="2302" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2302;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_O365_Topic.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365_Topic.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365_Topic.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365_Topic.html _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365_Topic.html&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|O365 Topic&#xD;&#xA;vti_title:SW|O365 Topic&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_O365_Topic.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="230200.000000000" />
+		</File>
+		<File Url="Control_O365_Topic.js" Type="GhostableInLibrary" Level="Published" Path="Control_O365_Topic.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_O365_Topic.js" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="O365 Topic" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365_Topic.html, Conversion successful." />
+			<Property Name="ID" Value="2292" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2292;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365_Topic.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_O365_Topic.js&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;vti_title:SW|O365 Topic&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229200.000000000" />
+		</File>
+		<File Url="Control_O365List.html" Type="GhostableInLibrary" Level="Published" Path="Control_O365List.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_O365List.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="O365 List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365List.html, Conversion successful." />
+			<Property Name="ID" Value="2293" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2293;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_O365List.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365List.html _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365List.html _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365List.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Control_O365List.js&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|O365 List&#xD;&#xA;vti_title:SW|O365 List&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_O365List.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229300.000000000" />
+		</File>
+		<File Url="Control_O365List.js" Type="GhostableInLibrary" Level="Published" Path="Control_O365List.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_O365List.js" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="O365 List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365List.html, Conversion successful." />
+			<Property Name="ID" Value="2294" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2294;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_O365List.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Control_O365List.js&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;vti_title:SW|O365 List&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229400.000000000" />
+		</File>
+		<File Url="Item_IT_AnnouncementAccordion.html" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_AnnouncementAccordion.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_IT_AnnouncementAccordion.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT Announcement Accordion" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','BodyOWSMTXT':'BodyOWSMTXT'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_AnnouncementAccordion.html, Conversion successful." />
+			<Property Name="ID" Value="2238" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2238;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_AnnouncementAccordion.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;_dlc_DocIdItemGuid:SW|65f0120e-8884-44fd-9ecc-19db57bad676&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Title':'Title','BodyOWSMTXT':'BodyOWSMTXT'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType _dlc_DocId HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated _dlc_DocIdItemGuid _dlc_DocIdUrl&#xD;&#xA;vti_cachedtitle:SR|IT Announcement Accordion&#xD;&#xA;vti_title:SW|IT Announcement Accordion&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;_dlc_DocId:SW|7QNHQRECQA2S-2-1942&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_IT_AnnouncementAccordion.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;_dlc_DocIdUrl:SW|https://microsoft.sharepoint.com/teams/b/_layouts/15/DocIdRedir.aspx?ID=7QNHQRECQA2S-2-1942, 7QNHQRECQA2S-2-1942&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itdesign:TW|20 Feb 2014 07:24:57 -0000&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="223800.000000000" />
+		</File>
+		<File Url="Item_IT_AnnouncementAccordion.js" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_AnnouncementAccordion.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_AnnouncementAccordion.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT Announcement Accordion" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','BodyOWSMTXT':'BodyOWSMTXT'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_AnnouncementAccordion.html, Conversion successful." />
+			<Property Name="ID" Value="2239" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2239;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'Title':'Title','BodyOWSMTXT':'BodyOWSMTXT'&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_AnnouncementAccordion.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_IT_AnnouncementAccordion.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;vti_title:SW|IT Announcement Accordion&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;" />
+			<Property Name="Order" Value="223900.000000000" />
+		</File>
+		<File Url="Item_IT_Arch_KB.html" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_Arch_KB.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_Arch_KB.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. " />
+			<Property Name="Title" Value="IT Architectural KB" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','PlaybookBodyOWSMTXT':'PlaybookBodyOWSMTXT','PlaybookExampleOWSMTXT':'PlaybookExampleOWSMTXT','PlaybookRelatedOWSMTXT':'PlaybookRelatedOWSMTXT'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_Arch_KB.html, Conversion successful." />
+			<Property Name="ID" Value="2295" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2295;#CompatibleManagedProperties:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_Arch_KB.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;CrawlerXSLFile:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Title':'Title','PlaybookBodyOWSMTXT':'PlaybookBodyOWSMTXT','PlaybookExampleOWSMTXT':'PlaybookExampleOWSMTXT','PlaybookRelatedOWSMTXT':'PlaybookRelatedOWSMTXT'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;CompatibleSearchDataTypes:SW|&#xD;&#xA;DisplayTemplateLevel:SW|&#xD;&#xA;vti_cachedcustomprops:VX|CrawlerXSLFile CompatibleManagedProperties TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded CompatibleSearchDataTypes DisplayTemplateLevel FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT Architectural KB&#xD;&#xA;vti_title:SW|IT Architectural KB&#xD;&#xA;MasterPageDescription:SW|This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. &#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FileLeafRef:SW|Item_IT_Arch_KB.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229500.000000000" />
+		</File>
+		<File Url="Item_IT_Arch_KB.js" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_Arch_KB.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_Arch_KB.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. " />
+			<Property Name="Title" Value="IT Architectural KB" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Base" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','PlaybookBodyOWSMTXT':'PlaybookBodyOWSMTXT','PlaybookExampleOWSMTXT':'PlaybookExampleOWSMTXT','PlaybookRelatedOWSMTXT':'PlaybookRelatedOWSMTXT'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/itdesign/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_Arch_KB.html, Conversion successful." />
+			<Property Name="ID" Value="2296" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2296;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/itdesign/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_Arch_KB.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Base&#xD;&#xA;ManagedPropertyMapping:SW|'Title':'Title','PlaybookBodyOWSMTXT':'PlaybookBodyOWSMTXT','PlaybookExampleOWSMTXT':'PlaybookExampleOWSMTXT','PlaybookRelatedOWSMTXT':'PlaybookRelatedOWSMTXT'&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_IT_Arch_KB.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. &#xD;&#xA;vti_title:SW|IT Architectural KB&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229600.000000000" />
+		</File>
+		<File Url="Item_IT_NewsCarousel.html" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsCarousel.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsCarousel.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT News Carousel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsCarousel.html, Conversion successful." />
+			<Property Name="ID" Value="2240" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2240;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_NewsCarousel.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/sprdp:TW|18 Feb 2014 06:33:27 -0000&#xD;&#xA;CrawlerXSLFile:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|CrawlerXSLFile TemplateHidden ManagedPropertyMapping HtmlDesignPreviewUrl HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News Carousel&#xD;&#xA;vti_title:SW|IT News Carousel&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_HotNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="224000.000000000" />
+		</File>
+		<File Url="Item_IT_NewsCarousel.js" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsCarousel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsCarousel.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT News Carousel" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsCarousel.html, Conversion successful." />
+			<Property Name="ID" Value="2241" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2241;#vti_encoding:SR|utf8-nl&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsCarousel.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_HotNews.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;vti_title:SW|IT News Carousel&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;" />
+			<Property Name="Order" Value="224100.000000000" />
+		</File>
+		<File Url="Item_IT_NewsDetail.html" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsDetail.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsDetail.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a detail." />
+			<Property Name="Title" Value="IT News Detail" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'NewsSource'{NewsSource}:'owstaxIdNewsSource','ListID'{ListID}:'ListID','ListItemID'{ListItemID}:'ListItemID','Topics'{Topics}:'TopicsOWSTEXT','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;PageImage','Title'{Title}:'Title','Publisher'{Publisher}:'PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{NewsDescription}:'NewsArticleContentOWSHTML','Link URL'{Link URL}:'Path','LikesCount'{LikesCount}:'LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsDetail.html, Conversion successful." />
+			<Property Name="ID" Value="2242" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2242;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_NewsDetail.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/sprdp:TW|11 Feb 2014 06:36:40 -0000&#xD;&#xA;CrawlerXSLFile:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'NewsSource'{NewsSource}:'owstaxIdNewsSource','ListID'{ListID}:'ListID','ListItemID'{ListItemID}:'ListItemID','Topics'{Topics}:'TopicsOWSTEXT','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;PageImage','Title'{Title}:'Title','Publisher'{Publisher}:'PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{NewsDescription}:'NewsArticleContentOWSHTML','Link URL'{Link URL}:'Path','LikesCount'{LikesCount}:'LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|CrawlerXSLFile TemplateHidden ManagedPropertyMapping HtmlDesignPreviewUrl HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News Detail&#xD;&#xA;vti_title:SW|IT News Detail&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a detail.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_NewsDetail.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="224200.000000000" />
+		</File>
+		<File Url="Item_IT_NewsDetail.js" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsDetail.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsDetail.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a detail." />
+			<Property Name="Title" Value="IT News Detail" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'NewsSource'{NewsSource}:'owstaxIdNewsSource','ListID'{ListID}:'ListID','ListItemID'{ListItemID}:'ListItemID','Topics'{Topics}:'TopicsOWSTEXT','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;PageImage','Title'{Title}:'Title','Publisher'{Publisher}:'PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{NewsDescription}:'NewsArticleContentOWSHTML','Link URL'{Link URL}:'Path','LikesCount'{LikesCount}:'LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsDetail.html, Conversion successful." />
+			<Property Name="ID" Value="2243" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2243;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_NewsDetail.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'NewsSource'{NewsSource}:'owstaxIdNewsSource','ListID'{ListID}:'ListID','ListItemID'{ListItemID}:'ListItemID','Topics'{Topics}:'TopicsOWSTEXT','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;PageImage','Title'{Title}:'Title','Publisher'{Publisher}:'PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{NewsDescription}:'NewsArticleContentOWSHTML','Link URL'{Link URL}:'Path','LikesCount'{LikesCount}:'LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_NewsDetail.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a detail.&#xD;&#xA;vti_title:SW|IT News Detail&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="224300.000000000" />
+		</File>
+		<File Url="Item_IT_NewsList.html" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsList.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsList.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT News List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'NewsSource'{NewsSource}:'owstaxIdNewsSource','Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsList.html, Conversion successful." />
+			<Property Name="ID" Value="2244" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2244;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_NewsList.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/sprdp:TW|11 Feb 2014 07:36:24 -0000&#xD;&#xA;CrawlerXSLFile:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'NewsSource'{NewsSource}:'owstaxIdNewsSource','Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignPreviewUrl:SW|&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|CrawlerXSLFile TemplateHidden ManagedPropertyMapping HtmlDesignPreviewUrl HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|IT News List&#xD;&#xA;vti_title:SW|IT News List&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_RecentNews.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="224400.000000000" />
+		</File>
+		<File Url="Item_IT_NewsList.js" Type="GhostableInLibrary" Level="Draft" Path="Item_IT_NewsList.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_IT_NewsList.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="IT News List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'NewsSource'{NewsSource}:'owstaxIdNewsSource','Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsList.html, Conversion successful." />
+			<Property Name="ID" Value="2245" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2245;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/NewsDev01/_catalogs/masterpage/Display Templates/Content Web Parts/Item_IT_NewsList.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'NewsSource'{NewsSource}:'owstaxIdNewsSource','Source URL'{Source URL}:'URLOWSURLH;','Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL;','Title'{Title}:'Title','Publisher'{Publisher}:'AuthorOWSTEXT;PublisherOWSTEXT','PublishDate'{PublishDate}:'PublishDateOWSDATE','NewsDescription'{Description}:'NewsDescriptionOWSMTXT','Link URL'{Link URL}:'Path','ListID','ListItemID','LikesCount','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_RecentNews.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;vti_title:SW|IT News List&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="224500.000000000" />
+		</File>
+		<File Url="Item_O365TwoLinesNoIcon.html" Type="GhostableInLibrary" Level="Published" Path="Item_O365TwoLinesNoIcon.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_O365TwoLinesNoIcon.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="O365 Two Lines No Icon" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_O365TwoLinesNoIcon.html, Conversion successful." />
+			<Property Name="ID" Value="2297" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2297;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_O365TwoLinesNoIcon.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_O365TwoLinesNoIcon.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_O365TwoLinesNoIcon.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_O365TwoLinesNoIcon.html _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_O365TwoLinesNoIcon.html&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|O365 Two Lines No Icon&#xD;&#xA;vti_title:SW|O365 Two Lines No Icon&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_O365TwoLinesNoIcon.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229700.000000000" />
+		</File>
+		<File Url="Item_O365TwoLinesNoIcon.js" Type="GhostableInLibrary" Level="Published" Path="Item_O365TwoLinesNoIcon.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_O365TwoLinesNoIcon.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="O365 Two Lines No Icon" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_O365TwoLinesNoIcon.html, Conversion successful." />
+			<Property Name="ID" Value="2298" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2298;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_O365TwoLinesNoIcon.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_O365TwoLinesNoIcon.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;vti_title:SW|O365 Two Lines No Icon&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229800.000000000" />
+		</File>
+		<File Url="Item_PictureTitleOnTop.html" Type="GhostableInLibrary" Level="Published" Path="Item_PictureTitleOnTop.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_PictureTitleOnTop.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a picture using the Image Rendition ID 7 of the item. The title and the Link will be displayed above the image." />
+			<Property Name="Title" Value="Picture, Title and Link on Top" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_PictureTitleOnTop.html, Conversion successful." />
+			<Property Name="ID" Value="2303" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2303;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_PictureTitleOnTop.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_PictureTitleOnTop.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_PictureTitleOnTop.js _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_PictureTitleOnTop.html _catalogs/masterpage/Display\\ Templates/Content\\ Web\\ Parts/Item_PictureTitleOnTop.html&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Picture, Title and Link on Top&#xD;&#xA;vti_title:SW|Picture, Title and Link on Top&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a picture using the Image Rendition ID 7 of the item. The title and the Link will be displayed above the image.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_PictureTitleOnTop.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="230300.000000000" />
+		</File>
+		<File Url="Item_PictureTitleOnTop.js" Type="GhostableInLibrary" Level="Published" Path="Item_PictureTitleOnTop.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_PictureTitleOnTop.js" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a picture using the Image Rendition ID 7 of the item. The title and the Link will be displayed above the image." />
+			<Property Name="Title" Value="Picture, Title and Link on Top" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_PictureTitleOnTop.html, Conversion successful." />
+			<Property Name="ID" Value="2299" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2299;#HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_PictureTitleOnTop.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SW|false&#xD;&#xA;DisplayTemplateLevel:SW|Item&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title'&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-gabray@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;FileLeafRef:SW|Item_PictureTitleOnTop.js&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a picture using the Image Rendition ID 7 of the item. The title and the Link will be displayed above the image.&#xD;&#xA;vti_title:SW|Picture, Title and Link on Top&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;" />
+			<Property Name="Order" Value="229900.000000000" />
+		</File>
+	</Module>
+</Elements>

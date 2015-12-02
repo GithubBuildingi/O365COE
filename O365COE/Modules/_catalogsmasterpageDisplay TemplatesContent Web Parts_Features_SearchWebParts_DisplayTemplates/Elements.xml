@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesContent Web Parts_Features\SearchWebParts\DisplayTemplates" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/Display Templates/Content Web Parts" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Content Web Parts" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Group_Content.js" Type="GhostableInLibrary" Level="Draft" Path="Group_Content.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Group_Content.js" />
+			<Property Name="Title" Value="Content Group" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Group" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/teams/Office365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Group_Content.html, Conversion successful." />
+			<Property Name="ID" Value="2056" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2056;#HtmlDesignLockedFile:SW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Group_Content.html, Conversion successful.&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\DisplayTemplates\\Group_Content.js&#xD;&#xA;UIVersion:SW|&#xD;&#xA;HtmlDesignAssociated:BW|true&#xD;&#xA;TemplateHidden:SW|0&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;DisplayTemplateLevel:SW|Group&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|Content Group&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentType:SW|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="205600.000000000" />
+		</File>
+	</Module>
+</Elements>

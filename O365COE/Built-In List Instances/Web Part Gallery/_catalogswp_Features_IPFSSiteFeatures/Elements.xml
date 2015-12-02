@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\IPFSSiteFeatures" Url="_catalogs/wp" SetupPath="Features\IPFSSiteFeatures" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Microsoft.Office.InfoPath.Server.BrowserForm.webpart" Type="GhostableInLibrary" Level="Published" Path="Microsoft.Office.InfoPath.Server.BrowserForm.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Microsoft.Office.InfoPath.Server.BrowserForm.webpart" />
+			<Property Name="Title" Value="$Resources:ipfscore,InfoPathBrowserFormTitleWebPart;" />
+			<Property Name="WebPartDescription" Value="$Resources:ipfscore,InfoPathBrowserFormDescriptionWebPart" />
+			<Property Name="Group" Value="$Resources:spscore,FormsWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#" />
+			<Property Name="ID" Value="40" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="40;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FormsWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\IPFSSiteFeatures\\Microsoft.Office.InfoPath.Server.BrowserForm.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.InfoPath.Server.Controls.WebUI.BrowserFormWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.InfoPath.Server,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:ipfscore,InfoPathBrowserFormDescriptionWebPart&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:ipfscore,InfoPathBrowserFormTitleWebPart;&#xD;&#xA;vti_title:SR|$Resources:ipfscore,InfoPathBrowserFormTitleWebPart;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="4000.00000000000" />
+		</File>
+	</Module>
+</Elements>

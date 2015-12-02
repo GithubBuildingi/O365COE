@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="PublishingImagesPages_t_" Url="PublishingImages/Pages/_t" RootWebOnly="FALSE" Path="Files\PublishingImages\Pages\_t" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="GOVERNANCE2_gif.jpg" Level="Draft" Path="GOVERNANCE2_gif.jpg" />
+		<File Url="GOVERNANCE3_gif.jpg" Level="Draft" Path="GOVERNANCE3_gif.jpg" />
+	</Module>
+</Elements>

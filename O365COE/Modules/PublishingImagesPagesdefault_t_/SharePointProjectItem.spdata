@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\PublishingImages\Pages\default\_t\WIN12_Claudia_245x246_png.jpg" Target="Files\PublishingImages\Pages\default\_t\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="PublishingImagesPagesdefault_t_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

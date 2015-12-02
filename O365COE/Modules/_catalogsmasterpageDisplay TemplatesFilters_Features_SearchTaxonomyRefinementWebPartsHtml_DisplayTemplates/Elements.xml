@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesFilters_Features\SearchTaxonomyRefinementWebPartsHtml\DisplayTemplates" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/Display Templates/Filters" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Filters" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_TaxonomyRefinement.html" Type="GhostableInLibrary" Level="Draft" Path="Control_TaxonomyRefinement.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_TaxonomyRefinement.html" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="Title" Value="Default Taxonomy Refinement" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#TaxonomyRefinement;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Control_TaxonomyRefinement.html, Conversion successful." />
+			<Property Name="ID" Value="516" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="516;#CompatibleManagedProperties:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#TaxonomyRefinement;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Filters/Control_TaxonomyRefinement.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/dev_/_catalogs/masterpage/Display Templates/Filters&#xD;&#xA;vti_setuppath:SR|Features\\SearchTaxonomyRefinementWebPartsHtml\\DisplayTemplates\\Control_TaxonomyRefinement.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|CompatibleManagedProperties TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Default Taxonomy Refinement&#xD;&#xA;vti_title:SW|Default Taxonomy Refinement&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_TaxonomyRefinement.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="51600.0000000000" />
+		</File>
+		<File Url="Filter_TaxonomyRefinement.html" Type="GhostableInLibrary" Level="Draft" Path="Filter_TaxonomyRefinement.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660400C7892DA18D400F4AA90347CBD8B6C45B" />
+			<Property Name="FileLeafRef" Value="Filter_TaxonomyRefinement.html" />
+			<Property Name="DisplayTemplateJSTemplateType" Value="Override" />
+			<Property Name="Title" Value="Link with count" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#TaxonomyRefinement;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Filters/Filter_TaxonomyRefinement.html, Conversion successful." />
+			<Property Name="ID" Value="517" />
+			<Property Name="ContentType" Value="Filter Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="517;#CompatibleManagedProperties:SW|&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#TaxonomyRefinement;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Filters/Filter_TaxonomyRefinement.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/dev_/_catalogs/masterpage/Display Templates/Filters&#xD;&#xA;vti_setuppath:SR|Features\\SearchTaxonomyRefinementWebPartsHtml\\DisplayTemplates\\Filter_TaxonomyRefinement.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;CompatibleSearchDataTypes:SW|&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|CompatibleManagedProperties TemplateHidden CompatibleSearchDataTypes HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview ContentType FileDirRef FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Link with count&#xD;&#xA;vti_title:SW|Link with count&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660400C7892DA18D400F4AA90347CBD8B6C45B&#xD;&#xA;ContentType:SW|Filter Display Template&#xD;&#xA;FileLeafRef:SW|Filter_TaxonomyRefinement.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="51700.0000000000" />
+		</File>
+	</Module>
+</Elements>

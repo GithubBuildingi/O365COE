@@ -1,0 +1,93 @@
+﻿<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"> 
+<head>
+<title>Picture, Title and Link on Top</title>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
+<mso:ManagedPropertyMapping msdt:dt="string">&#39;Picture URL&#39;{Picture URL}:&#39;PublishingImage;PictureURL;PictureThumbnailURL&#39;,&#39;Link URL&#39;{Link URL}:&#39;Path&#39;,&#39;Line 1&#39;{Line 1}:&#39;Title&#39;</mso:ManagedPropertyMapping>
+<mso:MasterPageDescription msdt:dt="string">This Item Display Template will show a picture using the Image Rendition ID 7 of the item. The title and the Link will be displayed above the image.</mso:MasterPageDescription>
+<mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F38510660300C3582AC9A4667343AB164317911DE03C</mso:ContentTypeId>
+<mso:TargetControlType msdt:dt="string">;#Content Web Parts;#</mso:TargetControlType>
+<mso:HtmlDesignAssociated msdt:dt="string">1</mso:HtmlDesignAssociated>
+<mso:HtmlDesignConversionSucceeded msdt:dt="string">True</mso:HtmlDesignConversionSucceeded>
+<mso:HtmlDesignStatusAndPreview msdt:dt="string">https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_PictureTitleOnTop.html, Conversion successful.</mso:HtmlDesignStatusAndPreview>
+<mso:FSObjType msdt:dt="string">0</mso:FSObjType>
+<mso:ContentType msdt:dt="string">Item Display Template</mso:ContentType>
+<mso:FileDirRef msdt:dt="string">sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts</mso:FileDirRef>
+<mso:FileLeafRef msdt:dt="string">Item_PictureTitleOnTop.html</mso:FileLeafRef>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+
+<body>
+
+    <!--
+            Warning: Do not try to add HTML to this section. Only the contents of the first <div>
+            inside the <body> tag will be used while executing Display Template code. Any HTML that
+            you add to this section will NOT become part of your Display Template.
+    -->
+    <script>
+        $includeLanguageScript(this.url, "~sitecollection/_catalogs/masterpage/Display Templates/Language Files/{Locale}/CustomStrings.js");
+    </script>
+
+    <!--
+        Use the div below to author your Display Template. Here are some things to keep in mind:
+        * Surround any JavaScript logic as shown below using a "pound underscore" (#_ ... _#) token
+        inside a comment.
+
+        * Use the values assigned to your variables using an "underscore pound equals"
+        (_#= ... =#_) token.
+    -->
+
+    <div id="Item_PictureOnTop">
+<!--#_
+var encodedId = $htmlEncode(ctx.ClientControl.get_nextUniqueId() + "_pictureOnTop_");
+
+var linkURL = $getItemValue(ctx, "Link URL");
+linkURL.overrideValueRenderer($urlHtmlEncodeValueObject);
+
+var line1 = $getItemValue(ctx, "Line 1");
+var setLineHeightRenderer = function(valueInfoObj)
+{
+    if(!$isNull(valueInfoObj) && !valueInfoObj.isEmpty)
+    {
+        if(!$isNull(valueInfoObj.defaultValueRenderer))
+        {
+            return valueInfoObj.defaultValueRenderer(valueInfoObj);
+        }
+        else
+        {
+            return valueInfoObj.toString();
+        }
+    }
+    else
+    {
+        return "&nbsp;";
+    }
+}
+
+var pictureURL = $getItemValue(ctx, "Picture URL");
+var pictureId = encodedId + "picture";
+var pictureMarkup = Srch.ContentBySearch.getPictureMarkup(pictureURL, 304, 100, ctx.CurrentItem, "cbs-pictureOnTopImg", line1, pictureId);
+
+var containerId = encodedId + "container";
+var pictureLinkId = encodedId + "pictureLink";
+var pictureContainerId = encodedId + "pictureContainer";
+var dataContainerId = encodedId + "dataContainer";
+var line1LinkId = encodedId + "line1Link";
+var line1Id = encodedId + "line1";
+ _#-->
+	     
+	    <div class="bi-topicContainer">
+	    	<img src="_#= pictureURL =#_" data-themekey="#" alt="_#= line1 =#_"/>
+	    	<div class="bi-topicTitle"> 
+	        	<a href="_#= linkURL =#_" title="_#= line1 =#_">_#= line1 =#_</a>
+	    	</div>
+	    </div>
+        
+        
+        
+    </div>
+</body>
+</html>

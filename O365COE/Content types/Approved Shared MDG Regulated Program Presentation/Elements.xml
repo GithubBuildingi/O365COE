@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x01010090509EFF0003CC448D94E531E252133E02" Name="Approved Shared MDG Regulated Program Presentation" Group="Approved Shared MDG Regulated Content Types" Description="Used for regulated MDG Program presentations." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Approved Shared Regulated MDG Program Presentation" />
+		<FieldRefs>
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" Hidden="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{bcf049ea-c646-4574-98a3-fba6a139f6eb}" Name="DocumentType" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1b310b07-d83d-4d4d-95e8-585c5cd99a7c}" Name="Document_x0020_Classification_x0020_Code" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{34a72e09-3ca6-4931-b2e3-f81c40bb87bd}" Name="RoutingRuleDescription" Required="FALSE" Hidden="TRUE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{2e8881da-0332-4ad9-a565-45b5b8b2702f}" Name="ReportOwner" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{cad04f11-c83d-4e6d-b92a-5e82b518a152}" Name="BusinessImpactClassification" Required="TRUE" AllowDeletion="TRUE" />
+			<FieldRef ID="{840a9f3c-1e14-4c21-9dbf-5637765665db}" Name="Confidentiality" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{bc28b5f0-7665-4a3b-9607-3bbbebfeb8c9}" Name="MSLanguage" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" AllowDeletion="TRUE" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{64a34c7e-4953-4022-af5b-f8f6438ec280}" Name="bcf049eac646457498a3fba6a139f6eb" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{2cb93adc-de41-4fb0-a580-c9d68e3aca91}" Name="cad04f11c83d4e6db92a5e82b518a152" Hidden="TRUE" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{e5124dd0-b53e-406e-a74e-f800f7078aa6}" Name="ConfidentialityTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{73a5f366-2b81-45c2-8e99-00bb54601b83}" Name="bc28b5f076654a3b96073bbbebfeb8c9" Hidden="TRUE" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{95eabde9-14e4-42f2-9c7d-c9b1ab4083cd}" Name="hb310b07d83d4d4d95e8585c5cd99a7c" Hidden="TRUE" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{e0a83b4b-e44c-4cad-beb3-1a17ba3866eb}" Name="a0b67a3e677846be82e039dcf1740765" Hidden="TRUE" />
+			<FieldRef ID="{a0b67a3e-6778-46be-82e0-39dcf1740765}" Name="MDGScope" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e6a0623c-9c5c-4c4b-8610-ada6e3bac96f}" Name="d6635707aded4d1690cc97f9e0804a3d" Hidden="TRUE" />
+			<FieldRef ID="{d6635707-aded-4d16-90cc-97f9e0804a3d}" Name="MDGSubscope" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{b7ff008f-fe63-4b07-959c-4d750a8dd6a8}" Name="k4a8d33da89e4bf2bf2e84e0613d97e8" Hidden="TRUE" />
+			<FieldRef ID="{44a8d33d-a89e-4bf2-bf2e-84e0613d97e8}" Name="MDG_x0020_Program_x0020_Milestone" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{74e6ae8a-0e3e-4dcb-bbff-b5a016d74d64}" Name="_dlc_ExpireDateSaved" Hidden="TRUE" />
+			<FieldRef ID="{acd16fdf-052f-40f7-bb7e-564c269c9fbc}" Name="_dlc_ExpireDate" />
+			<FieldRef ID="{bc399e12-f219-405b-aa1c-1099b43a2aa4}" Name="TriggerDate" Required="FALSE" Hidden="TRUE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{58176988-0c76-4cc7-af61-f48c2fe53cff}" Name="OrgCreateDate" Required="FALSE" Hidden="TRUE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{6a385ec6-92c6-495e-99b4-1e3ae46ec3e2}" Name="OrgAuthor" Required="FALSE" Hidden="TRUE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+		</FieldRefs>
+		<DocumentTemplate TargetName="_cts/Approved Shared Regulated MDG Program Presentation/regulated_ppt_template.pptx" />
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x01010090509EFF0003CC448D94E531E252133E02" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events">
+					<Receiver>
+						<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10001</Type>
+						<SequenceNumber>101</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10002</Type>
+						<SequenceNumber>102</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10004</Type>
+						<SequenceNumber>103</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10006</Type>
+						<SequenceNumber>104</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10009</Type>
+						<SequenceNumber>105</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Policy Auditing</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10001</Type>
+						<SequenceNumber>1100</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.AuditHandler</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Policy Auditing</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10002</Type>
+						<SequenceNumber>1101</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.AuditHandler</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Policy Auditing</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10004</Type>
+						<SequenceNumber>1102</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.AuditHandler</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>Policy Auditing</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10006</Type>
+						<SequenceNumber>1103</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.RecordsManagement.Internal.AuditHandler</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+				</spe:Receivers>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

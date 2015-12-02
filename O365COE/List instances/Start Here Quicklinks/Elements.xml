@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{192efa95-e50c-475e-87ab-361cede5dd7f}" TemplateType="170" Title="Start Here Quicklinks" Description="" Url="Lists/starthere" CustomSchema="Files\Lists\starthere\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="Publishing CornerForms_1033\STS\doctemp\word" Url="Publishing Corner/Forms" RootWebOnly="FALSE" Path="Files\Publishing Corner\Forms" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="template.dotx" DocumentTemplateForList="Publishing Corner/Forms" Level="Published" Path="template.dotx" />
+	</Module>
+</Elements>

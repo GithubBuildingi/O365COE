@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010500EE26393388AB7D488348894B15933858" Name="Approved Shared News Item" Group="Approved Shared Content Types" Description="This content type is intended for use via the MSIT supported Enterprise News Service solution. Use this content type if you would like the item to be available in the News Service Web Part. (Based on &quot;item&quot; type.)" ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Approved Shared News - ITEM TEST" />
+		<FieldRefs>
+			<FieldRef ID="{c29e077d-f466-4d8e-8bbe-72b66c5f205c}" Name="URL" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{246d0907-637c-46b7-9aa0-0bb914daa832}" Name="_Author" />
+			<FieldRef ID="{3efd2125-89f2-498d-bdf4-6e0c67139086}" Name="Publish_x0020_Date" />
+			<FieldRef ID="{46748381-552b-486d-a3bc-d0127d6569a6}" Name="NewsDescription" />
+			<FieldRef ID="{6ec17358-4d95-4f2d-95bf-c7da8b7958ab}" Name="NewsArticleContent" />
+			<FieldRef ID="{543bc2cf-1f30-488e-8f25-6fe3b689d9ac}" Name="PublishingRollupImage" />
+			<FieldRef ID="{56f004f2-1209-409d-a86a-713c0f24627d}" Name="NewsSource" />
+			<FieldRef ID="{8f67e5d4-b76f-4a9d-b876-9983fda9cec0}" Name="NewsType" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{33562c58-ee41-4e02-8925-bc902cfc01a1}" Name="NewsTopic" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ee77c2ea-e1b9-4a90-85df-76a95e6ae936}" Name="MSProducts" />
+			<FieldRef ID="{37d8d628-a6b4-4d12-82ee-c8db17c6a7cd}" Name="FeaturedNews" />
+			<FieldRef ID="{5a4444b6-1d19-4675-97d6-3190b69ac227}" Name="EmployeeRole" />
+			<FieldRef ID="{e8080b04-8196-4c75-9b2c-36ae49591b31}" Name="MSPhysicalGeography" />
+			<FieldRef ID="{51d39414-03dc-4bd0-b777-d3e20cb350f7}" Name="PublishingStartDate" />
+			<FieldRef ID="{a990e64f-faa3-49c1-aafa-885fda79de62}" Name="PublishingExpirationDate" />
+			<FieldRef ID="{aaeb76b4-0c96-4fc0-992f-e184790200f2}" Name="e8080b0481964c759b2c36ae49591b31" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{9da97a8a-1da5-4a77-98d3-4bc10456e700}" Name="Comments" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{82642ec8-ef9b-478f-acf9-31f7d45fbc31}" Name="LinkTitle" Hidden="TRUE" />
+			<FieldRef ID="{3930eeaf-c2b6-4ee2-b486-ba2cc73fbfb3}" Name="l6f004f21209409da86a713c0f24627d" Hidden="TRUE" />
+			<FieldRef ID="{bc91a437-52e7-49e1-8c4e-4698904b2b6d}" Name="LinkTitleNoMenu" Hidden="TRUE" />
+			<FieldRef ID="{016be7ff-53dd-4cf2-a36c-b6107fd7e1d9}" Name="j3562c58ee414e028925bc902cfc01a1" Hidden="TRUE" />
+			<FieldRef ID="{aeaf07ee-d2fb-448b-a7a3-cf7e062d6c2a}" Name="URLNoMenu" />
+			<FieldRef ID="{584af7a7-2363-4d43-9e14-c4f6fe46bfa6}" Name="of67e5d4b76f4a9db8769983fda9cec0" Hidden="TRUE" />
+			<FieldRef ID="{2a9ab6d3-268a-4c1c-9897-e5f018f87e64}" Name="URLwMenu" />
+			<FieldRef ID="{1018ce89-8f45-49b1-9c7c-83c5ae6b94e7}" Name="MSProductsTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{37cbddf9-3b2d-4a69-8b38-4d9b20950cc5}" Name="la4444b61d19467597d63190b69ac227" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010500EE26393388AB7D488348894B15933858" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

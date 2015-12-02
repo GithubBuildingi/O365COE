@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x01010000DEC92EFE5D445789D9FE4A3225A381" Name="Translation Status" Group="_Hidden" Description="Translation State is a Content Type created to represent all the information that is tracked by the Translation Feature." Overwrite="TRUE" FeatureId="{4e7276bc-e7ab-4951-9c4b-a74d44205c32}" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Translation Status" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{d5e67c73-de1d-484e-8463-61a1f35d56f2}" Name="Batch Id" />
+			<FieldRef ID="{9945a424-9a0f-46df-a39e-58d10f8135c1}" Name="Submission Time" />
+			<FieldRef ID="{06c9d16f-9b21-4b11-bc5e-710078bd8c37}" Name="Job Completion Time" />
+			<FieldRef ID="{ba67333c-6b3d-4221-a8d7-c9cf6ef85010}" Name="Export Time" />
+			<FieldRef ID="{fc75d934-8851-4ab2-8513-562b7f4d223e}" Name="Upload Time" />
+			<FieldRef ID="{8ee7c246-ccc6-4dd1-899b-76d954fb760c}" Name="Translation type" />
+			<FieldRef ID="{c0c07065-b67a-4be6-b748-a488fa47aa2d}" Name="Translator Name" />
+			<FieldRef ID="{9227689d-eb22-4289-8b41-95989fc01114}" Name="Exporting User" />
+			<FieldRef ID="{1f8b0dc9-386a-4000-8f7a-26ef0bd40b16}" Name="Uploading User" />
+			<FieldRef ID="{c208e2fb-4118-4071-8578-7e4c3f54ef62}" Name="List" />
+			<FieldRef ID="{646812d3-77e7-4f5d-81cc-639724ee605f}" Name="Site" />
+			<FieldRef ID="{a4e65742-4a94-4190-99f9-676eec30f436}" Name="List Link" />
+			<FieldRef ID="{65c899fb-85d9-4b80-922e-eae197f942fa}" Name="Translated Items" />
+			<FieldRef ID="{29245799-3020-4559-b74d-847b7bc8508f}" Name="Export Job Size" />
+			<FieldRef ID="{87dd98b3-9580-4f52-bba5-a4c6ac94bf02}" Name="Upload Job Size" />
+			<FieldRef ID="{fe49a826-cdda-496a-91af-a820814383ec}" Name="Download Link" />
+			<FieldRef ID="{c3c9851e-6139-479b-b3d2-2c7fb6f3bd29}" Name="Translation Status" />
+			<FieldRef ID="{6b9b4f94-88e9-4f5d-b05b-0afb8f6a0b2c}" Name="Number of Items" />
+			<FieldRef ID="{633c23a4-1c00-4934-8850-04394ec25420}" Name="Errors" />
+			<FieldRef ID="{cca3f38b-47d8-484f-8467-5d810006bff5}" Name="Terms" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

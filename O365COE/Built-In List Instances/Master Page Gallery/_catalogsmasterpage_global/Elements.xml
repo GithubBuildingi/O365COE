@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpage_global" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="oslo.master" Type="GhostableInLibrary" Level="Draft" Path="oslo.master">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB" />
+			<Property Name="FileLeafRef" Value="oslo.master" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/oslo.html, Conversion successful." />
+			<Property Name="ID" Value="4" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="4;#vti_encoding:SR|utf8-nl&#xD;&#xA;DefaultCssFile:SW|&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/oslo.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB&#xD;&#xA;MasterHash:IW|-1285206476&#xD;&#xA;ContentType:SW|ASP NET Master Page&#xD;&#xA;FileLeafRef:SW|oslo.master&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|global\\oslo.master&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body onhashchange=&quot;if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();&quot;&gt;&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;" />
+			<Property Name="Order" Value="400.000000000000" />
+		</File>
+		<File Url="seattle.master" Type="GhostableInLibrary" Level="Draft" Path="seattle.master">
+			<Property Name="ContentTypeId" Value="0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB" />
+			<Property Name="FileLeafRef" Value="seattle.master" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/seattle.html, Conversion successful." />
+			<Property Name="ID" Value="3" />
+			<Property Name="ContentType" Value="ASP NET Master Page" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="3;#vti_encoding:SR|utf8-nl&#xD;&#xA;DefaultCssFile:SW|&#xD;&#xA;HtmlDesignLockedFile:BW|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/seattle.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentTypeId:SW|0x0101000F1C8B9E0EB4BE489F09807B2C53288F0054AD6EF48B9F7B45A142F8173F171BD1008FB896904F1E31438486B7BAAEA941AB&#xD;&#xA;MasterHash:IW|1002710783&#xD;&#xA;ContentType:SW|ASP NET Master Page&#xD;&#xA;FileLeafRef:SW|seattle.master&#xD;&#xA;vti_metatags:VR|HTTP-EQUIV=X-UA-Compatible IE=10 GENERATOR Microsoft\\ SharePoint HTTP-EQUIV=Content-type text/html;\\ charset=utf-8 HTTP-EQUIV=Expires 0&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|global\\seattle.master&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;HtmlDesignAssociated:SW|true&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body onhashchange=&quot;if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();&quot;&gt;&#xD;&#xA;vti_generator:SR|Microsoft SharePoint&#xD;&#xA;" />
+			<Property Name="Order" Value="300.000000000000" />
+		</File>
+	</Module>
+</Elements>

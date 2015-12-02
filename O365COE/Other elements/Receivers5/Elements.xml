@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="Lists/SearchConfig" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>$Resources:Microsoft.Office.Server.Search,SearchConfigContentType_AddReceiver;</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>1</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Server.Search, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.Server.Search.Portability.SearchConfigurationEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x010080060E093E2F463EBA41A5F044428F3200A3346C623A2D7F4580D1F81C6505C07E</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>$Resources:Microsoft.Office.Server.Search,SearchConfigContentType_UpdateReceiver;</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>2</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Server.Search, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.Server.Search.Portability.SearchConfigurationEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x010080060E093E2F463EBA41A5F044428F3200A3346C623A2D7F4580D1F81C6505C07E</SourceId>
+			<SourceType>1</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>Content Following Item Updated Event Receiver 101</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Server.UserProfiles, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.Server.UserProfiles.ContentFollowingItemEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x3E79A2A7CD67C14D9FD043F61581207A</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+	</Receivers>
+</Elements>

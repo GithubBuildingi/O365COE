@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_ctsVideo_" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_cts/Video" RootWebOnly="FALSE" Path="Files\_cts\Video" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="docsethomepage.aspx" Level="Published" Path="docsethomepage.aspx" />
+		<File Url="videoplayerpage.aspx" Level="Published" Path="videoplayerpage.aspx">
+			<AllUsersWebPart WebPartOrder="0" WebPartZoneID="WebPartZone_PlayerAndSocial" ID="idPageMediaPlayer"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.MediaWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="AutoPlay" type="bool">True</property>
+        <property name="Height" type="unit" />
+        <property name="TitleUrl" type="string" />
+        <property name="Width" type="unit">700px</property>
+        <property name="MediaSource" type="string" null="true" />
+        <property name="Loop" type="bool">False</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HelpUrl" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="PreviewImageSource" type="string">/sites/O365COE/Style Library/Media Player/VideoPreview.png</property>
+        <property name="TemplateSource" type="string" null="true" />
+        <property name="DisplayMode" type="Microsoft.SharePoint.Publishing.WebControls.MediaDisplayMode, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Inline</property>
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="Description" type="string" />
+        <property name="IsPreviewImageSourceOverridenForVideoSet" type="bool">False</property>
+        <property name="AllowClose" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">Default</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="HelpMode" type="helpmode">Navigate</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="ShowEmbedControl" type="bool">False</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Title" type="string" />
+        <property name="VideoSetEmbedCode" type="string" null="true" />
+        <property name="VideoSetSource" type="string" null="true" />
+        <property name="ConfigureFromContext" type="bool">True</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="0" WebPartZoneID="WebPartZone_Related" ID="idAdditionalContentsWebPart"><![CDATA[<WebPart xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title />
+  <FrameType>Default</FrameType>
+  <Description />
+  <IsIncluded>true</IsIncluded>
+  <ZoneID>WebPartZone_Related</ZoneID>
+  <PartOrder>0</PartOrder>
+  <FrameState>Normal</FrameState>
+  <Height />
+  <Width />
+  <AllowRemove>true</AllowRemove>
+  <AllowZoneChange>true</AllowZoneChange>
+  <AllowMinimize>true</AllowMinimize>
+  <AllowConnect>true</AllowConnect>
+  <AllowEdit>true</AllowEdit>
+  <AllowHide>true</AllowHide>
+  <IsVisible>true</IsVisible>
+  <DetailLink />
+  <HelpLink />
+  <HelpMode>Modeless</HelpMode>
+  <Dir>Default</Dir>
+  <PartImageSmall />
+  <MissingAssembly>Cannot import this Web Part.</MissingAssembly>
+  <PartImageLarge />
+  <IsIncludedFilter />
+  <Assembly>Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+  <TypeName>Microsoft.Office.Server.WebControls.DocumentSetContentsWebPart</TypeName>
+</WebPart>]]></AllUsersWebPart>
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesSystem_Features\SearchTemplatesandResources\DisplayTemplates" Url="_catalogs/masterpage/Display Templates/System" SetupPath="Features\SearchTemplatesandResources\DisplayTemplates" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\System" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_CatalogDefault.js" Type="GhostableInLibrary" Level="Published" Path="Control_CatalogDefault.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_CatalogDefault.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Default Catalog Result" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="2070" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2070;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Control_CatalogDefault.js&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Default Catalog Result&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207000.000000000" />
+		</File>
+		<File Url="Control_eDiscoveryExchangeResult.js" Type="GhostableInLibrary" Level="Published" Path="Control_eDiscoveryExchangeResult.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_eDiscoveryExchangeResult.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Tabular SharePoint results" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="2079" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2079;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Control_eDiscoveryExchangeResult.js&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Tabular SharePoint results&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207900.000000000" />
+		</File>
+		<File Url="Control_eDiscoverySharePointResult.js" Type="GhostableInLibrary" Level="Published" Path="Control_eDiscoverySharePointResult.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_eDiscoverySharePointResult.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Tabular SharePoint results" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="2080" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2080;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Control_eDiscoverySharePointResult.js&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Tabular SharePoint results&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208000.000000000" />
+		</File>
+		<File Url="Control_TopReport.js" Type="GhostableInLibrary" Level="Published" Path="Control_TopReport.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Control_TopReport.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Top Report Result" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Control" />
+			<Property Name="ID" Value="2081" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2081;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Control_TopReport.js&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Control&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Top Report Result&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208100.000000000" />
+		</File>
+		<File Url="Item_CatalogDateTime.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogDateTime.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogDateTime.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Date Time Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Date'{$Resources:Microsoft.Office.Server.Search,SlotName_Date;}:'Write'" />
+			<Property Name="ID" Value="2071" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2071;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogDateTime.js&#xD;&#xA;ManagedPropertyMapping:SR|'Date'{$Resources:Microsoft.Office.Server.Search,SlotName_Date;}:'Write'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Catalog Date Time Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207100.000000000" />
+		</File>
+		<File Url="Item_CatalogDefault.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogDefault.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogDefault.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Default Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Text'{$Resources:Microsoft.Office.Server.Search,SlotName_Text;}:'Title'" />
+			<Property Name="ID" Value="2073" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2073;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogDefault.js&#xD;&#xA;ManagedPropertyMapping:SR|'Text'{$Resources:Microsoft.Office.Server.Search,SlotName_Text;}:'Title'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Catalog Default Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207300.000000000" />
+		</File>
+		<File Url="Item_CatalogItemPicker.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogItemPicker.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogItemPicker.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Item Picker" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="2075" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2075;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogItemPicker.js&#xD;&#xA;HtmlDesignAssociated:SR|1&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Catalog Item Picker&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207500.000000000" />
+		</File>
+		<File Url="Item_CatalogItemPicker_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogItemPicker_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogItemPicker_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Search with hover" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ID" Value="2076" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2076;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogItemPicker_HoverPanel.js&#xD;&#xA;HtmlDesignAssociated:SR|1&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Search with hover&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207600.000000000" />
+		</File>
+		<File Url="Item_CatalogRich.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogRich.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogRich.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Rich Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Rich Data'{$Resources:Microsoft.Office.Server.Search,SlotName_RichData;}:'owsrNTEHTMLPublishingPageContent'" />
+			<Property Name="ID" Value="2072" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2072;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogRich.js&#xD;&#xA;ManagedPropertyMapping:SR|'Rich Data'{$Resources:Microsoft.Office.Server.Search,SlotName_RichData;}:'owsrNTEHTMLPublishingPageContent'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Catalog Rich Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207200.000000000" />
+		</File>
+		<File Url="Item_CatalogTitle.js" Type="GhostableInLibrary" Level="Published" Path="Item_CatalogTitle.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_CatalogTitle.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Item Title" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Page Title'{$Resources:Microsoft.Office.Server.Search,SlotName_PageTitle;}:'Title'" />
+			<Property Name="ID" Value="2074" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2074;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_CatalogTitle.js&#xD;&#xA;ManagedPropertyMapping:SR|'Page Title'{$Resources:Microsoft.Office.Server.Search,SlotName_PageTitle;}:'Title'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Catalog Item Title&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="207400.000000000" />
+		</File>
+		<File Url="Item_eDiscoveryExchange_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoveryExchange_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoveryExchange_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Disovery Exchange Hover Panel" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'" />
+			<Property Name="ID" Value="2083" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2083;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_eDiscoveryExchange_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Disovery Exchange Hover Panel&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208300.000000000" />
+		</File>
+		<File Url="Item_eDiscoveryExchangeResult.js" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoveryExchangeResult.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoveryExchangeResult.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="One property per cell, one item per row for Exchange" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'" />
+			<Property Name="ID" Value="2082" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2082;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_eDiscoveryExchangeResult.js&#xD;&#xA;ManagedPropertyMapping:SR|'Subject':'Subject','To':'ToRecipients','Sender':'Sender','Sent Time':'SentTime','BccRecipients':'BccRecipients','CcRecipients':'CcRecipients','CreatedTime':'CreatedTime','HasAttachment':'HasAttachment','Importance':'Importance','Preview':'Preview','OwaLink':'OwaLink','Size':'Size','ExchangeType':'Kind'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|One property per cell, one item per row for Exchange&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208200.000000000" />
+		</File>
+		<File Url="Item_eDiscoverySharePoint_HoverPanel.js" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoverySharePoint_HoverPanel.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoverySharePoint_HoverPanel.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Disovery SharePoint Hover Panel" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="ID" Value="2085" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2085;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_eDiscoverySharePoint_HoverPanel.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Disovery SharePoint Hover Panel&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208500.000000000" />
+		</File>
+		<File Url="Item_eDiscoverySharePointResult.js" Type="GhostableInLibrary" Level="Published" Path="Item_eDiscoverySharePointResult.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_eDiscoverySharePointResult.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="One property per cell, one item per row for SharePoint" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'" />
+			<Property Name="ID" Value="2084" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2084;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_eDiscoverySharePointResult.js&#xD;&#xA;ManagedPropertyMapping:SR|'Title':'Title','Path':'Path','Created By':'MetadataAuthor','Created On':'Write','Author':'DisplayAuthor','Size':'Size','LastModifiedTime':'LastModifiedTime','CollapsingStatus':'CollapsingStatus','DocId':'DocId','HitHighlightedSummary':'HitHighlightedSummary','ContentClass':'ContentClass','ContentType':'ContentType','FileExtension':'FileExtension','ViewsLifeTime':'ViewsLifeTime','ParentLink':'ParentLink'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|One property per cell, one item per row for SharePoint&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208400.000000000" />
+		</File>
+		<File Url="Item_TopReport.js" Type="GhostableInLibrary" Level="Published" Path="Item_TopReport.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_TopReport.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Top Report Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url':'PictureThumbnailURL;ServerRedirectedPreviewURL;PictureURL','Line 1':'Title','Line 1 Link Url':'Path','Line 2':'Description','Line 3':'','FileExtension','ListItemID','ListID','WebId'" />
+			<Property Name="ID" Value="2086" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2086;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Content Web Parts;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_TopReport.js&#xD;&#xA;ManagedPropertyMapping:SR|'Image Url':'PictureThumbnailURL;ServerRedirectedPreviewURL;PictureURL','Line 1':'Title','Line 1 Link Url':'Path','Line 2':'Description','Line 3':'','FileExtension','ListItemID','ListID','WebId'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Top Report Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208600.000000000" />
+		</File>
+		<File Url="Item_VideoVertical.js" Type="GhostableInLibrary" Level="Published" Path="Item_VideoVertical.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Item_VideoVertical.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Video Vertical Item" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#SearchResults;#" />
+			<Property Name="DisplayTemplateLevel" Value="Item" />
+			<Property Name="ManagedPropertyMapping" Value="'Image Url':'PictureThumbnailURL;PictureURL;','Line 1':'Title','Line 1 Link Url':'Path','FileExtension':'SecondaryFileExtension','MediaDuration','ViewCount':'ViewsLifeTime','ContentTypeId','Created','PeopleInMedia','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'" />
+			<Property Name="ID" Value="2087" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/System" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2087;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#SearchResults;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Item_VideoVertical.js&#xD;&#xA;ManagedPropertyMapping:SR|'Image Url':'PictureThumbnailURL;PictureURL;','Line 1':'Title','Line 1 Link Url':'Path','FileExtension':'SecondaryFileExtension','MediaDuration','ViewCount':'ViewsLifeTime','ContentTypeId','Created','PeopleInMedia','VideoFileURL'{Video File URL}:'UserEncodingURL;ExternalMediaURL;DefaultEncodingURL;'&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Item&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|Video Vertical Item&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="208700.000000000" />
+		</File>
+	</Module>
+</Elements>

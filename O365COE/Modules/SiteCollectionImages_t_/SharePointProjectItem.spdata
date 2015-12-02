@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\SiteCollectionImages\_t\home_jpg.jpg" Target="Files\SiteCollectionImages\_t\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\SiteCollectionImages\_t\PR_gif.jpg" Target="Files\SiteCollectionImages\_t\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="SiteCollectionImages_t_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

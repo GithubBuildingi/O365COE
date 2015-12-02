@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{e47705ec-268d-4c41-aa4e-0d8727985ebc}" TemplateType="101" Title="Search Config List" Description="Search Config List To Store Search Settings" Url="Lists/SearchConfig" CustomSchema="Files\Lists\SearchConfig\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\VisioWebAccess" Url="_catalogs/wp" SetupPath="Features\VisioWebAccess" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="VisioWebAccess.dwp" Type="GhostableInLibrary" Level="Published" Path="VisioWebAccess.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="VisioWebAccess.dwp" />
+			<Property Name="Title" Value="$Resources:vsrv,Feature_VisioWebAccess_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:vsrv,Feature_VisioWebAccess_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:vsrv,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#" />
+			<Property Name="ID" Value="74" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="74;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:vsrv,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/vwasmall.png&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\VisioWebAccess\\VisioWebAccess.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|&quot;Microsoft.Office.Visio.Server, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&quot;&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Visio.Server.WebControls.VisioWebAccess&#xD;&#xA;WebPartDescription:SW|$Resources:vsrv,Feature_VisioWebAccess_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:vsrv,Feature_VisioWebAccess_Title;&#xD;&#xA;vti_title:SR|$Resources:vsrv,Feature_VisioWebAccess_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="7400.00000000000" />
+		</File>
+	</Module>
+</Elements>

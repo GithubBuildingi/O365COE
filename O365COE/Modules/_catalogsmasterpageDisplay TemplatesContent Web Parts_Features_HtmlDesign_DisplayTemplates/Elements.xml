@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesContent Web Parts_Features\HtmlDesign\DisplayTemplates" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/Display Templates/Content Web Parts" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Content Web Parts" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Control_List.html" Type="GhostableInLibrary" Level="Draft" Path="Control_List.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_List.html" />
+			<Property Name="MasterPageDescription" Value="This is the default Control Display Template that will list the items. It does not allow the user to page through items." />
+			<Property Name="Title" Value="List" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_List.html, Conversion successful." />
+			<Property Name="ID" Value="2100" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2100;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_List.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Control_List.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|List&#xD;&#xA;vti_title:SR|List&#xD;&#xA;MasterPageDescription:SW|This is the default Control Display Template that will list the items. It does not allow the user to page through items.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_List.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210000.000000000" />
+		</File>
+		<File Url="Control_ListWithPaging.html" Type="GhostableInLibrary" Level="Draft" Path="Control_ListWithPaging.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_ListWithPaging.html" />
+			<Property Name="MasterPageDescription" Value="This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show." />
+			<Property Name="Title" Value="List with Paging" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_ListWithPaging.html, Conversion successful." />
+			<Property Name="ID" Value="2101" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2101;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_ListWithPaging.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Control_ListWithPaging.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|List with Paging&#xD;&#xA;vti_title:SR|List with Paging&#xD;&#xA;MasterPageDescription:SW|This is a Control Display Template with Paging. It is used by default in Rollup Pages. It allows the user to page through items using the arrows that appear when there are more items to show.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_ListWithPaging.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210100.000000000" />
+		</File>
+		<File Url="Control_Slideshow.html" Type="GhostableInLibrary" Level="Draft" Path="Control_Slideshow.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4" />
+			<Property Name="FileLeafRef" Value="Control_Slideshow.html" />
+			<Property Name="MasterPageDescription" Value="This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture." />
+			<Property Name="Title" Value="Slideshow" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_Slideshow.html, Conversion successful." />
+			<Property Name="ID" Value="2102" />
+			<Property Name="ContentType" Value="Control Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2102;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Control_Slideshow.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Control_Slideshow.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Slideshow&#xD;&#xA;vti_title:SR|Slideshow&#xD;&#xA;MasterPageDescription:SW|This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660100C4F445216AFCD640A54C1D4D5FA7DDD4&#xD;&#xA;ContentType:SW|Control Display Template&#xD;&#xA;FileLeafRef:SW|Control_Slideshow.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210200.000000000" />
+		</File>
+		<File Url="Group_Content.html" Type="GhostableInLibrary" Level="Draft" Path="Group_Content.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F385106602005EB8CB5CE269864386A1BFE550BE3360" />
+			<Property Name="FileLeafRef" Value="Group_Content.html" />
+			<Property Name="Title" Value="Content Group" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Group_Content.html, Conversion successful." />
+			<Property Name="ID" Value="2103" />
+			<Property Name="ContentType" Value="Group Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2103;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Group_Content.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Group_Content.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Content Group&#xD;&#xA;vti_title:SR|Content Group&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F385106602005EB8CB5CE269864386A1BFE550BE3360&#xD;&#xA;ContentType:SW|Group Display Template&#xD;&#xA;FileLeafRef:SW|Group_Content.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210300.000000000" />
+		</File>
+		<File Url="Item_Diagnostic.html" Type="GhostableInLibrary" Level="Draft" Path="Item_Diagnostic.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_Diagnostic.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. " />
+			<Property Name="Title" Value="Diagnostic" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Path','SecondaryFileExtension','ContentTypeId','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','Line 4'{Line 4}:'','Line 5'{Line 5}:'','Line 6'{Line 6}:'','Line 7'{Line 7}:'','Line 8'{Line 8}:'','Line 9'{Line 9}:'','Line 10'{Line 10}:''" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_Diagnostic.html, Conversion successful." />
+			<Property Name="ID" Value="2104" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2104;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_Diagnostic.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_Diagnostic.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Path','SecondaryFileExtension','ContentTypeId','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','Line 4'{Line 4}:'','Line 5'{Line 5}:'','Line 6'{Line 6}:'','Line 7'{Line 7}:'','Line 8'{Line 8}:'','Line 9'{Line 9}:'','Line 10'{Line 10}:''&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Diagnostic&#xD;&#xA;vti_title:SR|Diagnostic&#xD;&#xA;MasterPageDescription:SW|This Item Display Template is designed to help you build a search-driven page. It will show underlying values for the items returned so that you can troubleshoot any issues you may run into. &#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_Diagnostic.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210400.000000000" />
+		</File>
+		<File Url="Item_LargePicture.html" Type="GhostableInLibrary" Level="Draft" Path="Item_LargePicture.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_LargePicture.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show an item image with the title of the item overlaying the image. It is best used with the Slideshow Control Display Template and with images that are more than 400 pixels wide." />
+			<Property Name="Title" Value="Large picture" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_LargePicture.html, Conversion successful." />
+			<Property Name="ID" Value="2105" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2105;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_LargePicture.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_LargePicture.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Large picture&#xD;&#xA;vti_title:SR|Large picture&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show an item image with the title of the item overlaying the image. It is best used with the Slideshow Control Display Template and with images that are more than 400 pixels wide.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_LargePicture.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210500.000000000" />
+		</File>
+		<File Url="Item_Picture3Lines.html" Type="GhostableInLibrary" Level="Draft" Path="Item_Picture3Lines.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_Picture3Lines.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a 100x100 picture of the item on the left. The title and the default item description will display to the right of the picture with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="Picture on left, 3 lines on right" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_Picture3Lines.html, Conversion successful." />
+			<Property Name="ID" Value="2106" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2106;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_Picture3Lines.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_Picture3Lines.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Picture on left, 3 lines on right&#xD;&#xA;vti_title:SR|Picture on left, 3 lines on right&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a 100x100 picture of the item on the left. The title and the default item description will display to the right of the picture with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_Picture3Lines.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210600.000000000" />
+		</File>
+		<File Url="Item_PictureOnTop.html" Type="GhostableInLibrary" Level="Draft" Path="Item_PictureOnTop.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_PictureOnTop.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a 304x100 picture of the item on top. The title and the default item description will display to the bottom of the picture with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="Picture on top, 3 lines on bottom" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_PictureOnTop.html, Conversion successful." />
+			<Property Name="ID" Value="2107" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2107;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_PictureOnTop.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_PictureOnTop.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Picture on top, 3 lines on bottom&#xD;&#xA;vti_title:SR|Picture on top, 3 lines on bottom&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a 304x100 picture of the item on top. The title and the default item description will display to the bottom of the picture with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_PictureOnTop.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210700.000000000" />
+		</File>
+		<File Url="Item_RecommendationsClickLogging.html" Type="GhostableInLibrary" Level="Draft" Path="Item_RecommendationsClickLogging.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_RecommendationsClickLogging.html" />
+			<Property Name="Title" Value="Recommended Items: Picture on left, 3 lines on right" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Original Path'{Original Path}:'OriginalPath','SiteID'{SiteID}:'SiteID','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_RecommendationsClickLogging.html, Conversion successful." />
+			<Property Name="ID" Value="2108" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2108;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_RecommendationsClickLogging.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_RecommendationsClickLogging.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Picture URL'{Picture URL}:'PublishingImage;PictureURL;PictureThumbnailURL','Link URL'{Link URL}:'Path','Original Path'{Original Path}:'OriginalPath','SiteID'{SiteID}:'SiteID','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'Description','Line 3'{Line 3}:'','SecondaryFileExtension','ContentTypeId'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Recommended Items: Picture on left, 3 lines on right&#xD;&#xA;vti_title:SR|Recommended Items: Picture on left, 3 lines on right&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_RecommendationsClickLogging.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210800.000000000" />
+		</File>
+		<File Url="Item_TwoLines.html" Type="GhostableInLibrary" Level="Draft" Path="Item_TwoLines.html">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772" />
+			<Property Name="FileLeafRef" Value="Item_TwoLines.html" />
+			<Property Name="MasterPageDescription" Value="This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property." />
+			<Property Name="Title" Value="Two lines" />
+			<Property Name="TemplateHidden" Value="FALSE" />
+			<Property Name="TargetControlType" Value=";#Content Web Parts;#" />
+			<Property Name="ManagedPropertyMapping" Value="'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'" />
+			<Property Name="HtmlDesignAssociated" Value="TRUE" />
+			<Property Name="HtmlDesignStatusAndPreview" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_TwoLines.html, Conversion successful." />
+			<Property Name="ID" Value="2109" />
+			<Property Name="ContentType" Value="Item Display Template" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2109;#vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;TargetControlType:SW|;#Content Web Parts;#&#xD;&#xA;HtmlDesignStatusAndPreview:SW|https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display Templates/Content Web Parts/Item_TwoLines.html, Conversion successful.&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/Display Templates/Content Web Parts&#xD;&#xA;vti_setuppath:SR|Features\\HtmlDesign\\DisplayTemplates\\Item_TwoLines.html&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;HtmlDesignAssociated:IW|1&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:IW|0&#xD;&#xA;ManagedPropertyMapping:SW|'Link URL'{Link URL}:'Path','Line 1'{Line 1}:'Title','Line 2'{Line 2}:'','FileExtension','SecondaryFileExtension'&#xD;&#xA;HtmlDesignConversionSucceeded:BW|True&#xD;&#xA;vti_cachedcustomprops:VX|TemplateHidden ManagedPropertyMapping HtmlDesignConversionSucceeded FSObjType MasterPageDescription ContentTypeId TargetControlType HtmlDesignStatusAndPreview FileDirRef ContentType FileLeafRef vti_title HtmlDesignAssociated&#xD;&#xA;vti_cachedtitle:SR|Two lines&#xD;&#xA;vti_title:SR|Two lines&#xD;&#xA;MasterPageDescription:SW|This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F38510660300B9515DB709345D42BC94F743C292C772&#xD;&#xA;ContentType:SW|Item Display Template&#xD;&#xA;FileLeafRef:SW|Item_TwoLines.html&#xD;&#xA;vti_cachedbodystyle:SR|&lt;body&gt;&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:IW|0&#xD;&#xA;" />
+			<Property Name="Order" Value="210900.000000000" />
+		</File>
+	</Module>
+</Elements>

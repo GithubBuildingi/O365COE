@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\DocumentSet" Url="_catalogs/wp" SetupPath="Features\DocumentSet" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="DocumentSetContents.dwp" Type="GhostableInLibrary" Level="Published" Path="DocumentSetContents.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="DocumentSetContents.dwp" />
+			<Property Name="Title" Value="$Resources:dlccore,DocSetContentWP_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:dlccore,DocSetContentWP_Description" />
+			<Property Name="Group" Value="$Resources:core,DocumentsWebPartsGroup;" />
+			<Property Name="ID" Value="39" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="39;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,DocumentsWebPartsGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msimagel.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\DocumentSet\\DocumentSetContents.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.WebControls.DocumentSetContentsWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:dlccore,DocSetContentWP_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:dlccore,DocSetContentWP_Title&#xD;&#xA;vti_title:SR|$Resources:dlccore,DocSetContentWP_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3900.00000000000" />
+		</File>
+		<File Url="DocumentSetProperties.dwp" Type="GhostableInLibrary" Level="Published" Path="DocumentSetProperties.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="DocumentSetProperties.dwp" />
+			<Property Name="Title" Value="$Resources:dlccore,DocSetPropertiesWP_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:dlccore,DocSetPropertiesWP_Description" />
+			<Property Name="Group" Value="$Resources:core,DocumentsWebPartsGroup;" />
+			<Property Name="ID" Value="38" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="38;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,DocumentsWebPartsGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/15/images/msimagel.gif&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\DocumentSet\\DocumentSetProperties.dwp&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.DocumentManagement, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.WebControls.DocumentSetPropertiesWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:dlccore,DocSetPropertiesWP_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:dlccore,DocSetPropertiesWP_Title&#xD;&#xA;vti_title:SR|$Resources:dlccore,DocSetPropertiesWP_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3800.00000000000" />
+		</File>
+	</Module>
+</Elements>

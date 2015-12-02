@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{a0e5a010-1329-49d4-9e09-f280cdbed37d}" TemplateType="10102" Title="Converted Forms" Description="List of user browser-enabled form templates on this site collection." Url="IWConvertedForms" CustomSchema="Files\IWConvertedForms\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

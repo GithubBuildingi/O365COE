@@ -1,0 +1,262 @@
+﻿<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"> 
+<head>
+<title>IT News Carousel</title>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
+<mso:ManagedPropertyMapping msdt:dt="string">&#39;Source URL&#39;{Source URL}:&#39;URLOWSURLH;&#39;,&#39;Picture URL&#39;{Picture URL}:&#39;PublishingImage;PictureURL;PictureThumbnailURL;&#39;,&#39;Title&#39;{Title}:&#39;Title&#39;,&#39;Publisher&#39;{Publisher}:&#39;AuthorOWSTEXT;PublisherOWSTEXT&#39;,&#39;PublishDate&#39;{PublishDate}:&#39;PublishDateOWSDATE&#39;,&#39;NewsDescription&#39;{Description}:&#39;NewsDescriptionOWSMTXT&#39;,&#39;Link URL&#39;{Link URL}:&#39;Path&#39;,&#39;ListID&#39;,&#39;ListItemID&#39;,&#39;LikesCount&#39;,&#39;SecondaryFileExtension&#39;,&#39;ContentTypeId&#39;</mso:ManagedPropertyMapping>
+<mso:MasterPageDescription msdt:dt="string">This Item Display Template will show a small thumbnail icon next to a hyperlink of the item title, with an additional line that is available for a custom managed property.</mso:MasterPageDescription>
+<mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F3851066030018889485A320BC48AB971E8317EFC7F8</mso:ContentTypeId>
+<mso:TargetControlType msdt:dt="string">;#Content Web Parts;#</mso:TargetControlType>
+<mso:HtmlDesignAssociated msdt:dt="string">1</mso:HtmlDesignAssociated>
+<mso:CrawlerXSLFile msdt:dt="string"></mso:CrawlerXSLFile>
+<mso:HtmlDesignPreviewUrl msdt:dt="string"></mso:HtmlDesignPreviewUrl>
+<mso:HtmlDesignConversionSucceeded msdt:dt="string">True</mso:HtmlDesignConversionSucceeded>
+<mso:HtmlDesignStatusAndPreview msdt:dt="string">https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Item_IT_NewsCarousel.html, Conversion successful.</mso:HtmlDesignStatusAndPreview>
+<mso:FSObjType msdt:dt="string">0</mso:FSObjType>
+<mso:ContentType msdt:dt="string">Item Display Template</mso:ContentType>
+<mso:FileDirRef msdt:dt="string">teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts</mso:FileDirRef>
+<mso:FileLeafRef msdt:dt="string">Item_HotNews.html</mso:FileLeafRef>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+
+    <!--
+            Warning: Do not try to add HTML to this section. Only the contents of the first <div>
+            inside the <body> tag will be used while executing Display Template code. Any HTML that
+            you add to this section will NOT become part of your Display Template.
+    -->
+    <script>
+        $includeLanguageScript(this.url, "~sitecollection/_catalogs/masterpage/Display Templates/Language Files/{Locale}/CustomStrings.js");
+    </script>
+
+    <!--
+        Use the div below to author your Display Template. Here are some things to keep in mind:
+        * Surround any JavaScript logic as shown below using a "pound underscore" (#_ ... _#) token
+        inside a comment.
+
+        * Use the values assigned to your variables using an "underscore pound equals"
+        (_#= ... =#_) token.
+    -->
+
+    <div id="ENTNews">
+
+<!--#_
+var encodedId = $htmlEncode(ctx.ClientControl.get_nextUniqueId() + "_hotNews_");
+var containerId = encodedId + "container";
+var pictureLinkId = encodedId + "pictureLink";
+var pictureId = encodedId + "picture";
+var pictureContainerId = encodedId + "pictureContainer";
+var dataContainerId = encodedId + "dataContainer";
+var line1LinkId = encodedId + "titleLink";
+var line1Id = encodedId + "line1";
+var line2Id = encodedId + "line2";
+var line3Id = encodedId + "line3";
+var dataDisplayTemplateTitle = "ItemHotNews";
+
+
+
+var itemid =  $getItemValue(ctx, "ListItemID");
+var listid = $getItemValue(ctx, "ListID");
+
+var linkURL = $getItemValue(ctx, "Link URL");
+linkURL.overrideValueRenderer($urlHtmlEncode);
+var remoteHostUrl = linkURL.value.match(/^https?:\/\/[^\/]+/gi);
+var isLocal = RegExp("^"+_spPageContextInfo.siteAbsoluteUrl,"gi").test(linkURL.value);	
+
+var targetUrl = _spPageContextInfo.webAbsoluteUrl+"/Pages/News-Detail-Page.aspx?source=" + escape(linkURL);
+var commentUrl = targetUrl;
+var sourceUrl = $getItemValue(ctx, "Source URL");
+if(!sourceUrl.isEmpty)
+{
+	//targetUrl = sourceUrl;
+}
+
+var title = $getItemValue(ctx, "Title");
+title.overrideValueRenderer($contentLineText);
+
+var publisher = $getItemValue(ctx, "Publisher");
+var newsPublisher = publisher.value;
+if(!publisher.isEmpty)
+{
+	newsPublisher = "By " + publisher.value;
+}
+
+var publishDate = $getItemValue(ctx, "PublishDate");
+var newsPublishDate = publishDate.value;
+if(!publishDate.isEmpty)
+{	
+	var dates = new Date(publishDate).format("dddd MMMM dd"); 	
+	newsPublishDate = dates;
+}
+
+var likesCount = $getItemValue(ctx, "LikesCount");
+if(likesCount.isEmpty)
+{
+	likesCount = 0;
+}
+
+var pictureURL = $getItemValue(ctx, "Picture URL");
+var pictureMarkup = "";
+if(!pictureURL.isEmpty)
+{
+	var v = pictureURL.value;
+	var regx = /(?:src=)["|']([^?"']*)/gi;
+	regx.test(v);	
+	var imgSrc = isLocal ? RegExp.$1 : remoteHostUrl + RegExp.$1;
+	if(typeof window.nc_hotNews_resizeImage == "undefined")
+	{
+		window.nc_hotNews_resizeImage = function(elm)
+		{
+			var x= elm.parentNode.parentNode.clientWidth-elm.width;
+			var y= elm.parentNode.parentNode.clientHeight-elm.height;			
+			if(x>0&&y>0)
+			{
+				if(x>y)
+				{
+					elm.className +=" slide_imageAutoHeight";
+				}
+				else
+				{
+					elm.className +=" slide_imageAutoWidth";
+				}
+			}else if( x<0 && y<0){
+				if(x>y)
+				{
+					elm.className +=" slide_imageAutoHeight";
+				}
+				else
+				{
+					elm.className +=" slide_imageAutoWidth";
+				}
+			}else if(x>0)
+			{
+				elm.className +=" slide_imageAutoHeight";
+			}
+			else if(y>0)
+			{
+				elm.className +=" slide_imageAutoWidth";
+			}			
+		}
+	}	
+	pictureMarkup = '<img id="' + pictureId  + '" onLoad="nc_hotNews_resizeImage(this);" onerror="this.parentNode.innerHTML=window.getHotNewsNoPictureMarkup();" alt="' + title + '" src="' + imgSrc + '?width=512&height=318"/>';
+}
+else
+{
+	pictureMarkup = '<img src="'+_spPageContextInfo.webServerRelativeUrl+'/SiteAssets/Default_318.png"/>';
+}
+
+var newsDescription = $getItemValue(ctx, "NewsDescription");
+newsDescription.overrideValueRenderer($contentLineText);
+var maxLen = 130;
+var showMore=false;
+if(newsDescription.isEmpty)
+{
+	newsDescription.value = "The result value is empty. This might because the description field is empty or the NewsDescription managed property doesn't work well.";
+}
+else if(newsDescription.value.length > maxLen)
+{
+	newsDescription.value = newsDescription.value.substring(0,maxLen)+"...";
+	showMore = true;	
+}
+
+var clientid = listid.value + "_" + itemid;
+ _#-->
+        <div class="slide_container social_config_scope">
+        	<div class="ms-table">
+        		<div class="ms-tableRow">
+        			<div class="ms-tableCell">
+        				<div class="slide_imageContainer">
+			                <a href="_#= targetUrl =#_" title="_#= title =#_">
+			                _#= pictureMarkup =#_
+			                </a>
+		            	</div>
+        			</div>
+        			<div class="ms-tableCell ms-EmphasisBackground-bgColor">
+        				<div class="slide_contentContainer slide_inheritBackground">	            
+			            	<div class="slide_contentInfo">
+				            	<div class="nc_hotNewsTitle">
+					                <a href="_#= targetUrl =#_" title="_#=title=#_">
+					                    <span class="ms-Wrap">
+					                    _#= title =#_
+					                    </span>
+					                </a>
+				                </div>
+				                <div class="nc-hotNewsDescription ms-Wrap nc-hide">
+				                _#= newsDescription.value =#_				                				                
+				                </div>
+				                <div class="nc-hotNewsInfo ms-noWrap">
+<!--#_
+if(!publisher.isEmpty)
+{
+_#-->				                
+				                	<span>
+				                	_#= newsPublisher =#_
+				                	</span>
+<!--#_
+}
+_#-->					                	
+				                	<span>
+				                	_#= newsPublishDate =#_
+				                	</span>
+				                </div>
+			                </div>	                
+							<!-- SocialToolBar begin -->
+							<div class="divSocialToolbarHost divSocialToolbar ms-textSmall ms-noWrap" id="divSocialToolbarHost__#= clientid =#_">
+								<input id="_#= clientid =#_" listID="_#= listid =#_" listItemID="_#= itemid =#_" src="_#= commentUrl =#_" title="_#= title =#_" type="hidden" alt="False" value="_#= listid =#_,_#= itemid =#_">
+								<ul class="ulSocialToolbarH">
+		<!--#_
+		isLocal = true;
+		if (isLocal)
+		{
+		_#-->
+								
+									<li class="liLike" id="spLike__#= clientid =#_">
+										<div class="SocialLike">
+										<span id="spLikeIcon__#= clientid =#_" class="sprites Like_ICON2"></span>
+										<a class="aLike" href="javascript:">
+											<span class="spLikeLabel" id="spLikeLabel__#= clientid =#_">Like</span>
+										</a>
+										<span class="spLikeBraceL" id="spLikeBraceL__#= clientid =#_">(</span>
+										<span class="spLikeCount" id="spLikeCount__#= clientid =#_">_#= likesCount =#_</span>
+										<span class="spLikeBraceR" id="spLikeBraceR__#= clientid =#_">)</span>
+										</div>
+									</li>
+		<!--#_
+		}
+		_#-->
+									
+									<li class="liShare">
+										<div class="social_config_custom" unselectable="on" data-object="{Email:'True',Facebook:'True',Twitter:'False',LinkedIn:'False',Yammer:'True',ShareTarget:'.nc_hotNewsTitle a'}"></div>										
+										<a class="SocialToolbar" href="javascript:" id="share__#= clientid =#_">
+											<span class="sprites Share_ICON2"></span>
+											<span class="spShareLabel">Share</span > 
+										</a>							
+									</li>
+									<li class="liComment" style="display:none">
+										<a class="aComment" href="_#= targetUrl =#_#comment" target="_blank" id="comment__#= clientid =#_">
+											<span class="sprites Comment_ICON2"></span>
+											<span class="spCommentLabel" id="spCommentLabel__#= clientid =#_">Comment</span>
+											<span class="spCommentBraceL" id="spCommentBraceL__#= clientid =#_" style="display: none;"> (</span>
+											<span class="spCommentCount" id="spCommentCount__#= clientid =#_" style="display: none;">...</span>
+											<span class="spCommentBraceR" id="spCommentBraceR__#= clientid =#_" style="display: none;">)</span>
+										</a>
+									</li>
+								</ul>	
+								<img src="about:blank" onerror="if(typeof AddSocialToolbar !== 'undefined') {AddSocialToolbar('_#= clientid =#_')}" style="display:none">														
+							</div>								
+							<!-- SocialToolBar end -->
+						</div>
+        			</div>
+        			<div class="ms-tableCell">
+        				<div class="slide_separator ms-tableCell"></div>
+        			</div>        			        			
+        		</div>
+        	</div>        	      
+        </div>
+    </div>
+</body>
+
+</html>

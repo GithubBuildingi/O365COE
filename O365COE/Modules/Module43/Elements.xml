@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubการอนุมัติการประกาศ_Features\ReviewPublishingSPD1054" Url="_catalogs/wfpub/การอนุมัติการประกาศ" SetupPath="Features\ReviewPublishingSPD1054" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\10" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_1054.vdw" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1054.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1054.vdw" />
+			<Property Name="ID" Value="224" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/การอนุมัติการประกาศ" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="224;#" />
+			<Property Name="Order" Value="22400.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1054.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1054.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1054.xoml.rules" />
+			<Property Name="ID" Value="220" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/การอนุมัติการประกาศ" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="220;#" />
+			<Property Name="Order" Value="22000.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1054.xoml" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1054.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1054.xoml" />
+			<Property Name="ID" Value="219" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/การอนุมัติการประกาศ" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="219;#" />
+			<Property Name="Order" Value="21900.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1054.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1054.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1054.xsn" />
+			<Property Name="ID" Value="222" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/การอนุมัติการประกาศ" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="222;#" />
+			<Property Name="Order" Value="22200.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_Task_1054.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_Task_1054.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_Task_1054.xsn" />
+			<Property Name="ID" Value="223" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/การอนุมัติการประกาศ" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="223;#" />
+			<Property Name="Order" Value="22300.0000000000" />
+		</File>
+	</Module>
+</Elements>

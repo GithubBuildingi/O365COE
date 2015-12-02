@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\MediaWebPart" Url="_catalogs/wp" SetupPath="Features\MediaWebPart" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Media.webpart" Type="GhostableInLibrary" Level="Published" Path="Media.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Media.webpart" />
+			<Property Name="Title" Value="$Resources:cmscore,MediaWebPart_Title" />
+			<Property Name="WebPartDescription" Value="$Resources:cmscore,MediaWebPart_Description" />
+			<Property Name="Group" Value="$Resources:core,AuthoringWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Default;#" />
+			<Property Name="ID" Value="37" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="37;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:core,AuthoringWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Default;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\MediaWebPart\\Media.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Publishing.WebControls.MediaWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Publishing,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:cmscore,MediaWebPart_Description&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:cmscore,MediaWebPart_Title&#xD;&#xA;vti_title:SR|$Resources:cmscore,MediaWebPart_Title&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3700.00000000000" />
+		</File>
+	</Module>
+</Elements>

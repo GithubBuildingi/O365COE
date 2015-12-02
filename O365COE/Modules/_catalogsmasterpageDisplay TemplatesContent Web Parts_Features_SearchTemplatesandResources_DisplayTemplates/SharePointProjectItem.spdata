@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_List.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_ListWithPaging.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Control_Slideshow.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_Diagnostic.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_LargePicture.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_Picture3Lines.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_PictureOnTop.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_RecommendationsClickLogging.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\Content Web Parts\Item_TwoLines.js" Target="Files\_catalogs\masterpage\Display Templates\Content Web Parts\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpageDisplay TemplatesContent Web Parts_Features_SearchTemplatesandResources_DisplayTemplates\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

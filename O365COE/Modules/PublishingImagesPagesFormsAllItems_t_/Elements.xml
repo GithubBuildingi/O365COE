@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="PublishingImagesPagesFormsAllItems_t_" Url="PublishingImages/Pages/Forms/AllItems/_t" RootWebOnly="FALSE" Path="Files\PublishingImages\Pages\Forms\AllItems\_t" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="CustomizationPolicy_PNG.jpg" Level="Draft" Path="CustomizationPolicy_PNG.jpg" />
+		<File Url="Overview1_PNG.jpg" Level="Draft" Path="Overview1_PNG.jpg" />
+		<File Url="WindowsDeviceImage_png.jpg" Level="Draft" Path="WindowsDeviceImage_png.jpg" />
+	</Module>
+</Elements>

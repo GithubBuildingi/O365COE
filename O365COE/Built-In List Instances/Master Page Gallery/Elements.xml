@@ -1,0 +1,1771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{00000000-0000-0000-0000-000000000000}" TemplateType="116" Title="Master Page Gallery" Description="Use the master page gallery to store master pages. The master pages in this gallery are available to this site and any sites underneath it." Url="_catalogs/masterpage" CustomSchema="Files\_catalogs\masterpage\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Data>
+			<Rows>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ar-sa</Field>
+					<Field Name="ID">10</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">10;#</Field>
+					<Field Name="Order">1000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">12</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ar-sa</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">12;#</Field>
+					<Field Name="Order">1200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">az-latn-az</Field>
+					<Field Name="ID">20</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">20;#</Field>
+					<Field Name="Order">2000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">22</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">az-latn-az</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">22;#</Field>
+					<Field Name="Order">2200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">bg-bg</Field>
+					<Field Name="ID">30</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">30;#</Field>
+					<Field Name="Order">3000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">32</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">bg-bg</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">32;#</Field>
+					<Field Name="Order">3200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">bs-latn-ba</Field>
+					<Field Name="ID">40</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">40;#</Field>
+					<Field Name="Order">4000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">42</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">bs-latn-ba</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">42;#</Field>
+					<Field Name="Order">4200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ca-es</Field>
+					<Field Name="ID">50</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">50;#</Field>
+					<Field Name="Order">5000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">52</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ca-es</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">52;#</Field>
+					<Field Name="Order">5200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">cs-cz</Field>
+					<Field Name="ID">60</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">60;#</Field>
+					<Field Name="Order">6000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">62</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">cs-cz</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">62;#</Field>
+					<Field Name="Order">6200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">cy-gb</Field>
+					<Field Name="ID">70</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">70;#</Field>
+					<Field Name="Order">7000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">72</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">cy-gb</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">72;#</Field>
+					<Field Name="Order">7200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">da-dk</Field>
+					<Field Name="ID">80</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">80;#</Field>
+					<Field Name="Order">8000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">82</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">da-dk</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">82;#</Field>
+					<Field Name="Order">8200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">de-de</Field>
+					<Field Name="ID">90</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">90;#</Field>
+					<Field Name="Order">9000.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">92</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">de-de</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">92;#</Field>
+					<Field Name="Order">9200.00000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">el-gr</Field>
+					<Field Name="ID">100</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">100;#</Field>
+					<Field Name="Order">10000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">102</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">el-gr</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">102;#</Field>
+					<Field Name="Order">10200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">en-us</Field>
+					<Field Name="ID">110</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">110;#</Field>
+					<Field Name="Order">11000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">112</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">en-us</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">112;#</Field>
+					<Field Name="Order">11200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">es-es</Field>
+					<Field Name="ID">120</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">120;#</Field>
+					<Field Name="Order">12000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">122</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">es-es</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">122;#</Field>
+					<Field Name="Order">12200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">et-ee</Field>
+					<Field Name="ID">130</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">130;#</Field>
+					<Field Name="Order">13000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">132</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">et-ee</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">132;#</Field>
+					<Field Name="Order">13200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">eu-es</Field>
+					<Field Name="ID">140</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">140;#</Field>
+					<Field Name="Order">14000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">142</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">eu-es</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">142;#</Field>
+					<Field Name="Order">14200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">fi-fi</Field>
+					<Field Name="ID">150</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">150;#</Field>
+					<Field Name="Order">15000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">152</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">fi-fi</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">152;#</Field>
+					<Field Name="Order">15200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">fr-fr</Field>
+					<Field Name="ID">160</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">160;#</Field>
+					<Field Name="Order">16000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">162</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">fr-fr</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">162;#</Field>
+					<Field Name="Order">16200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ga-ie</Field>
+					<Field Name="ID">170</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">170;#</Field>
+					<Field Name="Order">17000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">172</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ga-ie</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">172;#</Field>
+					<Field Name="Order">17200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">gl-es</Field>
+					<Field Name="ID">180</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">180;#</Field>
+					<Field Name="Order">18000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">182</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">gl-es</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">182;#</Field>
+					<Field Name="Order">18200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">he-il</Field>
+					<Field Name="ID">190</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">190;#</Field>
+					<Field Name="Order">19000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">192</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">he-il</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">192;#</Field>
+					<Field Name="Order">19200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hi-in</Field>
+					<Field Name="ID">200</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">200;#</Field>
+					<Field Name="Order">20000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">202</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">hi-in</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">202;#</Field>
+					<Field Name="Order">20200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hr-hr</Field>
+					<Field Name="ID">210</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">210;#</Field>
+					<Field Name="Order">21000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">212</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">hr-hr</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">212;#</Field>
+					<Field Name="Order">21200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hu-hu</Field>
+					<Field Name="ID">220</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">220;#</Field>
+					<Field Name="Order">22000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">222</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">hu-hu</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">222;#</Field>
+					<Field Name="Order">22200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">id-id</Field>
+					<Field Name="ID">230</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">230;#</Field>
+					<Field Name="Order">23000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">232</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">id-id</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">232;#</Field>
+					<Field Name="Order">23200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">it-it</Field>
+					<Field Name="ID">240</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">240;#</Field>
+					<Field Name="Order">24000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">242</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">it-it</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">242;#</Field>
+					<Field Name="Order">24200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ja-jp</Field>
+					<Field Name="ID">250</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">250;#</Field>
+					<Field Name="Order">25000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">252</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ja-jp</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">252;#</Field>
+					<Field Name="Order">25200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">kk-kz</Field>
+					<Field Name="ID">260</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">260;#</Field>
+					<Field Name="Order">26000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">262</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">kk-kz</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">262;#</Field>
+					<Field Name="Order">26200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ko-kr</Field>
+					<Field Name="ID">270</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">270;#</Field>
+					<Field Name="Order">27000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">272</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ko-kr</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">272;#</Field>
+					<Field Name="Order">27200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">lt-lt</Field>
+					<Field Name="ID">280</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">280;#</Field>
+					<Field Name="Order">28000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">282</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">lt-lt</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">282;#</Field>
+					<Field Name="Order">28200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">lv-lv</Field>
+					<Field Name="ID">290</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">290;#</Field>
+					<Field Name="Order">29000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">292</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">lv-lv</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">292;#</Field>
+					<Field Name="Order">29200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">mk-mk</Field>
+					<Field Name="ID">300</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">300;#</Field>
+					<Field Name="Order">30000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">302</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">mk-mk</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">302;#</Field>
+					<Field Name="Order">30200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ms-my</Field>
+					<Field Name="ID">310</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">310;#</Field>
+					<Field Name="Order">31000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">312</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ms-my</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">312;#</Field>
+					<Field Name="Order">31200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">nb-no</Field>
+					<Field Name="ID">320</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">320;#</Field>
+					<Field Name="Order">32000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">322</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">nb-no</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">322;#</Field>
+					<Field Name="Order">32200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">nl-nl</Field>
+					<Field Name="ID">330</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">330;#</Field>
+					<Field Name="Order">33000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">332</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">nl-nl</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">332;#</Field>
+					<Field Name="Order">33200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pl-pl</Field>
+					<Field Name="ID">340</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">340;#</Field>
+					<Field Name="Order">34000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">342</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">pl-pl</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">342;#</Field>
+					<Field Name="Order">34200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">prs-af</Field>
+					<Field Name="ID">350</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">350;#</Field>
+					<Field Name="Order">35000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">352</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">prs-af</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">352;#</Field>
+					<Field Name="Order">35200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pt-br</Field>
+					<Field Name="ID">360</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">360;#</Field>
+					<Field Name="Order">36000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">362</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">pt-br</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">362;#</Field>
+					<Field Name="Order">36200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pt-pt</Field>
+					<Field Name="ID">370</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">370;#</Field>
+					<Field Name="Order">37000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">372</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">pt-pt</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">372;#</Field>
+					<Field Name="Order">37200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ro-ro</Field>
+					<Field Name="ID">380</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">380;#</Field>
+					<Field Name="Order">38000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">382</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ro-ro</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">382;#</Field>
+					<Field Name="Order">38200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ru-ru</Field>
+					<Field Name="ID">390</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">390;#</Field>
+					<Field Name="Order">39000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">392</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">ru-ru</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">392;#</Field>
+					<Field Name="Order">39200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sk-sk</Field>
+					<Field Name="ID">400</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">400;#</Field>
+					<Field Name="Order">40000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">402</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">sk-sk</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">402;#</Field>
+					<Field Name="Order">40200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sl-si</Field>
+					<Field Name="ID">410</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">410;#</Field>
+					<Field Name="Order">41000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">412</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">sl-si</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">412;#</Field>
+					<Field Name="Order">41200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sr-cyrl-rs</Field>
+					<Field Name="ID">420</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">420;#</Field>
+					<Field Name="Order">42000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">422</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">sr-cyrl-rs</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">422;#</Field>
+					<Field Name="Order">42200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sr-latn-cs</Field>
+					<Field Name="ID">430</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">430;#</Field>
+					<Field Name="Order">43000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">432</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">sr-latn-cs</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">432;#</Field>
+					<Field Name="Order">43200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sv-se</Field>
+					<Field Name="ID">440</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">440;#</Field>
+					<Field Name="Order">44000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">442</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">sv-se</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">442;#</Field>
+					<Field Name="Order">44200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">th-th</Field>
+					<Field Name="ID">450</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">450;#</Field>
+					<Field Name="Order">45000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">452</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">th-th</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">452;#</Field>
+					<Field Name="Order">45200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">tr-tr</Field>
+					<Field Name="ID">460</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">460;#</Field>
+					<Field Name="Order">46000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">462</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">tr-tr</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">462;#</Field>
+					<Field Name="Order">46200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">uk-ua</Field>
+					<Field Name="ID">470</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">470;#</Field>
+					<Field Name="Order">47000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">472</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">uk-ua</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">472;#</Field>
+					<Field Name="Order">47200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">vi-vn</Field>
+					<Field Name="ID">480</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">480;#</Field>
+					<Field Name="Order">48000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">482</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">vi-vn</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">482;#</Field>
+					<Field Name="Order">48200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">zh-cn</Field>
+					<Field Name="ID">490</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">490;#</Field>
+					<Field Name="Order">49000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">492</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">zh-cn</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">492;#</Field>
+					<Field Name="Order">49200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">zh-tw</Field>
+					<Field Name="ID">500</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">500;#</Field>
+					<Field Name="Order">50000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">502</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">zh-tw</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">502;#</Field>
+					<Field Name="Order">50200.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Display Templates</Field>
+					<Field Name="ID">510</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">510;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|7
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|05 Jun 2015 07:13:10 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|7
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">51000.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Filters</Field>
+					<Field Name="ID">511</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">511;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|22
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|05 Jun 2015 07:13:25 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">51100.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Editing Menu</Field>
+					<Field Name="ID">518</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">518;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|4
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|05 Jun 2015 07:13:10 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">51800.0000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Search</Field>
+					<Field Name="ID">1784</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1784;#</Field>
+					<Field Name="Order">178400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Language Files</Field>
+					<Field Name="ID">1839</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1839;#</Field>
+					<Field Name="Order">183900.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ar-sa</Field>
+					<Field Name="ID">1840</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1840;#</Field>
+					<Field Name="Order">184000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">az-latn-az</Field>
+					<Field Name="ID">1844</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1844;#</Field>
+					<Field Name="Order">184400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">bg-bg</Field>
+					<Field Name="ID">1848</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1848;#</Field>
+					<Field Name="Order">184800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">bs-latn-ba</Field>
+					<Field Name="ID">1852</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1852;#</Field>
+					<Field Name="Order">185200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ca-es</Field>
+					<Field Name="ID">1856</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1856;#</Field>
+					<Field Name="Order">185600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">cs-cz</Field>
+					<Field Name="ID">1860</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1860;#</Field>
+					<Field Name="Order">186000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">cy-gb</Field>
+					<Field Name="ID">1864</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1864;#</Field>
+					<Field Name="Order">186400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">da-dk</Field>
+					<Field Name="ID">1868</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1868;#</Field>
+					<Field Name="Order">186800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">de-de</Field>
+					<Field Name="ID">1872</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1872;#</Field>
+					<Field Name="Order">187200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">el-gr</Field>
+					<Field Name="ID">1876</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1876;#</Field>
+					<Field Name="Order">187600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">en-us</Field>
+					<Field Name="ID">1880</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1880;#</Field>
+					<Field Name="Order">188000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">es-es</Field>
+					<Field Name="ID">1884</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1884;#</Field>
+					<Field Name="Order">188400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">et-ee</Field>
+					<Field Name="ID">1888</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1888;#</Field>
+					<Field Name="Order">188800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">eu-es</Field>
+					<Field Name="ID">1892</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1892;#</Field>
+					<Field Name="Order">189200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">fi-fi</Field>
+					<Field Name="ID">1896</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1896;#</Field>
+					<Field Name="Order">189600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">fr-fr</Field>
+					<Field Name="ID">1900</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1900;#</Field>
+					<Field Name="Order">190000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ga-ie</Field>
+					<Field Name="ID">1904</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1904;#</Field>
+					<Field Name="Order">190400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">gl-es</Field>
+					<Field Name="ID">1908</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1908;#</Field>
+					<Field Name="Order">190800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">he-il</Field>
+					<Field Name="ID">1912</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1912;#</Field>
+					<Field Name="Order">191200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hi-in</Field>
+					<Field Name="ID">1916</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1916;#</Field>
+					<Field Name="Order">191600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hr-hr</Field>
+					<Field Name="ID">1920</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1920;#</Field>
+					<Field Name="Order">192000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">hu-hu</Field>
+					<Field Name="ID">1924</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1924;#</Field>
+					<Field Name="Order">192400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">id-id</Field>
+					<Field Name="ID">1928</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1928;#</Field>
+					<Field Name="Order">192800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">it-it</Field>
+					<Field Name="ID">1932</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1932;#</Field>
+					<Field Name="Order">193200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ja-jp</Field>
+					<Field Name="ID">1936</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1936;#</Field>
+					<Field Name="Order">193600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">kk-kz</Field>
+					<Field Name="ID">1940</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1940;#</Field>
+					<Field Name="Order">194000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ko-kr</Field>
+					<Field Name="ID">1944</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1944;#</Field>
+					<Field Name="Order">194400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">lt-lt</Field>
+					<Field Name="ID">1948</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1948;#</Field>
+					<Field Name="Order">194800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">lv-lv</Field>
+					<Field Name="ID">1952</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1952;#</Field>
+					<Field Name="Order">195200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">mk-mk</Field>
+					<Field Name="ID">1956</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1956;#</Field>
+					<Field Name="Order">195600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ms-my</Field>
+					<Field Name="ID">1960</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1960;#</Field>
+					<Field Name="Order">196000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">nb-no</Field>
+					<Field Name="ID">1964</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1964;#</Field>
+					<Field Name="Order">196400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">nl-nl</Field>
+					<Field Name="ID">1968</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1968;#</Field>
+					<Field Name="Order">196800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pl-pl</Field>
+					<Field Name="ID">1972</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1972;#</Field>
+					<Field Name="Order">197200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">prs-af</Field>
+					<Field Name="ID">1976</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1976;#</Field>
+					<Field Name="Order">197600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pt-br</Field>
+					<Field Name="ID">1980</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1980;#</Field>
+					<Field Name="Order">198000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">pt-pt</Field>
+					<Field Name="ID">1984</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1984;#</Field>
+					<Field Name="Order">198400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ro-ro</Field>
+					<Field Name="ID">1988</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1988;#</Field>
+					<Field Name="Order">198800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">ru-ru</Field>
+					<Field Name="ID">1992</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1992;#</Field>
+					<Field Name="Order">199200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sk-sk</Field>
+					<Field Name="ID">1996</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">1996;#</Field>
+					<Field Name="Order">199600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sl-si</Field>
+					<Field Name="ID">2000</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2000;#</Field>
+					<Field Name="Order">200000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sr-cyrl-rs</Field>
+					<Field Name="ID">2004</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2004;#</Field>
+					<Field Name="Order">200400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sr-latn-cs</Field>
+					<Field Name="ID">2008</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2008;#</Field>
+					<Field Name="Order">200800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">sv-se</Field>
+					<Field Name="ID">2012</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2012;#</Field>
+					<Field Name="Order">201200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">th-th</Field>
+					<Field Name="ID">2016</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2016;#</Field>
+					<Field Name="Order">201600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">tr-tr</Field>
+					<Field Name="ID">2020</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2020;#</Field>
+					<Field Name="Order">202000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">uk-ua</Field>
+					<Field Name="ID">2024</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2024;#</Field>
+					<Field Name="Order">202400.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">vi-vn</Field>
+					<Field Name="ID">2028</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2028;#</Field>
+					<Field Name="Order">202800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">zh-cn</Field>
+					<Field Name="ID">2032</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2032;#</Field>
+					<Field Name="Order">203200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">zh-tw</Field>
+					<Field Name="ID">2036</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates/Language Files</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2036;#</Field>
+					<Field Name="Order">203600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Server Style Sheets</Field>
+					<Field Name="ID">2039</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2039;#</Field>
+					<Field Name="Order">203900.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">System</Field>
+					<Field Name="ID">2042</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2042;#</Field>
+					<Field Name="Order">204200.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Content Web Parts</Field>
+					<Field Name="ID">2055</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2055;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|38
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|05 Jun 2015 07:13:25 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">205500.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Themable</Field>
+					<Field Name="ID">2095</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2095;#</Field>
+					<Field Name="Order">209500.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">Preview Images</Field>
+					<Field Name="ID">2211</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2211;#</Field>
+					<Field Name="Order">221100.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">List</Field>
+					<Field Name="Title">List</Field>
+					<Field Name="ID">2225</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">Display Templates</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2225;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|4
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|05 Jun 2015 07:13:25 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">222500.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">O365</Field>
+					<Field Name="Title">O365</Field>
+					<Field Name="ID">2283</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2283;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|6
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|10 Jun 2015 05:11:36 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|4
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228300.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">css</Field>
+					<Field Name="Title">css</Field>
+					<Field Name="ID">2285</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">O365</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2285;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|4
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|10 Jun 2015 05:12:05 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228500.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">js</Field>
+					<Field Name="Title">js</Field>
+					<Field Name="ID">2286</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">O365</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2286;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|4
+vti_hassubdirs:BW|true
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_listservertemplate:IW|116
+vti_dirlateststamp:TW|10 Jun 2015 05:12:05 -0000
+vti_foldersubfolderitemcount:IW|2
+vti_listbasetype:IW|1
+vti_isscriptable:BW|false
+vti_isbrowsable:BW|true
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228600.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">foundation</Field>
+					<Field Name="Title">foundation</Field>
+					<Field Name="ID">2287</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">O365/js</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2287;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|17
+vti_hassubdirs:BW|true
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_listservertemplate:IW|116
+vti_dirlateststamp:TW|10 Jun 2015 05:12:05 -0000
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isscriptable:BW|false
+vti_isbrowsable:BW|true
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228700.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">vendor</Field>
+					<Field Name="Title">vendor</Field>
+					<Field Name="ID">2288</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">O365/js</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2288;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|5
+vti_hassubdirs:BW|true
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_listservertemplate:IW|116
+vti_dirlateststamp:TW|10 Jun 2015 05:12:05 -0000
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isscriptable:BW|false
+vti_isbrowsable:BW|true
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228800.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">img</Field>
+					<Field Name="Title">img</Field>
+					<Field Name="ID">2289</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">O365</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2289;#vti_isexecutable:BW|false
+vti_folderitemcount:IW|5
+vti_hassubdirs:BW|true
+vti_dirlateststamp:TW|10 Jun 2015 05:12:05 -0000
+vti_listservertemplate:IW|116
+vti_listname:SW|{$ListId:_catalogs/masterpage;}
+vti_foldersubfolderitemcount:IW|0
+vti_listbasetype:IW|1
+vti_isbrowsable:BW|true
+vti_isscriptable:BW|false
+vti_modifiedby:SR|SHAREPOINT\\system
+</Field>
+					<Field Name="Order">228900.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">bi</Field>
+					<Field Name="ID">2370</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2370;#</Field>
+					<Field Name="Order">237000.000000000</Field>
+				</Row>
+				<Row>
+					<Field Name="ContentTypeId">0x0120000228F1DDA60A064E937D22D4E2DECEBC</Field>
+					<Field Name="FileLeafRef">img</Field>
+					<Field Name="ID">2377</Field>
+					<Field Name="_ModerationStatus">0</Field>
+					<Field Name="FileDirRef">bi</Field>
+					<Field Name="FSObjType">1</Field>
+					<Field Name="MetaInfo">2377;#</Field>
+					<Field Name="Order">237700.000000000</Field>
+				</Row>
+			</Rows>
+		</Data>
+	</ListInstance>
+</Elements>

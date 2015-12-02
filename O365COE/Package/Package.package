@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8d7491ca-5806-49f4-8c51-68d933bcabc3" solutionId="8787108d-e0e6-4ba8-9028-bf4d61dcbe46" resetWebServer="false" sharePointProductVersion="15.0" name="O365COE" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <activationDependencies>
+    <customSolutionActivationDependency solutionId="9378b575-b9e0-4850-a2b4-82fd8b3bc21a" solutionName="IT Office 365 Center of Excellence-1.0.wsp" solutionUrl="" />
+    <customSolutionActivationDependency solutionId="a56c16a2-120a-47ad-b369-0f01bf18bebc" solutionName="MicrosoftITDesignPackage-1.7.1.wsp" solutionUrl="" />
+    <customSolutionActivationDependency solutionId="e3dea51c-7f61-4ec6-8352-b8cb8d50685e" solutionName="MicrosoftITDesignPackage-1.7.wsp" solutionUrl="" />
+  </activationDependencies>
+  <features>
+    <featureReference itemId="c1fbc2eb-9f14-4303-b5fd-8fbff3a3e986" />
+    <featureReference itemId="f9165bfd-7987-4283-89b1-cdedd2c21c15" />
+    <featureReference itemId="8d0483d7-923b-4dd3-9124-871e26d7285e" />
+    <featureReference itemId="1b9c2ca1-c18d-4d49-806e-27f1bf88530f" />
+    <featureReference itemId="fcce294a-0881-45a1-9ebb-4698ad68dd83" />
+  </features>
+</package>

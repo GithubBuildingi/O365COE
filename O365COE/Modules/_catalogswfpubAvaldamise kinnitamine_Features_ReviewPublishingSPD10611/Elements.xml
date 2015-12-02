@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswfpubAvaldamise kinnitamine_Features\ReviewPublishingSPD1061" Url="_catalogs/wfpub/Avaldamise kinnitamine" SetupPath="Features\ReviewPublishingSPD1061" RootWebOnly="TRUE" Path="Files\_catalogs\wfpub\Avaldamise kinnitamine" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ReviewPublishing_1061.vdw" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1061.vdw">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1061.vdw" />
+			<Property Name="ID" Value="280" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Avaldamise kinnitamine" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="280;#" />
+			<Property Name="Order" Value="28000.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1061.xoml.rules" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1061.xoml.rules">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1061.xoml.rules" />
+			<Property Name="ID" Value="276" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Avaldamise kinnitamine" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="276;#" />
+			<Property Name="Order" Value="27600.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1061.xoml" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1061.xoml">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1061.xoml" />
+			<Property Name="ID" Value="275" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Avaldamise kinnitamine" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="275;#" />
+			<Property Name="Order" Value="27500.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_1061.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_1061.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_1061.xsn" />
+			<Property Name="ID" Value="278" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Avaldamise kinnitamine" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="278;#" />
+			<Property Name="Order" Value="27800.0000000000" />
+		</File>
+		<File Url="ReviewPublishing_Task_1061.xsn" Type="GhostableInLibrary" Level="Published" Path="ReviewPublishing_Task_1061.xsn">
+			<Property Name="ContentTypeId" Value="0x010107009570ED3EB3BA3749A9E97C8C6AB2931C" />
+			<Property Name="FileLeafRef" Value="ReviewPublishing_Task_1061.xsn" />
+			<Property Name="ID" Value="279" />
+			<Property Name="ContentType" Value="User Workflow Document" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wfpub/Avaldamise kinnitamine" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="279;#" />
+			<Property Name="Order" Value="27900.0000000000" />
+		</File>
+	</Module>
+</Elements>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageDisplay TemplatesFilters_Features\SearchTemplatesandResources\DisplayTemplates" Url="_catalogs/masterpage/Display Templates/Filters" SetupPath="Features\SearchTemplatesandResources\DisplayTemplates" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Display Templates\Filters" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Filter_eDiscoveryExchangeRefinement.js" Type="GhostableInLibrary" Level="Published" Path="Filter_eDiscoveryExchangeRefinement.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Filter_eDiscoveryExchangeRefinement.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="User Specified Refinement Exchange" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Refinement;#" />
+			<Property Name="DisplayTemplateLevel" Value="Filter" />
+			<Property Name="ID" Value="2090" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2090;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;CompatibleManagedProperties:SR|&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Refinement;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Filter_eDiscoveryExchangeRefinement.js&#xD;&#xA;CompatibleSearchDataTypes:SR|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Filter&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|User Specified Refinement Exchange&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="209000.000000000" />
+		</File>
+		<File Url="Filter_eDiscoveryExchangeTypeRefinement.js" Type="GhostableInLibrary" Level="Published" Path="Filter_eDiscoveryExchangeTypeRefinement.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Filter_eDiscoveryExchangeTypeRefinement.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,DisplayTemplateTitle_ExchangeMailType;" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Refinement;#" />
+			<Property Name="DisplayTemplateLevel" Value="Filter" />
+			<Property Name="ID" Value="2091" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2091;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;CompatibleManagedProperties:SR|&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Refinement;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Filter_eDiscoveryExchangeTypeRefinement.js&#xD;&#xA;CompatibleSearchDataTypes:SR|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Filter&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,DisplayTemplateTitle_ExchangeMailType;&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="209100.000000000" />
+		</File>
+		<File Url="Filter_eDiscoverySharePointRefinement.js" Type="GhostableInLibrary" Level="Published" Path="Filter_eDiscoverySharePointRefinement.js">
+			<Property Name="ContentTypeId" Value="0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36" />
+			<Property Name="FileLeafRef" Value="Filter_eDiscoverySharePointRefinement.js" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="User Specified Refinement SharePoint" />
+			<Property Name="TemplateHidden" Value="TRUE" />
+			<Property Name="TargetControlType" Value=";#Refinement;#" />
+			<Property Name="DisplayTemplateLevel" Value="Filter" />
+			<Property Name="ID" Value="2092" />
+			<Property Name="ContentType" Value="Display Template Code" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Display Templates/Filters" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2092;#HtmlDesignLockedFile:SR|TRUE&#xD;&#xA;CompatibleManagedProperties:SR|&#xD;&#xA;vti_parserversion:SR|16.0.0.3912&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;TargetControlType:SR|;#Refinement;#&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\SearchTemplatesandResources\\DisplayTemplates\\Filter_eDiscoverySharePointRefinement.js&#xD;&#xA;CompatibleSearchDataTypes:SR|&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;TemplateHidden:SR|1&#xD;&#xA;DisplayTemplateLevel:SR|Filter&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_title:SR|User Specified Refinement SharePoint&#xD;&#xA;MasterPageDescription:SR|&#xD;&#xA;ContentType:SR|Display Template Code&#xD;&#xA;ContentTypeId:SW|0x0101002039C03B61C64EC4A04F5361F3851066050027109010CE2A014598B02BFE37AF9C36&#xD;&#xA;" />
+			<Property Name="Order" Value="209200.000000000" />
+		</File>
+	</Module>
+</Elements>

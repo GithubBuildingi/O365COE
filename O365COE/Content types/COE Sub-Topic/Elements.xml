@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780004D1A1A5AB4F6374E8051FE96D147328802" Name="COE Sub-Topic" Group="Office 365 COE Content Types" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/COE Sub-Topic" />
+		<FieldRefs>
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" Hidden="FALSE" ShowInNewForm="FALSE" ShowInEditForm="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{9da97a8a-1da5-4a77-98d3-4bc10456e700}" Name="Comments" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{2e8881da-0332-4ad9-a565-45b5b8b2702f}" Name="ReportOwner" Required="TRUE" />
+			<FieldRef ID="{840a9f3c-1e14-4c21-9dbf-5637765665db}" Name="Confidentiality" Required="TRUE" />
+			<FieldRef ID="{51d39414-03dc-4bd0-b777-d3e20cb350f7}" Name="PublishingStartDate" />
+			<FieldRef ID="{a990e64f-faa3-49c1-aafa-885fda79de62}" Name="PublishingExpirationDate" />
+			<FieldRef ID="{c79dba91-e60b-400e-973d-c6d06f192720}" Name="PublishingContactEmail" />
+			<FieldRef ID="{7546ad0d-6c33-4501-b470-fb3003ca14ba}" Name="PublishingContactName" />
+			<FieldRef ID="{543bc2cf-1f30-488e-8f25-6fe3b689d9ac}" Name="PublishingRollupImage" />
+			<FieldRef ID="{61cbb965-1e04-4273-b658-eedaa662f48d}" Name="Audience" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3de94b06-4120-41a5-b907-88773e493458}" Name="PublishingPageImage" />
+			<FieldRef ID="{f55c4d88-1f2e-4ad9-aaa8-819af4ee7ee8}" Name="PublishingPageContent" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{b3525efe-59b5-4f0f-b1e4-6e26cb6ef6aa}" Name="SummaryLinks" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{d3429cc9-adc4-439b-84a8-5679070f84cb}" Name="ArticleByLine" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{71316cea-40a0-49f3-8659-f0cefdbdbd4f}" Name="ArticleStartDate" />
+			<FieldRef ID="{66f500e9-7955-49ab-abb1-663621727d10}" Name="PublishingImageCaption" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" />
+			<FieldRef ID="{b1996002-9167-45e5-a4df-b2c41c6723c7}" Name="RatingCount" />
+			<FieldRef ID="{5a14d1ab-1513-48c7-97b3-657a5ba6c742}" Name="AverageRating" />
+			<FieldRef ID="{34a72e09-3ca6-4931-b2e3-f81c40bb87bd}" Name="RoutingRuleDescription" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{dc47d55f-9bf9-494a-8d5b-e619214dd19a}" Name="PublishingContactPicture" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{0f800910-b30d-4c8f-b011-8189b2297094}" Name="PublishingPageLayout" />
+			<FieldRef ID="{914fdb80-7d4f-4500-bf4c-ce46ad7484a4}" Name="PublishingVariationGroupID" />
+			<FieldRef ID="{a932ec3f-94c1-48b1-b6dc-41aaa6eb7e54}" Name="HeaderStyleDefinitions" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{766da693-38e5-4b1b-997f-e830b6dfcc7b}" Name="PublishingVariationRelationshipLinkFieldID" />
+			<FieldRef ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created" Hidden="TRUE" />
+			<FieldRef ID="{e5124dd0-b53e-406e-a74e-f800f7078aa6}" Name="ConfidentialityTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename" />
+			<FieldRef ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified" Hidden="TRUE" />
+			<FieldRef ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By" Hidden="FALSE" />
+			<FieldRef ID="{aea1a4dd-0f19-417d-8721-95a1d28762ab}" Name="PublishingContact" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{37cbddf9-3b2d-4a69-8b38-4d9b20950cc5}" Name="la4444b61d19467597d63190b69ac227" Hidden="TRUE" />
+			<FieldRef ID="{5a4444b6-1d19-4675-97d6-3190b69ac227}" Name="EmployeeRole" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{aaeb76b4-0c96-4fc0-992f-e184790200f2}" Name="e8080b0481964c759b2c36ae49591b31" Hidden="TRUE" />
+			<FieldRef ID="{e8080b04-8196-4c75-9b2c-36ae49591b31}" Name="MSPhysicalGeography" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{c4e8b575-c52b-4c11-9b66-3470792139fe}" Name="iaaee4c3d13f4ffeb9033e9aea9e2187" Hidden="TRUE" />
+			<FieldRef ID="{2aaee4c3-d13f-4ffe-b903-3e9aea9e2187}" Name="MSEmployeeInterests" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{1fd53974-0124-4929-8a33-fc9df1e811cc}" Name="cb7870d3641f4a52807a63577a9c1b08" Hidden="TRUE" />
+			<FieldRef ID="{cb7870d3-641f-4a52-807a-63577a9c1b08}" Name="SalesGeography" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{50631c24-1371-4ecf-a5ae-ed41b03f4499}" Name="PublishingIsFurlPage" />
+			<FieldRef ID="{ff92f929-d18b-46d4-9879-521378c689ef}" Name="SeoBrowserTitle" />
+			<FieldRef ID="{d83897e5-2430-4df7-8e5a-9bc06c664992}" Name="SeoMetaDescription" />
+			<FieldRef ID="{45ae2169-585c-440b-aa4c-1d5e981fbbe5}" Name="SeoKeywords" />
+			<FieldRef ID="{325c00dd-fd91-468b-81cf-5bb9951abba1}" Name="RobotsNoIndex" />
+			<FieldRef ID="{37d8d628-a6b4-4d12-82ee-c8db17c6a7cd}" Name="FeaturedNews" AllowDeletion="TRUE" />
+			<FieldRef ID="{597e7431-8fdc-4329-a840-7e95daf7b7c6}" Name="o8021b5c41fe48c2bcdd441b6e67b50b" Hidden="TRUE" />
+			<FieldRef ID="{88021b5c-41fe-48c2-bcdd-441b6e67b50b}" Name="COEAudienceRole" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{8cfbbe10-25bb-48d3-9b5c-ef6aa22c725f}" Name="h8767eae6a6f46318c33ae504aed79e0" Hidden="TRUE" />
+			<FieldRef ID="{18767eae-6a6f-4631-8c33-ae504aed79e0}" Name="COEProducts" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3feca89b-143d-4643-b7a7-8923cfb45d95}" Name="kfe9a0ab27c64206aabc47b1c8c1d25e" Hidden="TRUE" />
+			<FieldRef ID="{4fe9a0ab-27c6-4206-aabc-47b1c8c1d25e}" Name="COEParentTopic" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+		</FieldRefs>
+		<DocumentTemplate TargetName="/_layouts/CreatePage.aspx" />
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D000E4CB7077FEE4FF7AE86D4A500EEC780" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>DocumentLibraryForm</Display>
+					<Edit>DocumentLibraryForm</Edit>
+					<New>DocumentLibraryForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

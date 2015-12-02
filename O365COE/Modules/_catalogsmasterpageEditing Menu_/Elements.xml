@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageEditing Menu_" Url="_catalogs/masterpage/Editing Menu" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\Editing Menu" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="CustomEditingMenu.xml" Type="GhostableInLibrary" Level="Draft" Path="CustomEditingMenu.xml">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="CustomEditingMenu.xml" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="CustomEditingMenu.xml" />
+			<Property Name="ID" Value="519" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Editing Menu" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="519;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Editing Menu&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|CustomEditingMenu.xml&#xD;&#xA;FileLeafRef:SW|CustomEditingMenu.xml&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;" />
+			<Property Name="Order" Value="51900.0000000000" />
+		</File>
+		<File Url="CustomQuickAccess.xml" Type="GhostableInLibrary" Level="Draft" Path="CustomQuickAccess.xml">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="CustomQuickAccess.xml" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="CustomQuickAccess.xml" />
+			<Property Name="ID" Value="520" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Editing Menu" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="520;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Editing Menu&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|CustomQuickAccess.xml&#xD;&#xA;FileLeafRef:SW|CustomQuickAccess.xml&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;" />
+			<Property Name="Order" Value="52000.0000000000" />
+		</File>
+		<File Url="CustomSiteAction.xml" Type="GhostableInLibrary" Level="Draft" Path="CustomSiteAction.xml">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="CustomSiteAction.xml" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="CustomSiteAction.xml" />
+			<Property Name="ID" Value="521" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Editing Menu" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="521;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Editing Menu&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|CustomSiteAction.xml&#xD;&#xA;FileLeafRef:SW|CustomSiteAction.xml&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;" />
+			<Property Name="Order" Value="52100.0000000000" />
+		</File>
+		<File Url="RTE2ToolbarExtension.xml" Type="GhostableInLibrary" Level="Draft" Path="RTE2ToolbarExtension.xml">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="RTE2ToolbarExtension.xml" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="RTE2ToolbarExtension.xml" />
+			<Property Name="ID" Value="522" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/Editing Menu" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="522;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/scmpubdemo16/_catalogs/masterpage/Editing Menu&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|RTE2ToolbarExtension.xml&#xD;&#xA;FileLeafRef:SW|RTE2ToolbarExtension.xml&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;" />
+			<Property Name="Order" Value="52200.0000000000" />
+		</File>
+	</Module>
+</Elements>

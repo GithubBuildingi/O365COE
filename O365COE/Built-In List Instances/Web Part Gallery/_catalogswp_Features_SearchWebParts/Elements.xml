@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\SearchWebParts" Url="_catalogs/wp" SetupPath="Features\SearchWebParts" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="Navigation.webpart" Type="GhostableInLibrary" Level="Published" Path="Navigation.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Navigation.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,SearchNavigation_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,SearchNavigation_Desc;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Search;#" />
+			<Property Name="ID" Value="36" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="36;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Search;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\Navigation.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.SearchNavigationWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,SearchNavigation_Desc;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,SearchNavigation_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,SearchNavigation_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3600.00000000000" />
+		</File>
+		<File Url="RefinementScript.webpart" Type="GhostableInLibrary" Level="Published" Path="RefinementScript.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="RefinementScript.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,RefinementScript_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,RefinementScript_Desc;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Search;#" />
+			<Property Name="ID" Value="33" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="33;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Search;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\RefinementScript.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.RefinementScriptWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,RefinementScript_Desc;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,RefinementScript_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,RefinementScript_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3300.00000000000" />
+		</File>
+		<File Url="ResultScript.webpart" Type="GhostableInLibrary" Level="Published" Path="ResultScript.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="ResultScript.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,ResultsScriptWP_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,ResultsScriptWP_Desc;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Search;#" />
+			<Property Name="ID" Value="34" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="34;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Search;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\ResultScript.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.ResultScriptWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,ResultsScriptWP_Desc;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,ResultsScriptWP_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,ResultsScriptWP_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3400.00000000000" />
+		</File>
+		<File Url="SearchBoxScript.webpart" Type="GhostableInLibrary" Level="Published" Path="SearchBoxScript.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="SearchBoxScript.webpart" />
+			<Property Name="Title" Value="$Resources:Microsoft.Office.Server.Search,SearchBoxScriptWP_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:Microsoft.Office.Server.Search,SearchBoxScriptWP_Desc;" />
+			<Property Name="Group" Value="$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Search;#" />
+			<Property Name="ID" Value="35" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="35;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:Microsoft.Office.Server.Search,SearchWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#Search;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SearchWebParts\\SearchBoxScript.webpart&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;WebPartTypeName:SW|Microsoft.Office.Server.Search.WebControls.SearchBoxScriptWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.Search,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:Microsoft.Office.Server.Search,SearchBoxScriptWP_Desc;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:Microsoft.Office.Server.Search,SearchBoxScriptWP_Title;&#xD;&#xA;vti_title:SR|$Resources:Microsoft.Office.Server.Search,SearchBoxScriptWP_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="3500.00000000000" />
+		</File>
+	</Module>
+</Elements>

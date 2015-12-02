@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_cts\Approved Shared MDG Regulated Software Document\regulated_word_template.docx" Target="Files\_cts\Approved Shared MDG Regulated Software Document\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_ctsApproved Shared MDG Regulated Software Document_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

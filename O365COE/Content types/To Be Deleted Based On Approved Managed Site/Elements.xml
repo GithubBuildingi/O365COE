@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010084F0D1934D68DB459C9080DA827545DC04" Name="To Be Deleted Based On Approved Managed Site" Group="_Hidden" Description="A content type used for provisioning ASG Tech Review sites." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Approved Managed ASGTR Site" />
+		<FieldRefs>
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{6efa4fee-088b-47f7-87c8-364b65b92384}" Name="SiteOwner" />
+			<FieldRef ID="{0daea452-74c5-4238-b1c1-70e679bb4034}" Name="SiteDescription1" />
+			<FieldRef ID="{e2c938a0-97f4-4882-84df-ea80e6bc9aca}" Name="SiteURL" />
+			<FieldRef ID="{2cb93adc-de41-4fb0-a580-c9d68e3aca91}" Name="cad04f11c83d4e6db92a5e82b518a152" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{cad04f11-c83d-4e6d-b92a-5e82b518a152}" Name="BusinessImpactClassification" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{201829b9-45a8-43da-97cc-5a5084ac2122}" Name="SiteAudienceScope" />
+			<FieldRef ID="{80a0ba8e-b861-4be3-a71e-b597b436ac2a}" Name="SiteCompliance" />
+			<FieldRef ID="{cd8cc6df-85dd-4262-8e5d-d209af6b8c89}" Name="SiteCustomerID" />
+			<FieldRef ID="{c6f9e6fe-a5c7-4eb6-b454-d33352f6908a}" Name="SiteLifeCycleStatus" />
+			<FieldRef ID="{b8b93c2f-0cb8-4bf6-90d4-1e428f9471ac}" Name="SiteDefinitionListItemID" />
+			<FieldRef ID="{b33aa78d-ca0f-4690-9301-c1ef8beb9bdd}" Name="SiteExpiration" />
+			<FieldRef ID="{f3fe8e1b-abac-4fc0-89b0-9e762d6a45f3}" Name="CreateStatus" />
+			<FieldRef ID="{913c4478-e8b6-4ad4-a2ad-e172097de736}" Name="SCMCustomParameter" />
+			<FieldRef ID="{871ad249-247f-48ff-929e-beb86a1da1fd}" Name="SCMOperationLog" />
+			<FieldRef ID="{863388de-ffb0-4067-b5af-4f9dbe93e04a}" Name="SCMStatus" />
+			<FieldRef ID="{698543ee-404a-4feb-ae0e-6d41a168494a}" Name="SiteType" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010084F0D1934D68DB459C9080DA827545DC04" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_cts\Doc Set TEST\docsethomepage.aspx" Target="Files\_cts\Doc Set TEST\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_cts\Doc Set TEST\docsethomepage_old_25_6.aspx.old" Target="Files\_cts\Doc Set TEST\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_ctsDoc Set TEST_\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

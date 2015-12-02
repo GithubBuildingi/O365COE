@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x0120D520000E4CB7077FEE4FF7AE86D4A500EEC780" Name="Approved Shared Document Set" Group="Approved Shared Content Types" Description="Use this content type to create a shared document set when you want to manage multiple shared documents as a single work product." ReadOnly="TRUE" Overwrite="TRUE" ProgId="SharePoint.DocumentSet" PushDownChangedResourceFilesOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Enterprise Document Set" />
+		<FieldRefs>
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" Hidden="FALSE" />
+			<FieldRef ID="{840a9f3c-1e14-4c21-9dbf-5637765665db}" Name="Confidentiality" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{34a72e09-3ca6-4931-b2e3-f81c40bb87bd}" Name="RoutingRuleDescription" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{b824e17e-a1b3-426e-aecf-f0184d900485}" Name="ItemChildCount" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{e5124dd0-b53e-406e-a74e-f800f7078aa6}" Name="ConfidentialityTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{960ff01f-2b6d-4f1b-9c3f-e19ad8927341}" Name="FolderChildCount" />
+			<FieldRef ID="{cbb92da4-fd46-4c7d-af6c-3128c2a5576e}" Name="Description" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+				<FormUrls xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+					<New>_layouts/NewDocSet.aspx</New>
+				</FormUrls>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events">
+					<Receiver>
+						<Name>DocumentSet ItemUpdated</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10002</Type>
+						<SequenceNumber>100</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.DocumentManagement, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetEventReceiver</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>DocumentSet ItemAdded</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10001</Type>
+						<SequenceNumber>100</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.DocumentManagement, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+				</spe:Receivers>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/allowedcontenttypes">
+				<act:AllowedContentTypes xmlns:act="http://schemas.microsoft.com/office/documentsets/allowedcontenttypes" LastModified="03/10/2010 18:21:55">
+					<AllowedContentType id="0x0101" xmlns="http://schemas.microsoft.com/sharepoint/soap/" />
+				</act:AllowedContentTypes>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/welcomepageview">
+				<WelcomePageView xmlns="http://schemas.microsoft.com/office/documentsets/welcomepageview" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/sharedfields">
+				<SharedFields xmlns="http://schemas.microsoft.com/office/documentsets/sharedfields" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/defaultdocuments">
+				<DefaultDocuments xmlns="http://schemas.microsoft.com/office/documentsets/defaultdocuments" LastModified="1/1/1 0:00:01 AM" AddSetName="" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x0120D520000E4CB7077FEE4FF7AE86D4A500EEC780" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>DocSetDisplayForm</New>
+				</FormTemplates>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/welcomepagefields">
+				<WelcomePageFields xmlns="http://schemas.microsoft.com/office/documentsets/welcomepagefields" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

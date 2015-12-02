@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="PublishingImages_t_" Url="PublishingImages/_t" RootWebOnly="FALSE" Path="Files\PublishingImages\_t" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="WIN12_Vipul_03 (2)_png.jpg" Level="Published" Path="8WIN12_Vipul_032_png.jpg" />
+		<File Url="grass_jpg.jpg" Level="Published" Path="grass_jpg.jpg" />
+		<File Url="lookdown_jpg.jpg" Level="Published" Path="lookdown_jpg.jpg" />
+		<File Url="pie_jpg.jpg" Level="Published" Path="pie_jpg.jpg" />
+		<File Url="screenshot-lca_jpg.jpg" Level="Published" Path="screenshot-lca_jpg.jpg" />
+		<File Url="screenshot-msw_jpg.jpg" Level="Published" Path="screenshot-msw_jpg.jpg" />
+		<File Url="screenshot-refweb_jpg.jpg" Level="Published" Path="screenshot-refweb_jpg.jpg" />
+		<File Url="sitting_jpg.jpg" Level="Published" Path="sitting_jpg.jpg" />
+		<File Url="vision_jpg.jpg" Level="Published" Path="vision_jpg.jpg" />
+		<File Url="web-based_png.jpg" Level="Published" Path="web-based_png.jpg" />
+		<File Url="WIN12_Bill_07_png.jpg" Level="Published" Path="WIN12_Bill_07_png.jpg" />
+		<File Url="WIN12_Chris_02_png.jpg" Level="Published" Path="WIN12_Chris_02_png.jpg" />
+		<File Url="WIN12_Jon_01_png.jpg" Level="Published" Path="WIN12_Jon_01_png.jpg" />
+		<File Url="WIN12_Kiki_01_png.jpg" Level="Published" Path="WIN12_Kiki_01_png.jpg" />
+		<File Url="WIN12_Phil_07_png.jpg" Level="Published" Path="WIN12_Phil_07_png.jpg" />
+		<File Url="WIN12_Renee_02_png.jpg" Level="Published" Path="WIN12_Renee_02_png.jpg" />
+	</Module>
+</Elements>

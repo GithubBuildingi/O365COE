@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="SiteCollectionImages_t_" Url="SiteCollectionImages/_t" RootWebOnly="FALSE" Path="Files\SiteCollectionImages\_t" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="home_jpg.jpg" Level="Published" Path="home_jpg.jpg" />
+		<File Url="PR_gif.jpg" Level="Published" Path="PR_gif.jpg" />
+	</Module>
+</Elements>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="Pages" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>TaxonomyItemSynchronousAddedEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdding</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Taxonomy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Taxonomy.TaxonomyItemEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>TaxonomyItemUpdatingEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Taxonomy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Taxonomy.TaxonomyItemEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>PagesListEventReceiverName</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemDeleting</Type>
+			<SequenceNumber>1005</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Publishing.PagesListCPVEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>PagesListEventReceiverName</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>1004</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Publishing.PagesListCPVEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>PagesListEventReceiverName</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>1002</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Publishing.PagesListCPVEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>PagesListEventReceiverName</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemDeleted</Type>
+			<SequenceNumber>1006</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Publishing.PagesListCPVEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>PagesListEventReceiverName</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemCheckedIn</Type>
+			<SequenceNumber>1003</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Publishing.PagesListCPVEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+	</Receivers>
+</Elements>

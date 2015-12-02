@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpage_Features\PublishingLayouts\PageLayouts" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="ArticleLeft.aspx" Type="GhostableInLibrary" Level="Draft" Path="ArticleLeft.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ArticleLeft.aspx" />
+			<Property Name="MasterPageDescription" Value="The article page with image on left contains an image field and a rich text field." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Image on left" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLeft.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLeft.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="523" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="523;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLeft.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLeft.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:41 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Image on left&#xD;&#xA;MasterPageDescription:SW|The article page with image on left contains an image field and a rich text field.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ArticleLeft.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\ArticleLeft.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52300.0000000000" />
+		</File>
+		<File Url="ArticleLinks.aspx" Type="GhostableInLibrary" Level="Draft" Path="ArticleLinks.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ArticleLinks.aspx" />
+			<Property Name="MasterPageDescription" Value="The article page with links contains an image field and summary links." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Summary links" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLinks.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLinks.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="524" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="524;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLinks.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLinks.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:43 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Summary links&#xD;&#xA;MasterPageDescription:SW|The article page with links contains an image field and summary links.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ArticleLinks.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\ArticleLinks.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52400.0000000000" />
+		</File>
+		<File Url="ArticleRight.aspx" Type="GhostableInLibrary" Level="Draft" Path="ArticleRight.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ArticleRight.aspx" />
+			<Property Name="MasterPageDescription" Value="The article page with image on right contains an image field and a rich text field." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Image on right" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleRight.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleRight.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="525" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="525;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleRight.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleRight.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:49 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Image on right&#xD;&#xA;MasterPageDescription:SW|The article page with image on right contains an image field and a rich text field.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ArticleRight.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\ArticleRight.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52500.0000000000" />
+		</File>
+		<File Url="BlankWebPartPage.aspx" Type="GhostableInLibrary" Level="Draft" Path="BlankWebPartPage.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="BlankWebPartPage.aspx" />
+			<Property Name="MasterPageDescription" Value="Page layout for creating web part pages" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Blank Web Part page" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/BlankWebPartPage.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/BlankWebPartPage.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+			<Property Name="ID" Value="529" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="529;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/BlankWebPartPage.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/BlankWebPartPage.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:52 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Blank Web Part page&#xD;&#xA;MasterPageDescription:SW|Page layout for creating web part pages&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|BlankWebPartPage.aspx&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\BlankWebPartPage.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_cachedzones:VR|Header TopLeftRow TopRightRow CenterLeftColumn CenterColumn CenterRightColumn Footer RightColumn&#xD;&#xA;PublishingAssociatedContentType:SW|;#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52900.0000000000" />
+		</File>
+		<File Url="CatalogArticle.aspx" Type="GhostableInLibrary" Level="Draft" Path="CatalogArticle.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="CatalogArticle.aspx" />
+			<Property Name="MasterPageDescription" Value="The catalog item page with image on left contains an image field and a rich text field which are both populated by way of the content index and a remote catalog item." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Catalog Item Image on Left" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLeft.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLeft.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Catalog-Item Reuse;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900B46186789C3140cc85BE610336E86BBB;#" />
+			<Property Name="ID" Value="1781" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1781;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLeft.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLeft.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:54 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Catalog Item Image on Left&#xD;&#xA;MasterPageDescription:SW|The catalog item page with image on left contains an image field and a rich text field which are both populated by way of the content index and a remote catalog item.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|CatalogArticle.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\CatalogArticle.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Catalog-Item Reuse;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900B46186789C3140cc85BE610336E86BBB;#&#xD;&#xA;" />
+			<Property Name="Order" Value="178100.000000000" />
+		</File>
+		<File Url="CatalogWelcome.aspx" Type="GhostableInLibrary" Level="Draft" Path="CatalogWelcome.aspx">
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_384d950a_8106_4f26_8be1_5940bda47b32"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" null="true" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string" null="true" />
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_a892e93f_7962_4e15_9091_1711119cd892"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" null="true" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string">&lt;xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cmswrt="http://schemas.microsoft.com/WebPart/v3/Publishing/runtime" exclude-result-prefixes="xsl cmswrt x" &gt; &lt;/xsl:stylesheet&gt;</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" null="true" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_58b19f78_4e2f_431e_befd_0e7661d3aa8d"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" null="true" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string">&lt;xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cmswrt="http://schemas.microsoft.com/WebPart/v3/Publishing/runtime" exclude-result-prefixes="xsl cmswrt x" &gt; &lt;/xsl:stylesheet&gt;</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" null="true" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_053abc61_7981_4aff_960e_141dbf4f16a6"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" null="true" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string">&lt;xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cmswrt="http://schemas.microsoft.com/WebPart/v3/Publishing/runtime" exclude-result-prefixes="xsl cmswrt x" &gt; &lt;/xsl:stylesheet&gt;</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" null="true" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_a892e93f_7962_4e15_9091_1711119cd892"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" null="true" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string">&lt;xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cmswrt="http://schemas.microsoft.com/WebPart/v3/Publishing/runtime" exclude-result-prefixes="xsl cmswrt x" &gt; &lt;/xsl:stylesheet&gt;</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" null="true" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<AllUsersWebPart WebPartOrder="1" WebPartZoneID="TopColumnZone" ID="g_58b19f78_4e2f_431e_befd_0e7661d3aa8d"><![CDATA[<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+      <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="ShowWithSampleData" type="bool">False</property>
+        <property name="SortWebsByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="LevelsToShow" type="int">2</property>
+        <property name="NoDefaultStyle" type="string" null="true" />
+        <property name="Header" type="string" />
+        <property name="AsyncRefresh" type="bool">False</property>
+        <property name="ViewContentTypeId" type="string" />
+        <property name="XmlDefinitionLink" type="string" />
+        <property name="ManualRefresh" type="bool">False</property>
+        <property name="ListUrl" type="string" null="true" />
+        <property name="IncludeHiddenPages" type="bool">False</property>
+        <property name="ListId" type="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">00000000-0000-0000-0000-000000000000</property>
+        <property name="Hidden" type="bool">False</property>
+        <property name="Level2Style" type="string">Vertical</property>
+        <property name="SortWebsBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="EnableOriginalValue" type="bool">False</property>
+        <property name="Default" type="string" />
+        <property name="SortPagesByDirection" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+SortDirection, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">Asc</property>
+        <property name="IncludeContentFromStartingLocation" type="bool">False</property>
+        <property name="ViewFlags" type="Microsoft.SharePoint.SPViewFlags, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">None</property>
+        <property name="AllowConnect" type="bool">True</property>
+        <property name="HeaderXslLink" type="string" />
+        <property name="ListName" type="string" />
+        <property name="DataSourcesString" type="string" />
+        <property name="AllowZoneChange" type="bool">True</property>
+        <property name="AllowEdit" type="bool">True</property>
+        <property name="ShowPages" type="bool">True</property>
+        <property name="TitleUrl" type="string" />
+        <property name="DataSourceID" type="string" />
+        <property name="ExportMode" type="exportmode">All</property>
+        <property name="AutoRefresh" type="bool">False</property>
+        <property name="FireInitialRow" type="bool">True</property>
+        <property name="Level3Style" type="string">Vertical</property>
+        <property name="Description" type="string" />
+        <property name="HelpMode" type="helpmode">Modeless</property>
+        <property name="AllowMinimize" type="bool">True</property>
+        <property name="ChromeType" type="chrometype">None</property>
+        <property name="Xsl" type="string">&lt;xsl:stylesheet xmlns:x="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cmswrt="http://schemas.microsoft.com/WebPart/v3/Publishing/runtime" exclude-result-prefixes="xsl cmswrt x" &gt; &lt;/xsl:stylesheet&gt;</property>
+        <property name="ChromeState" type="chromestate">Normal</property>
+        <property name="CatalogIconImageUrl" type="string" />
+        <property name="SampleData" type="string" null="true" />
+        <property name="UseSQLDataSourcePaging" type="bool">True</property>
+        <property name="TitleIconImageUrl" type="string" />
+        <property name="PageSize" type="int">-1</property>
+        <property name="Width" type="string" />
+        <property name="DataFields" type="string" />
+        <property name="Level1Style" type="string">Vertical</property>
+        <property name="Title" type="string">Table of Contents</property>
+        <property name="PageType" type="Microsoft.SharePoint.PAGETYPE, Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">PAGE_NORMALVIEW</property>
+        <property name="ListDisplayName" type="string" null="true" />
+        <property name="AllowClose" type="bool">True</property>
+        <property name="HelpUrl" type="string">/_layouts/help.aspx</property>
+        <property name="Height" type="string" />
+        <property name="CacheXslStorage" type="bool">True</property>
+        <property name="DisplayName" type="string" />
+        <property name="ViewFlag" type="string">0</property>
+        <property name="MainXslLink" type="string" />
+        <property name="XslLink" type="string" null="true" />
+        <property name="XmlDefinition" type="string" />
+        <property name="IncludeHiddenWebs" type="bool">False</property>
+        <property name="InitialAsyncDataFetch" type="bool">False</property>
+        <property name="AllowHide" type="bool">True</property>
+        <property name="HeaderTemplate" type="string">DefaultHeader</property>
+        <property name="ParameterBindings" type="string" null="true" />
+        <property name="CacheXslTimeOut" type="int">86400</property>
+        <property name="AutoRefreshInterval" type="int">60</property>
+        <property name="ItemXslLink" type="string" />
+        <property name="StartFromCurrentNode" type="bool">False</property>
+        <property name="MissingAssembly" type="string">Cannot import this Web Part.</property>
+        <property name="DisplayColumns" type="int">3</property>
+        <property name="AnchorLocation" type="string" />
+        <property name="SortPagesBy" type="Microsoft.SharePoint.Publishing.WebControls.TableOfContentsWebPart+NavigationSortOption, Microsoft.SharePoint.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">NavigationOrder</property>
+        <property name="Direction" type="direction">NotSet</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>]]></AllUsersWebPart>
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="CatalogWelcome.aspx" />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="PublishingHidden" Value="FALSE" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Catalog-Item Reuse;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900B46186789C3140CC85BE610336E86BBB;#" />
+			<Property Name="ID" Value="1782" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1782;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;FileDirRef:SW|teams/dev_/_catalogs/masterpage&#xD;&#xA;PublishingAssociatedVariations:SW|&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\CatalogWelcome.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_cachedzones:VR|Header TopLeftRow TopRightRow CenterLeftColumn CenterColumn CenterRightColumn Footer RightColumn&#xD;&#xA;PublishingPreviewImage:SW|&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:47:56 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_title:SW|&#xD;&#xA;MasterPageDescription:SW|&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|CatalogWelcome.aspx&#xD;&#xA;PublishingAssociatedContentType:SW|;#Catalog-Item Reuse;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900B46186789C3140CC85BE610336E86BBB;#&#xD;&#xA;PublishingHidden:SW|false&#xD;&#xA;" />
+			<Property Name="Order" Value="178200.000000000" />
+		</File>
+		<File Url="ErrorLayout.aspx" Type="GhostableInLibrary" Level="Draft" Path="ErrorLayout.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="ErrorLayout.aspx" />
+			<Property Name="MasterPageDescription" Value="The error page is used for 404 HTTP errors." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Error" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLinks.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLinks.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Error Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900796F542FC5E446758C697981E370458C;#" />
+			<Property Name="ID" Value="1780" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="1780;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleLinks.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleLinks.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:00 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;vti_title:SW|Error&#xD;&#xA;MasterPageDescription:SW|The error page is used for 404 HTTP errors.&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|ErrorLayout.aspx&#xD;&#xA;vti_metatags:VR|robots noindex&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\ErrorLayout.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Error Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900796F542FC5E446758C697981E370458C;#&#xD;&#xA;" />
+			<Property Name="Order" Value="178000.000000000" />
+		</File>
+		<File Url="PageFromDocLayout.aspx" Type="GhostableInLibrary" Level="Draft" Path="PageFromDocLayout.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="PageFromDocLayout.aspx" />
+			<Property Name="MasterPageDescription" Value="The article page with body only contains a rich text field." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Body only" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleBodyOnly.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleBodyOnly.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#" />
+			<Property Name="ID" Value="526" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="526;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/ArticleBodyOnly.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/ArticleBodyOnly.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:24 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Body only&#xD;&#xA;MasterPageDescription:SW|The article page with body only contains a rich text field.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|PageFromDocLayout.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\PageFromDocLayout.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Article Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900242457EFB8B24247815D688C526CD44D;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52600.0000000000" />
+		</File>
+		<File Url="RedirectPageLayout.aspx" Type="GhostableInLibrary" Level="Draft" Path="RedirectPageLayout.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="RedirectPageLayout.aspx" />
+			<Property Name="MasterPageDescription" Value="This page layout contains a redirect control for automatically directing readers to any specified URL." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Redirect" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/RedirectPage.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/RedirectPage.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Redirect Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900FD0E870BA06948879DBD5F9813CD8799;#" />
+			<Property Name="ID" Value="528" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="528;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/RedirectPage.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/RedirectPage.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:48:34 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_title:SW|Redirect&#xD;&#xA;MasterPageDescription:SW|This page layout contains a redirect control for automatically directing readers to any specified URL.&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;FileLeafRef:SW|RedirectPageLayout.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\RedirectPageLayout.aspx&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;PublishingAssociatedContentType:SW|;#Redirect Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900FD0E870BA06948879DBD5F9813CD8799;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52800.0000000000" />
+		</File>
+		<File Url="WelcomeSplash.aspx" Type="GhostableInLibrary" Level="Draft" Path="WelcomeSplash.aspx">
+			<Property Name="ContentTypeId" Value="0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8" />
+			<Property Name="FileLeafRef" Value="WelcomeSplash.aspx" />
+			<Property Name="MasterPageDescription" Value="The welcome with splash contains an image field on the left side, Web Part zones in a header, and 2 columns. The left navigation pane is hidden." />
+			<Property Name="UIVersion" Value="15" />
+			<Property Name="Title" Value="Splash" />
+			<Property Name="PublishingPreviewImage" Value="https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/WelcomeSplash.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/WelcomeSplash.png" />
+			<Property Name="PublishingAssociatedContentType" Value=";#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#" />
+			<Property Name="ID" Value="527" />
+			<Property Name="ContentType" Value="Page Layout" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="527;#vti_encoding:SR|utf8-nl&#xD;&#xA;vti_parserversion:SR|16.0.0.4208&#xD;&#xA;PublishingPreviewImage:SW|/sites/O365COE/_catalogs/masterpage/en-US/Preview%20Images/WelcomeSplash.png, /teams/msitdpdev1/_catalogs/masterpage/en-US/Preview Images/WelcomeSplash.png&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;vti_syncwith_microsoft.sharepoint.com\:443/teams/itadpdev1:TW|29 Jan 2014 10:49:33 -0000&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;FileDirRef:SW|teams/msitdpdev1/_catalogs/masterpage&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;ContentType:SW|Page Layout&#xD;&#xA;vti_title:SW|Splash&#xD;&#xA;MasterPageDescription:SW|The welcome with splash contains an image field on the left side, Web Part zones in a header, and 2 columns. The left navigation pane is hidden.&#xD;&#xA;FileLeafRef:SW|WelcomeSplash.aspx&#xD;&#xA;ContentTypeId:SW|0x01010007FF3E057FA8AB4AA42FCB67B453FFC100E214EEE741181F4E9F7ACC43278EE81100D14B5B1502DC274E94CBC42E27200BC8&#xD;&#xA;vti_cachednoperszones:VR|TopZone BottomLeftZone BottomRightZone&#xD;&#xA;vti_setuppath:SR|Features\\PublishingLayouts\\PageLayouts\\WelcomeSplash.aspx&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;UIVersion:SW|15&#xD;&#xA;vti_cachedzones:VR|TopZone BottomLeftZone BottomRightZone&#xD;&#xA;PublishingAssociatedContentType:SW|;#Welcome Page;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF390064DEA0F50FC8C147B0B6EA0636C4A7D4;#&#xD;&#xA;" />
+			<Property Name="Order" Value="52700.0000000000" />
+		</File>
+	</Module>
+</Elements>

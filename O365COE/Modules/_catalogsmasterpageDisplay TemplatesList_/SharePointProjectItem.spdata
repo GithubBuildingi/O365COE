@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\List\IT_AnnouncementAccordion_View.js" Target="Files\_catalogs\masterpage\Display Templates\List\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\List\IT_DocumentLibrary_View.js" Target="Files\_catalogs\masterpage\Display Templates\List\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\List\IT_NewsDetail_View.js" Target="Files\_catalogs\masterpage\Display Templates\List\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\Display Templates\List\IT_NewsList_View.js" Target="Files\_catalogs\masterpage\Display Templates\List\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpageDisplay TemplatesList_\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

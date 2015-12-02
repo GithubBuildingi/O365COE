@@ -1,0 +1,755 @@
+﻿/* 
+== == == == == == == == == == == == == == ==
+	TABLE OF CONTENTS
+== == == == == == == == == == == == == == ==
+*/
+
+/*
+-- -- -- -- -- -- -- -- -- --
+	Default Styles
+-- -- -- -- -- -- -- -- -- --
+*/
+	/* TYPOGRAPHY
+	/* FOUNDATION OVERRIDES
+	/* ELEMENTS
+	/* ICONS
+	/* LAYOUT
+		- Banded Sections
+	/* O365 RIBBON
+	/* HEADER
+	/* PAGE STATUS BAR
+	/* SEARCH
+	/* PRIMARY NAVIGATION 
+	/* WEB PARTS
+		- Web Part Zone
+		- Web Part Chrome
+		- Rich Text Editor
+		- Topic Page Rollup
+		- O365 List Two Lines No Icon
+		- Related Content
+	/* FOOTER	
+	
+/*
+-- -- -- -- -- -- -- -- -- --
+	Media Queries
+-- -- -- -- -- -- -- -- -- --
+*/
+	/* MAX-WIDTH: 767PX
+	/* MIN-WIDTH: 40.063EM
+		- Topic Page Rollup
+/*
+==========================================================================================
+
+== DEFAULT STYLES ==
+
+==========================================================================================
+*/
+
+/* 
+== == == == == == == == == == == == == == ==
+	TYPOGRAPHY
+== == == == == == == == == == == == == == ==
+*/
+
+/* Segoe UI */
+body,
+.top-bar-section ul li > a,
+.top-bar-section ul li > a:link,
+.top-bar-section ul li > a:visited,
+.top-bar-section ul li > a:hover,
+.top-bar-section ul li > a:active,
+.top-bar-section ul li > a:focus,
+button,
+.button,
+h1,
+.ms-rtestate-field h1, 
+h1.ms-rteElement-H1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6,
+.ms-rtestate-field,
+p,
+.ms-rtestate-field p, 
+p.ms-rteElement-P,
+li,
+.ms-rtestate-field li,
+li.ms-rteElement-LI,
+#title,
+#title .subtitle 
+	{
+		font-family: 'Segoe UI', Segoe, Tahoma, Verdana, Arial, sans-serif;
+		font-weight: 300;
+		line-height: 1.4;
+	    text-rendering: optimizeLegibility;
+	}
+
+/* page title */
+#bi-pageTitle
+	{
+		color: #DC3C00;
+		font-size:42px;
+		line-height: 1.2;
+		padding: 0;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	FOUNDATION OVERRIDES
+== == == == == == == == == == == == == == ==
+*/
+
+/* widen each row */
+.row 
+	{
+	  max-width: 75em;
+	}
+	
+/* scope responsive images as to not interfere with the 
+   SharePoint UI elements */
+#content img 
+	{
+	    display: inline-block;
+	    height: auto;
+	    max-width: 100%;
+	    vertical-align: middle;
+	}
+	
+/* Fixes missing drop down arrow in web part chrome */	
+#content img.ms-webpart-menuArrowImg 
+	{
+		max-width: none;
+	}
+	
+/* scope .row padding */
+#content .row
+	{
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	ELEMENTS
+== == == == == == == == == == == == == == ==
+*/
+
+body,
+.article-body 
+	{
+	    color: #000000;
+	    font-size: 16px;
+	}
+	
+p,
+.ms-rtestate-field p, 
+p.ms-rteElement-P
+	{
+		margin:10px 0;
+	}
+
+/* headings */
+h1,
+.ms-rtestate-field h1, 
+h1.ms-rteElement-H1,
+h2,
+.ms-rtestate-field h2, 
+h2.ms-rteElement-H2,
+h3, 
+.ms-rtestate-field h3, 
+h3.ms-rteElement-H3, 
+h4,
+.ms-rtestate-field h4, 
+h4.ms-rteElement-H4, 
+h5, 
+.ms-rtestate-field h5, 
+h5.ms-rteElement-H5,
+h6,
+.ms-rtestate-field h6, 
+h6.ms-rteElement-H6
+	{
+		color: #505050;
+		padding-bottom: .2em;
+		padding-top: .2em;
+	}
+
+/* heading 1 */
+h1,
+.ms-rtestate-field h1, 
+h1.ms-rteElement-H1
+	{
+		font-size: 36px;
+	}
+	
+/* heading 2 */
+h2,
+.ms-rtestate-field h2, 
+h2.ms-rteElement-H2,
+h2.ms-webpart-titleText 
+	{
+	    font-size: 30px;
+	}
+
+/* heading 3 */
+h3,
+.ms-rtestate-field h3, 
+h3.ms-rteElement-H3 
+	{
+		font-size: 24px;
+	}
+
+/* heading 4 */
+h4,
+.ms-rtestate-field h4, 
+h4.ms-rteElement-H4 
+	{
+		font-size: 20px;
+		font-weight: 400;
+	}
+
+/* heading 5 */
+h5, 
+.ms-rtestate-field h5, 
+h5.ms-rteElement-H5
+	{
+		font-size: 18px;
+		font-weight: 400;
+	}
+
+/* heading 6 */
+h6,
+.ms-rtestate-field h6, 
+h6.ms-rteElement-H6
+	{
+		font-size: 16px;
+		font-weight: 500;
+	}
+	
+/* hyperlinks */
+a,
+a:link,
+a:visited,
+a:hover,
+a:active,
+a:focus
+	{
+		color: #DC3C00;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	ICONS
+== == == == == == == == == == == == == == ==
+*/
+
+/* Icons: ms logo */
+.logo_microsoft 
+	{
+		background: url("../img/siteSprite.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+		height: 16px;
+		width: 83px;
+	}
+
+/* Icons: right arrow */
+.icon-arrow-right-20::after 
+	{
+		background: url("../img/siteSprite.png") repeat scroll 0 -464px rgba(0, 0, 0, 0);
+		bottom: 0;
+		content: "";
+		display: block;
+		height: 20px;
+		position: absolute;
+		right: 0;
+		width: 21px;
+	}
+
+/* Icons: right arrow */
+.icon-arrow-right-20, 
+.right-spanIcon 
+	{
+		font-family: sc_segoe-ui_semibold,"Segoe UI Semibold",sc_segoe-ui_normal,"Segoe UI",Segoe,Tahoma,Verdana,Arial,sans-serif;
+		padding-right: 25px;
+		position: relative;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	LAYOUT
+== == == == == == == == == == == == == == ==
+*/
+
+/* remove the large vertical gap showing up in the page layout
+   between the last page content and the footer */
+#content 
+	{
+		min-height: inherit !important;
+	}
+
+/* switch from display:table which was causing a horizontal 
+   scroll at smaller resolutions */
+#ms-belltown-table
+	{
+		display: block;
+	}
+
+/* layouts other than the home page add extra vertical spacing
+   between the last bit of content and the footer */	
+#content .article-body > .row:last-child 
+	{
+		padding-bottom: 60px;
+	}		
+/*
+-- -- -- -- -- -- -- -- -- --
+	Banded Sections
+-- -- -- -- -- -- -- -- -- --
+*/
+
+.fullWidth
+	{
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+
+.fullWidth.gray
+	{
+		background-color: #F4F4F4;
+	}
+
+.fullWidth.darkGray
+	{
+		background-color: #505050;
+		border-top: 2px solid #FFFFFF;
+	}
+
+.fullWidth.darkGray p, 
+.fullWidth.darkGray h1, 
+.fullWidth.darkGray h2, 
+.fullWidth.darkGray h3,
+.fullWidth.darkGray h4
+	{
+		color: white;
+	}
+
+.fullWidth.orange
+	{
+		background-color: #DC3C00;
+		padding-bottom: 0;
+	}
+
+.fullWidth.orange p, 
+.fullWidth.orange a,
+.fullWidth.orange a:link,
+.fullWidth.orange a:visited,
+.fullWidth.orange a:hover,
+.fullWidth.orange a:active,
+.fullWidth.orange a:focus, 
+.fullWidth.orange h1, 
+.fullWidth.orange h2, 
+.fullWidth.orange h3, 
+.fullWidth.orange h4
+	{
+		color: white;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	O365 RIBBON
+== == == == == == == == == == == == == == ==
+*/
+
+.o365spo.o365cst.o365cs-base .o365cs-topnavBGColor-2,
+.o365cs-topnavBGColor-2.o365spo.o365cst.o365cs-base,
+.o365spo.o365cst.o365cs-base .ms-bgc-tp,
+.o365spo.o365cst.o365cs-base .ms-bgc-tp-h:hover,
+.ms-bgc-tp.o365spo.o365cst.o365cs-base
+	{
+	    background-color: #000000 !important;	
+	}
+
+.o365spo.o365cst.o365cs-base .ms-bgc-tdr, 
+.o365spo.o365cst.o365cs-base .ms-bgc-tdr-h:hover 
+	{
+	    background-color: #888888 !important;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	HEADER
+== == == == == == == == == == == == == == ==
+*/
+
+/* Header: container */
+#header 
+	{
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 30px;
+	}
+	
+/* Header: site logo */
+#site-logo
+	{
+		margin-top: -7px;
+	}
+	
+/* Header: site title & sub-title */
+#title
+	{
+	    color: #ffffff;
+	    line-height: 1;
+	}
+
+/* Header: site sub-title */	
+#title .subtitle 
+	{
+		font-size: 16px;
+	}
+
+/* Header: hamburger and search icons */
+.ms-core-form-title
+	{
+		color: #ffffff;
+	}
+	
+/* 
+== == == == == == == == == == == == == == ==
+	PAGE STATUS BAR
+== == == == == == == == == == == == == == ==
+*/
+
+#pageStatusBar,
+.ms-status-msg
+	{
+		margin-bottom: 0 !important;
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	PRIMARY NAVIGATION
+== == == == == == == == == == == == == == ==
+*/
+
+/* Primary Navigation: container */
+#header .fullWidth.gray
+	{
+		padding: 0;
+	}
+	
+/* Primary Navigation: home link */
+ul.main-menu > li:first-child a 
+	{
+		background-image: url(../img/icon-home-24-dark.png);
+		background-repeat: no-repeat;
+		background-size: contain;
+		display: block;
+		height: 19px;
+		text-indent: -9999px;
+		width: 19px;
+	}
+	
+ul.main-menu > li.selected:first-child a
+	{
+		background-image: url(../img/icon-home-24-orange.png);
+	} 
+
+
+/* Primary Navigation: sub menu */
+#header .subMenuRow
+	{
+		height: 0;
+	}
+
+/* Primary Navigaiton: link state */	
+#header ul > li.selected > a,
+#header ul > li.selected > a:link,
+#header ul > li.selected > a:visited,
+#header ul > li.selected > a:hover,
+#header ul > li.selected > a:active,
+#header ul > li.selected > a:focus
+	{
+	    color: #dc3c00 !important;
+	}
+	
+/*
+== == == == == == == == == == == == == == ==
+	WEB PARTS
+== == == == == == == == == == == == == == ==
+*/
+
+/*
+-- -- -- -- -- -- -- -- -- --
+	Web Part Zone
+-- -- -- -- -- -- -- -- -- --
+*/
+
+#content .ms-webpart-zone 
+	{
+	    display: block;
+	}
+
+#content .ms-webpart-cell-vertical 
+	{
+	    display: block;
+	}
+
+#content .ms-webpart-chrome-vertical 
+	{
+	    display: inline;
+	}
+
+/*
+-- -- -- -- -- -- -- -- -- --
+	Web Part Chrome
+-- -- -- -- -- -- -- -- -- --
+*/
+
+/* Web Part Chrome: non-hyperlink title */
+h2.ms-webpart-titleText 
+	{
+		margin-bottom: 0;
+		margin-top: 0;
+		padding: 0;
+	}
+	
+/*
+-- -- -- -- -- -- -- -- -- --
+	Rich Text Editor
+-- -- -- -- -- -- -- -- -- --
+*/
+
+/*
+-- -- -- -- -- -- -- -- -- --
+	Topic Page Rollup
+-- -- -- -- -- -- -- -- -- --
+*/
+
+/* on small viewports, the first container in each row
+   should have vertical space underneath */
+div:first-child > .bi-topicContainer:first-child 
+	{
+		margin-bottom: 30px;
+	}
+
+.bi-topicContainer 
+	{
+		display: inline-block;
+		position: relative;
+	}
+
+.bi-topicTitle 
+	{
+		background: rgba(0,0,0,0.5);
+		bottom: 0;
+		padding: 10px 15px;
+		position: absolute;  
+		width: 100%;
+	}
+
+.bi-topicTitle a, 
+.bi-topicTitle a:link, 
+.bi-topicTitle a:visited, 
+.bi-topicTitle a:hover, 
+.bi-topicTitle a:active, 
+.bi-topicTitle a:focus 
+	{
+		color: #ffffff;
+		font-size: 20px;
+		font-weight: 400;
+	}		
+	
+/*
+-- -- -- -- -- -- -- -- -- --
+	O365 List Two Lines No Icon
+-- -- -- -- -- -- -- -- -- --
+*/
+
+.bi-o365List 
+	{
+		margin-bottom: 15px;
+		margin-top: -6px;
+	}
+
+.bi-o365TwoLinesNoIcon
+	{
+		padding-bottom: 0;
+	}
+
+.bi-o365TwoLinesNoIcon .cbs-Detail
+	{
+		margin-left: 0;
+	}
+	
+/*
+-- -- -- -- -- -- -- -- -- --
+	Related Content
+-- -- -- -- -- -- -- -- -- --
+*/
+
+#RelatedContent
+	{
+		list-style-type: none;
+		padding: 0;
+	}
+	
+#RelatedContent li
+	{
+		margin-bottom:8px;
+	}
+	
+[class$=DocType]
+	{
+		position: relative;
+	}
+	
+[class$=DocType] > a 
+	{
+		display: block;
+		margin-left: 40px;
+	}
+
+[class$=DocType]::before 
+	{
+		border-radius: 2px;
+		display: block;
+		font-size: 10px;
+		font-weight: 400;
+		left: 0;
+		padding-bottom: 1px;
+		position: absolute;
+		text-align: center;
+		top: 3px;
+		width: 32px;		
+	}
+
+.PageDocType::before
+	{
+		border: #00bcf2 1px solid;
+		color: #00bcf2;
+		content: 'web';
+	}
+
+.wordDocType::before
+	{
+		border: #0078d7 1px solid;
+		color: #0078d7;
+		content: 'doc';
+	}
+
+.excelDocType::before
+	{
+		border: #107c10 1px solid;
+		color: #107c10;
+		content: 'xls';
+	}
+
+.powerpointDocType::before
+	{
+		border: #d83b01 1px solid;
+		color: #d83b01;
+		content: 'ppt';
+	}
+
+.pdfDocType::before
+	{
+		border: #e81123 1px solid;
+		color: #e81123;
+		content: 'pdf';
+	}
+	
+.UnknownDocType::before
+	{
+		border: #505050 1px solid;
+		color: #505050;
+		content: 'file';
+	}
+
+/* 
+== == == == == == == == == == == == == == ==
+	FOOTER
+== == == == == == == == == == == == == == ==
+*/
+
+/* links directly above footer */
+.preFooter.fullWidth.darkGray
+	{
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+
+/* Footer: container */
+#page_footer 
+	{
+	    margin-top: 0px;
+	}
+
+#page_footer.ms-EmphasisBackground-bgColor {
+                background-color: #DC3C00;
+}
+
+
+/*
+==========================================================================================
+
+== HTML SNIPPET GALLERY STYLES ==
+
+==========================================================================================
+*/
+
+/* 
+== == == == == == == == == == == == == == ==
+	CHECKLIST
+== == == == == == == == == == == == == == ==
+*/
+ol.htmlSnippetChecklist{list-style-position: inside; list-style-type:none;}
+ol.htmlSnippetChecklist li::before { content: "☐ ";}
+ol.htmlSnippetChecklist li{padding-bottom: 10px;}
+
+/* 
+== == == == == == == == == == == == == == ==
+	SINGLE TIER ACCORDION
+== == == == == == == == == == == == == == ==
+*/
+.htmlSnippetAccordion .section{margin-bottom:10px;}
+.htmlSnippetAccordion .section .title {padding: 10px;background-color: #eb3c00;color: white;}
+.htmlSnippetAccordion .section .title:hover{cursor:pointer;}
+.htmlSnippetAccordion .section div.content{display: none;}
+.htmlSnippetAccordion .section.open div.content{display: block;}
+.htmlSnippetAccordion .plusMinusWhite{background-image:url(../img/plus_minus_white.png);background-repeat:no-repeat;width:20px;height:20px;margin-left:5px;display:inline-block;position:relative;top:2px;float:right;}
+.htmlSnippetAccordion .plusMinusBlack{background-image:url(../img/plus_minus_black.png);background-repeat:no-repeat;width:20px;height:20px;margin-left:5px;display:inline-block;position:relative;top:2px;float:right;}
+.htmlSnippetAccordion .section.open .title span.plusMinusWhite{background-position: 0 -20px;}
+.htmlSnippetAccordion .section.open .title span.plusMinusBlack{background-position: 0 -20px;}
+
+
+/*
+==========================================================================================
+
+== MEDIA QUERIES ==
+
+==========================================================================================
+*/
+
+@media only screen and (max-width: 767px) 
+	{
+		#header ul > li.expanded > a 
+			{
+		    	color: #777777;
+			}
+	}
+
+@media only screen and (min-width: 40.063em)
+	{
+		/*
+		-- -- -- -- -- -- -- -- -- --
+			Topic Page Rollup
+		-- -- -- -- -- -- -- -- -- --
+		*/
+				
+		/* remove the vertical spacing underneath the first
+		   container in each row once the containers are aligned
+		   horizontally */
+		div:first-child > .bi-topicContainer:first-child 
+			{
+				margin-bottom: 0;
+			}
+	}

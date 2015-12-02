@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010084F0D1934D68DB459C9080DA827545DC03" Name="Approved Managed LCA Site" Group="Approved Shared Content Types" Description="A content type used for provisioning sites for the LCA business division." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/ApprovedManagedLCASite" />
+		<FieldRefs>
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{6efa4fee-088b-47f7-87c8-364b65b92384}" Name="SiteOwner" />
+			<FieldRef ID="{0daea452-74c5-4238-b1c1-70e679bb4034}" Name="SiteDescription1" />
+			<FieldRef ID="{e2c938a0-97f4-4882-84df-ea80e6bc9aca}" Name="SiteURL" />
+			<FieldRef ID="{cad04f11-c83d-4e6d-b92a-5e82b518a152}" Name="BusinessImpactClassification" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{201829b9-45a8-43da-97cc-5a5084ac2122}" Name="SiteAudienceScope" />
+			<FieldRef ID="{80a0ba8e-b861-4be3-a71e-b597b436ac2a}" Name="SiteCompliance" />
+			<FieldRef ID="{cd8cc6df-85dd-4262-8e5d-d209af6b8c89}" Name="SiteCustomerID" />
+			<FieldRef ID="{c6f9e6fe-a5c7-4eb6-b454-d33352f6908a}" Name="SiteLifeCycleStatus" />
+			<FieldRef ID="{b8b93c2f-0cb8-4bf6-90d4-1e428f9471ac}" Name="SiteDefinitionListItemID" />
+			<FieldRef ID="{b33aa78d-ca0f-4690-9301-c1ef8beb9bdd}" Name="SiteExpiration" />
+			<FieldRef ID="{f3fe8e1b-abac-4fc0-89b0-9e762d6a45f3}" Name="CreateStatus" />
+			<FieldRef ID="{913c4478-e8b6-4ad4-a2ad-e172097de736}" Name="SCMCustomParameter" />
+			<FieldRef ID="{871ad249-247f-48ff-929e-beb86a1da1fd}" Name="SCMOperationLog" />
+			<FieldRef ID="{863388de-ffb0-4067-b5af-4f9dbe93e04a}" Name="SCMStatus" />
+			<FieldRef ID="{698543ee-404a-4feb-ae0e-6d41a168494a}" Name="SiteType" />
+			<FieldRef ID="{9f408e84-c90b-463c-88d9-8a4ca8fa4a76}" Name="lcapracticegroup" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{01de90bf-0994-4605-b539-5c5ca240cb6c}" Name="lcaregion" />
+			<FieldRef ID="{5f45f779-fd1a-4122-9509-5c0e07d4ee96}" Name="lcasitetype" />
+			<FieldRef ID="{52578fc3-1f01-4f4d-b016-94ccbcf428cf}" Name="_Comments" Required="FALSE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{604a23a5-504c-43e9-bb30-0c28abad273f}" Name="Permissions" />
+			<FieldRef ID="{62633480-1868-419e-948e-930aebbebb01}" Name="StorageSize" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f93d76af-9f75-49b2-b1a5-7eda5b6ebdb0}" Name="Available" />
+			<FieldRef ID="{c4266973-a736-450c-84fd-4aa8ad15c17b}" Name="ExternalShare" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{04636d79-dcdb-4cb5-b6d1-55d451a61515}" Name="ExtShareLCAIntake" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{f2b4a876-1082-4f71-97e8-b05c6861ca3c}" Name="Webtrends" />
+			<FieldRef ID="{53ac38c5-288f-4983-a863-6cba16185818}" Name="AppInsights" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{67e8928d-b113-4dbf-b9df-5f5d1ffba5bb}" Name="ReviewGuestsBy" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{456173c4-140b-455e-a740-9f44e0adbfa9}" Name="VanityURL" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{85ceba93-eec8-4262-9a61-bb3f5860121a}" Name="VanityOwner" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7da03479-e3d3-4eef-9aa5-a0c31f6c235d}" Name="TotalSize" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{088eab9c-d8b0-4dfa-8ab0-d068fd81588f}" Name="SizePercentageUsed" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{11e13e17-1f8e-4fe2-b525-07a692cdb5bc}" Name="WorkflowDate1" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{068052b1-527a-4ce8-bb1d-ddd4a5ca54f8}" Name="WorkflowDate2" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{74d3fb3f-d6a9-4619-bf00-62907fe69370}" Name="OldSiteExpirationDate" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{425012d6-7e36-40d5-bcdd-a9f001180db5}" Name="BufferColumn1" />
+			<FieldRef ID="{a2c33508-6c92-462e-90cf-3b4f1fa9aed8}" Name="BufferColumn2" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{2cb93adc-de41-4fb0-a580-c9d68e3aca91}" Name="cad04f11c83d4e6db92a5e82b518a152" Hidden="TRUE" />
+			<FieldRef ID="{eae34537-5cd6-4566-b241-a47392f21625}" Name="lf45f779fd1a412295095c0e07d4ee96" Hidden="TRUE" />
+			<FieldRef ID="{68c6b929-974d-461a-a242-703417d258d3}" Name="pf408e84c90b463c88d98a4ca8fa4a76" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{29e37fa0-1670-443e-bf06-b42bda6c0e9f}" Name="g1de90bf09944605b5395c5ca240cb6c" Hidden="TRUE" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010084F0D1934D68DB459C9080DA827545DC03" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\wfpub\Collect Signatures - SharePoint 2010\Signatures_1033.xoml.wfconfig.xml" Target="Files\_catalogs\wfpub\Collect Signatures - SharePoint 2010\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogswfpubCollect Signatures - SharePoint 2010_Features_SignaturesWorkflowSPD1033\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="Translation Packages" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdded</Type>
+			<SequenceNumber>101</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>102</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>Content Following Item Updated Event Receiver 101</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Server.UserProfiles, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.Server.UserProfiles.ContentFollowingItemEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x3E79A2A7CD67C14D9FD043F61581207A</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+		<Receiver>
+			<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemCheckedIn</Type>
+			<SequenceNumber>103</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUncheckedOut</Type>
+			<SequenceNumber>104</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>Microsoft.Office.RecordsManagement.PolicyFeatures.ExpirationEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemFileMoved</Type>
+			<SequenceNumber>105</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Policy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.RecordsManagement.Internal.UpdateExpireDate</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+	</Receivers>
+</Elements>

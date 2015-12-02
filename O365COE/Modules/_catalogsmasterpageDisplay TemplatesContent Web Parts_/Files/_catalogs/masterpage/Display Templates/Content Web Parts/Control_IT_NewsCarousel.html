@@ -1,0 +1,244 @@
+﻿<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"> 
+<head>
+<title>IT News Carousel</title>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
+<mso:MasterPageDescription msdt:dt="string">This Control Display Template will show a picture slideshow that rotates through a set of items every 5 seconds. It will show one item at a time with the title of the item overlaying the picture.</mso:MasterPageDescription>
+<mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F38510660100869CA1B212E43740879E1F16C2B1A608</mso:ContentTypeId>
+<mso:TargetControlType msdt:dt="string">;#Content Web Parts;#</mso:TargetControlType>
+<mso:HtmlDesignAssociated msdt:dt="string">1</mso:HtmlDesignAssociated>
+<mso:HtmlDesignConversionSucceeded msdt:dt="string">True</mso:HtmlDesignConversionSucceeded>
+<mso:HtmlDesignStatusAndPreview msdt:dt="string">https://microsoft.sharepoint.com/sites/O365COE/_catalogs/masterpage/Display%20Templates/Content%20Web%20Parts/Control_IT_NewsCarousel.html, Conversion successful.</mso:HtmlDesignStatusAndPreview>
+<mso:FSObjType msdt:dt="string">0</mso:FSObjType>
+<mso:ContentType msdt:dt="string">Control Display Template</mso:ContentType>
+<mso:FileDirRef msdt:dt="string">teams/ncdp/_catalogs/masterpage/Display Templates/Content Web Parts</mso:FileDirRef>
+<mso:FileLeafRef msdt:dt="string">Control_HotNews.html</mso:FileLeafRef>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+
+<body>
+
+    <!--
+            Warning: Do not try to add HTML to this section. Only the contents of the first <div>
+            inside the <body> tag will be used while executing Display Template code. Any HTML that
+            you add to this section will NOT become part of your Display Template.
+    -->
+    <script>
+        $includeLanguageScript(this.url, "~sitecollection/_catalogs/masterpage/Display Templates/Language Files/{Locale}/CustomStrings.js");
+    </script>
+
+    <!--
+        Use the div below to author your Display Template. Here are some things to keep in mind:
+        * Surround any JavaScript logic as shown below using a "pound underscore" (#_ ... _#) token
+        inside a comment.
+
+        * Use the values assigned to your variables using an "underscore pound equals"
+        (_#= ... =#_) token.
+    -->
+
+    <div id="HotNews">
+<!--#_ 
+var $noResults = Srch.ContentBySearch.getControlTemplateEncodedNoResultsMessage(ctx.ClientControl);
+
+if (!$isNull(ctx.ClientControl) &&
+    !$isNull(ctx.ClientControl.shouldRenderControl) &&
+    !ctx.ClientControl.shouldRenderControl())
+{
+    return "";
+}
+ctx.ListDataJSONGroupsKey = "ResultTables";
+
+var encodedId = $htmlEncode(ctx.ClientControl.get_nextUniqueId() + "_slideShow_");
+var itemsContainerId = encodedId + "container";
+var pagingOverlayId = encodedId + "pagingOverlay";
+var pagingBarId = encodedId + "pagingBar";
+var pagingMoreId = encodedId + "pagingMore";
+
+
+window.Slides_timer = function(controlDiv, currentIdx){
+    var TimerDelayMilliSeconds = 5000;
+    
+    currentIdx ++;
+    var numResults = $(".slides_pagingBar li").length;
+    if(currentIdx >= numResults){
+        currentIdx = 0;
+    }
+    else if(currentIdx < 0)
+    {
+        currentIdx = numResults - 1;
+    }
+    clearTimeout(controlDiv.timer);
+    controlDiv.timer = setTimeout(function(){Slides_changeSlide(currentIdx); controlDiv = null; currentIdx = null;}, TimerDelayMilliSeconds);
+};
+window.Slides_pagingClicked = function(clicked)
+{
+	var controlDiv = document.querySelectorAll(".slides_container")[0];	
+    var current = $(".slides_pagingBar li.current").index();
+    var next = parseInt(clicked,10);
+    if(current !== next )
+    {	    	
+		clearTimeout(controlDiv.timer);
+		Slides_changeSlide(clicked);
+	}
+}
+
+var ListRenderRenderWrapper = function(itemRenderResult, inCtx, tpl)
+{
+    var iStr = [];
+    iStr.push('<div class="slide-cell">');
+    iStr.push(itemRenderResult);
+    iStr.push('</div>');
+    return iStr.join('');
+}
+ctx['ItemRenderWrapper'] = ListRenderRenderWrapper;
+ctx.OnPostRender = [];
+
+ctx.OnPostRender.push(function(){
+    var slideshows = document.querySelectorAll(".slides_container");
+
+    for(var i = 0; i < slideshows.length; i++){
+        Slides_init(slideshows[i]);
+    }
+});
+window.Slides_init = function(controlDiv){
+	if(!controlDiv.timer){
+		var timer = document.createAttribute("timer");
+        controlDiv.setAttributeNode(timer);
+        var firstSlide = $(controlDiv).find(".slides_control .slide-row>div:first").clone();
+        var lastSlide = $(controlDiv).find(".slides_control .slide-row>div:last").clone();
+		$(controlDiv).find(".slides_control .slide-row").append(firstSlide);
+		$(controlDiv).find(".slides_control .slide-row").prepend(lastSlide);
+		$(controlDiv).mouseover(function()
+		{
+			clearTimeout(controlDiv.timer);
+			console.log("stop");
+		});
+		$(controlDiv).mouseout(function()
+		{
+			var current = $(".slides_pagingBar li.current").index();
+			Slides_timer(controlDiv, current);
+		});
+		$(".slides_control").animate({top:"-100%"},0,Slides_callback)
+							.animate({left:-805},0,Slides_callback);
+        Slides_timer(controlDiv, 0);
+    }
+};
+window.Slides_changeSlide = function(clicked){
+	var current = $(".slides_pagingBar li.current").index();
+	//var n = $(".slides_control>div").length;
+	//var slideWidth = $(".slides_control>div").width();
+	//$(".slides_control>div").css("width", slideWidth)
+	//.css("float","left");
+	//$(".slides_control").css("width", n*slideWidth);	
+	//$(".slides_control")[0].style.cssText ="left: -"+current*slideWidth+"px;width:"+slideWidth*n+"px !important;"
+	
+	
+	var controlDiv = document.querySelectorAll(".slides_container")[0];
+    var next = parseInt(clicked,10);
+    if(current !== next )
+    {	    	
+    	var x = -(next+1)*805;
+    	var y = -(next+1)*100 + "%";
+    	var spd = Math.abs(next-current)*1000;
+    	if($(".slides_pagingBar li:last-child").index() == current && 
+    	$(".slides_pagingBar li:first-child").index() == next)
+    	{
+    		spd = 1000;
+    	}
+    	$(".slides_pagingBar li.current").removeClass("current")
+		$(".slides_pagingBar li").eq(next).addClass("current");
+		
+		if($(".slides_control").width() == $(".slides_container").width())
+		{
+			$(".slides_control").animate({top:y},spd,Slides_callback)
+								.animate({left:x},0);
+		}
+		else
+		{
+			$(".slides_control").animate({left:x},spd,Slides_callback)
+								.animate({top:y},0);
+		}
+
+		
+		
+    	$(".slides_control").animate({left:x},spd,Slides_callback);
+    	Slides_timer(controlDiv, next);
+    	if($(".slides_pagingBar li:last-child").index() == next){    		
+    		if($(".slides_control").width() == $(".slides_container").width())
+			{
+				$(".slides_control").animate({top:0},0,Slides_callback);
+			}
+			else
+			{
+				$(".slides_control").animate({left:0},0,Slides_callback);
+			}
+    	}
+    }
+    
+};
+window.Slides_callback = function()
+{	
+	var idx = $(".slides_pagingBar li.current").index();
+	idx++;
+	if(idx == $(".slides_pagingBar li").length)
+	{
+		idx = 0;
+	}
+	$(".slides_control").attr("class","slides_control slide-" + idx);
+}
+window.getHotNewsNoPictureMarkup = function()
+{
+	return '<img src="'+_spPageContextInfo.webServerRelativeUrl+'/SiteAssets/Default_318.png"/>';
+}
+
+_#-->
+	<div class="slides_outerContainer">
+		<div class="slides_innerContainer">
+	        <div class="slides_container" data-displaytemplate="ControlHotNews">
+	            <div class="slides_control">
+	            	<div class="slide-row">                         	         	
+	                _#= ctx.RenderGroups(ctx) =#_
+	                </div>                            
+	            </div>
+	<!--#_
+	if (ctx.ClientControl.get_shouldShowNoResultMessage()){
+	_#-->
+	            <div class="slides_noResults">_#= $noResults =#_</div>
+	<!--#_
+	}
+	_#-->
+			</div>
+		</div>
+        <div class="slides_pagingBar" id="_#= pagingBarId =#_">
+        	<span style="display:none">Hot News</span>
+        	<ul class="slides_pagination">
+<!--#_
+var MaxNumOfResults = ctx.ClientControl.get_numberOfItems();
+var numResults = ctx.DataProvider.get_rowCount();
+var numResultsToShowPaging = Math.min(numResults, MaxNumOfResults);
+for(var i = 0; i < numResultsToShowPaging; i++){
+var anchorId = encodedId + "pagingControl" + i; 
+var current = "";
+if(i==0)
+{
+current = "current";
+}
+_#-->
+			<li class="_#= current =#_">
+                <a href="javascript:{}" onclick="Slides_pagingClicked(_#= i =#_);" id="_#= anchorId =#_">
+                    <span>●</span>
+                </a>
+            </li>
+<!--#_
+}
+_#-->
+			</ul>
+        </div>
+
+    </div>
+            </div>
+</body>
+</html>

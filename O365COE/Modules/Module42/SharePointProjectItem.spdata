@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\wfpub\10\ReviewPublishing_1054.xoml.wfconfig.xml" Target="Files\_catalogs\wfpub\10\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="Module42\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

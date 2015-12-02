@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\PublishingImages\Forms\7VideoRendition-1086887106\docsethomepage.aspx" Target="Files\PublishingImages\Forms\7VideoRendition-1086887106\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\PublishingImages\Forms\7VideoRendition-1086887106\videoplayerpage.aspx" Target="Files\PublishingImages\Forms\7VideoRendition-1086887106\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="Module52\" Type="ElementManifest" />
+  </Files>
+</ProjectItem>

@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\BizAppsSiteTemplates\dwp" Url="_catalogs/wp" SetupPath="Features\BizAppsSiteTemplates\dwp" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="AuthoredListFilter.webpart" Type="GhostableInLibrary" Level="Published" Path="AuthoredListFilter.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="AuthoredListFilter.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpAuthoredListFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpAuthoredListFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="55" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="55;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\AuthoredListFilter.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.SPSlicerChoicesWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpAuthoredListFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpAuthoredListFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpAuthoredListFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5500.00000000000" />
+		</File>
+		<File Url="BusinessDataActionsWebPart.dwp" Type="GhostableInLibrary" Level="Published" Path="BusinessDataActionsWebPart.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataActionsWebPart.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdActionsTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdActionsDesc" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="56" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="56;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/bizdatawebpart.gif&#xD;&#xA;QuickAddGroups:SR|;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataActionsWebPart.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdActionsDesc&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataActionsWebPart&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartDescription WebPartAssembly WebPartTypeName&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdActionsTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdActionsTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5600.00000000000" />
+		</File>
+		<File Url="BusinessDataAssociationWebPart.webpart" Type="GhostableInLibrary" Level="Published" Path="BusinessDataAssociationWebPart.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataAssociationWebPart.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdAssociationTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdAssociationDesc" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="57" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="57;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/bizdatawebpart.gif&#xD;&#xA;QuickAddGroups:SR|;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataAssociationWebPart.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataAssociationWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdAssociationDesc&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdAssociationTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdAssociationTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5700.00000000000" />
+		</File>
+		<File Url="BusinessDataDetailsWebPart.webpart" Type="GhostableInLibrary" Level="Published" Path="BusinessDataDetailsWebPart.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataDetailsWebPart.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdItemTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdItemDesc" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="58" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="58;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/bizdatawebpart.gif&#xD;&#xA;QuickAddGroups:SR|;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataDetailsWebPart.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataDetailsWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdItemDesc&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdItemTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdItemTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5800.00000000000" />
+		</File>
+		<File Url="BusinessDataFilter.dwp" Type="GhostableInLibrary" Level="Published" Path="BusinessDataFilter.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataFilter.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdcFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdcFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="59" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="59;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataFilter.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataFilterWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdcFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdcFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdcFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5900.00000000000" />
+		</File>
+		<File Url="BusinessDataItemBuilder.dwp" Type="GhostableInLibrary" Level="Published" Path="BusinessDataItemBuilder.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataItemBuilder.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdItemBuilderTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdItemBuilderDesc" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="60" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="60;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/bizdatawebpart.gif&#xD;&#xA;QuickAddGroups:SR|;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataItemBuilder.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdItemBuilderDesc&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataItemBuilder&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartDescription WebPartAssembly WebPartTypeName&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdItemBuilderTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdItemBuilderTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6000.00000000000" />
+		</File>
+		<File Url="BusinessDataListWebPart.webpart" Type="GhostableInLibrary" Level="Published" Path="BusinessDataListWebPart.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="BusinessDataListWebPart.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpBdlTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpBdlDesc" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="61" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="61;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/bizdatawebpart.gif&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\BusinessDataListWebPart.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.BusinessDataListWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpBdlDesc&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpBdlTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpBdlTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6100.00000000000" />
+		</File>
+		<File Url="DateFilter.dwp" Type="GhostableInLibrary" Level="Published" Path="DateFilter.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="DateFilter.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpDateFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpDateFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="62" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="62;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\DateFilter.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.DateFilterWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpDateFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpDateFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpDateFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6200.00000000000" />
+		</File>
+		<File Url="FilterActions.dwp" Type="GhostableInLibrary" Level="Published" Path="FilterActions.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="FilterActions.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpApplyFiltersTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpApplyFiltersDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="54" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="54;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\FilterActions.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.ApplyFiltersWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpApplyFiltersDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpApplyFiltersTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpApplyFiltersTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5400.00000000000" />
+		</File>
+		<File Url="IndicatorWebPart.dwp" Type="GhostableInLibrary" Level="Published" Path="IndicatorWebPart.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="IndicatorWebPart.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpKpiTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,IndicatorWebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="63" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="63;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/KpiDetailWP.gif&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\IndicatorWebPart.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,IndicatorWebPart_Description;&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.IndicatorWebpart&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartDescription WebPartAssembly WebPartTypeName&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpKpiTitle;&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpKpiTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6300.00000000000" />
+		</File>
+		<File Url="KpiListWebPart.dwp" Type="GhostableInLibrary" Level="Published" Path="KpiListWebPart.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="KpiListWebPart.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpKpiListTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,KPIListWebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,BusinessDataWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="64" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="64;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,BusinessDataWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/KpiListWP.gif&#xD;&#xA;QuickAddGroups:SR|;#Dashboard;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\KpiListWebPart.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,KPIListWebPart_Description;&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.KPIListWebPart&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartDescription WebPartAssembly WebPartTypeName&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpKpiListTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpKpiListTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6400.00000000000" />
+		</File>
+		<File Url="OlapFilter.dwp" Type="GhostableInLibrary" Level="Published" Path="OlapFilter.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="OlapFilter.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpOlapFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpOlapFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="65" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="65;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\OlapFilter.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.ScorecardFilterWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpOlapFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpOlapFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpOlapFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6500.00000000000" />
+		</File>
+		<File Url="PageContextFilter.webpart" Type="GhostableInLibrary" Level="Published" Path="PageContextFilter.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="PageContextFilter.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpPageContextFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpPageContextFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="66" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="66;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\PageContextFilter.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.PageContextFilterWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpPageContextFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpPageContextFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpPageContextFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6600.00000000000" />
+		</File>
+		<File Url="ProjectSummary.webpart" Type="GhostableInLibrary" Level="Published" Path="ProjectSummary.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="ProjectSummary.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,ProjectSummaryWebPartTitle;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,ProjectSummaryWebPartDescription;" />
+			<Property Name="Group" Value="$Resources:spscore,ContentRollupWebPartGroup;" />
+			<Property Name="ID" Value="72" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="72;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;vti_charset:SR|windows-1252&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\ProjectSummary.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.ProjectSummaryWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,ProjectSummaryWebPartDescription;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,ProjectSummaryWebPartTitle;&#xD;&#xA;vti_title:SR|$Resources:spscore,ProjectSummaryWebPartTitle;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="7200.00000000000" />
+		</File>
+		<File Url="QueryStringFilter.webpart" Type="GhostableInLibrary" Level="Published" Path="QueryStringFilter.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="QueryStringFilter.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpQueryStringFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpQueryStringFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="67" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="67;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\QueryStringFilter.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.QueryStringFilterWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpQueryStringFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpQueryStringFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpQueryStringFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6700.00000000000" />
+		</File>
+		<File Url="SpListFilter.dwp" Type="GhostableInLibrary" Level="Published" Path="SpListFilter.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="SpListFilter.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpSpListFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpSpListFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="68" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="68;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\SpListFilter.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.SpListFilterWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpSpListFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpSpListFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpSpListFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6800.00000000000" />
+		</File>
+		<File Url="TextFilter.dwp" Type="GhostableInLibrary" Level="Published" Path="TextFilter.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="TextFilter.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,DwpTextFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpTextFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="69" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="69;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\TextFilter.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpTextFilterDescription&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.SPSlicerTextWebPart&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartDescription WebPartAssembly WebPartTypeName&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpTextFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpTextFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="6900.00000000000" />
+		</File>
+		<File Url="UserContextFilter.webpart" Type="GhostableInLibrary" Level="Published" Path="UserContextFilter.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="UserContextFilter.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,DwpCurrentUserFilterTitle" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,DwpCurrentUserFilterDescription" />
+			<Property Name="Group" Value="$Resources:spscore,FiltersWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#Filters;#My Site: Top;#" />
+			<Property Name="ID" Value="70" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="70;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,FiltersWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;WebPartPartImageLarge:SW|/_layouts/images/wp_Filter.gif&#xD;&#xA;QuickAddGroups:SR|;#Filters;#My Site: Top;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\UserContextFilter.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.UserContextFilterWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.Office.Server.FilterControls,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,DwpCurrentUserFilterDescription&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|WebPartPartImageLarge vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,DwpCurrentUserFilterTitle&#xD;&#xA;vti_title:SR|$Resources:spscore,DwpCurrentUserFilterTitle&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="7000.00000000000" />
+		</File>
+		<File Url="WSRPConsumerWebPart.dwp" Type="GhostableInLibrary" Level="Published" Path="WSRPConsumerWebPart.dwp">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="WSRPConsumerWebPart.dwp" />
+			<Property Name="Title" Value="$Resources:spscore,WSRPConsumerWebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,WSRPConsumerWebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,ContentRollupWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value=";#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#" />
+			<Property Name="ID" Value="71" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="71;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,ContentRollupWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|;#My Site: Middle Right;#My Site: Middle Left;#My Site: Bottom;#&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\BizAppsSiteTemplates\\dwp\\WSRPConsumerWebPart.dwp&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.WSRPConsumerWebPart&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,WSRPConsumerWebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartAssembly WebPartTypeName WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,WSRPConsumerWebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,WSRPConsumerWebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="7100.00000000000" />
+		</File>
+	</Module>
+</Elements>

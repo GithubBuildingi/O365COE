@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x0120D520000E4CB7077FEE4FF7AE86D4A500EEC780004D92004173239D4DBE597FF8ACD5D03801" Name="SMS News Document Set" Group="SMSG Content Types" Description="Used for publishing news related to sales, marketing, and/or services functions that require multiple content items." ReadOnly="TRUE" Overwrite="TRUE" ProgId="SharePoint.DocumentSet" PushDownChangedResourceFilesOnly="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/SMS News Document Set" />
+		<FieldRefs>
+			<FieldRef ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef" Required="TRUE" Hidden="FALSE" />
+			<FieldRef ID="{246d0907-637c-46b7-9aa0-0bb914daa832}" Name="_Author" AllowDeletion="TRUE" />
+			<FieldRef ID="{3efd2125-89f2-498d-bdf4-6e0c67139086}" Name="Publish_x0020_Date" AllowDeletion="TRUE" />
+			<FieldRef ID="{46748381-552b-486d-a3bc-d0127d6569a6}" Name="NewsDescription" AllowDeletion="TRUE" />
+			<FieldRef ID="{6ec17358-4d95-4f2d-95bf-c7da8b7958ab}" Name="NewsArticleContent" AllowDeletion="TRUE" />
+			<FieldRef ID="{543bc2cf-1f30-488e-8f25-6fe3b689d9ac}" Name="PublishingRollupImage" AllowDeletion="TRUE" />
+			<FieldRef ID="{37d8d628-a6b4-4d12-82ee-c8db17c6a7cd}" Name="FeaturedNews" AllowDeletion="TRUE" />
+			<FieldRef ID="{56f004f2-1209-409d-a86a-713c0f24627d}" Name="NewsSource" AllowDeletion="TRUE" />
+			<FieldRef ID="{8f67e5d4-b76f-4a9d-b876-9983fda9cec0}" Name="NewsType" Required="FALSE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{33562c58-ee41-4e02-8925-bc902cfc01a1}" Name="NewsTopic" AllowDeletion="TRUE" />
+			<FieldRef ID="{ee77c2ea-e1b9-4a90-85df-76a95e6ae936}" Name="MSProducts" AllowDeletion="TRUE" />
+			<FieldRef ID="{5a4444b6-1d19-4675-97d6-3190b69ac227}" Name="EmployeeRole" AllowDeletion="TRUE" />
+			<FieldRef ID="{e8080b04-8196-4c75-9b2c-36ae49591b31}" Name="MSPhysicalGeography" AllowDeletion="TRUE" />
+			<FieldRef ID="{51d39414-03dc-4bd0-b777-d3e20cb350f7}" Name="PublishingStartDate" AllowDeletion="TRUE" />
+			<FieldRef ID="{a990e64f-faa3-49c1-aafa-885fda79de62}" Name="PublishingExpirationDate" AllowDeletion="TRUE" />
+			<FieldRef ID="{52578fc3-1f01-4f4d-b016-94ccbcf428cf}" Name="_Comments" AllowDeletion="TRUE" />
+			<FieldRef ID="{840a9f3c-1e14-4c21-9dbf-5637765665db}" Name="Confidentiality" Required="TRUE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{23f27201-bee3-471e-b2e7-b64fd8b7ca38}" Name="TaxKeyword" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ef109fd3-6bcf-4bcd-9dd9-45731030600b}" Name="Region" AllowDeletion="TRUE" />
+			<FieldRef ID="{1d9637ee-fc98-4b85-b609-7c6374e15725}" Name="ItemType" AllowDeletion="TRUE" />
+			<FieldRef ID="{66c7b471-7b63-46e6-a075-a59dd47eac69}" Name="Topics" AllowDeletion="TRUE" />
+			<FieldRef ID="{bf80e811-50e2-48c4-8aa8-cffdf0021a1f}" Name="Products" AllowDeletion="TRUE" />
+			<FieldRef ID="{b60f8d2d-bb98-4f34-9d80-d8196897f4d3}" Name="Roles" AllowDeletion="TRUE" />
+			<FieldRef ID="{eb54ac91-0599-4002-9a3c-c8a4ff5af673}" Name="SMSGDomain" AllowDeletion="TRUE" />
+			<FieldRef ID="{21b47837-2f81-4787-abd3-13030b81fcb2}" Name="ActivitiesAndPrograms" AllowDeletion="TRUE" />
+			<FieldRef ID="{20d941ee-1e74-4ffe-a7ae-ee9924c91cbb}" Name="BusinessArchitecture" AllowDeletion="TRUE" />
+			<FieldRef ID="{4f34bcdc-8fc3-4e47-9d3f-94c6210e8e27}" Name="Competitors" AllowDeletion="TRUE" />
+			<FieldRef ID="{6b887238-63e1-4043-88ba-3733387d48df}" Name="Audiences" AllowDeletion="TRUE" />
+			<FieldRef ID="{420e0dfa-74bf-4e44-818d-b03027b0ccd8}" Name="Segments" AllowDeletion="TRUE" />
+			<FieldRef ID="{53c3ea61-849e-4288-a8ac-c49bb5388e8c}" Name="Groups" AllowDeletion="TRUE" />
+			<FieldRef ID="{421a64da-f20d-4502-b279-6a1c6b8ce6c8}" Name="Industries" AllowDeletion="TRUE" />
+			<FieldRef ID="{8d9986d3-1974-458f-b300-7746ec0bce5f}" Name="Languages" AllowDeletion="TRUE" />
+			<FieldRef ID="{ec5b2ad5-c27b-45fb-8a00-a1f27c7ce1ae}" Name="Partners" AllowDeletion="TRUE" />
+			<FieldRef ID="{66d26e40-ac26-4097-a006-193f92232ece}" Name="TechnicalLevel" AllowDeletion="TRUE" />
+			<FieldRef ID="{2159d64e-b9b0-4eaf-b45f-acd6a2cc2f99}" Name="Owner" AllowDeletion="TRUE" />
+			<FieldRef ID="{fc2b805b-748d-402a-8911-a862bb62c70f}" Name="Coowner" AllowDeletion="TRUE" />
+			<FieldRef ID="{f085480b-35e2-4683-b604-a456df2172b0}" Name="Support" AllowDeletion="TRUE" />
+			<FieldRef ID="{e79aa369-b8f3-41a3-8ead-f923fc8ea91f}" Name="Abstract" AllowDeletion="TRUE" />
+			<FieldRef ID="{a92c6316-4495-46a1-b028-de0578fc2d11}" Name="Private" AllowDeletion="TRUE" />
+			<FieldRef ID="{4efb7b69-53dd-4711-a372-96a7c80c7a38}" Name="Expire_x0020_Review" AllowDeletion="TRUE" />
+			<FieldRef ID="{eec9ab9e-2b7a-4f71-87ac-d524193489c3}" Name="Hide_x0020_Page_x0020_Title" AllowDeletion="TRUE" />
+			<FieldRef ID="{de49a0e5-4a4d-401e-9a2a-5dea6269a0d8}" Name="SpecialSearchQuery" AllowDeletion="TRUE" />
+			<FieldRef ID="{de9c50a7-c394-4479-bd7d-928894038ea6}" Name="PageTitle" AllowDeletion="TRUE" />
+			<FieldRef ID="{ee6361c2-8d55-4f46-98d1-b7b35fd1ec5c}" Name="CreatedBy" AllowDeletion="TRUE" />
+			<FieldRef ID="{9f8e3022-1d0b-4b78-970a-eb35697d19ac}" Name="CreatedDate" AllowDeletion="TRUE" />
+			<FieldRef ID="{e2578bd3-6651-40b7-aa8f-42f95a9d0b81}" Name="Blog_x0020_Name" Required="FALSE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{6e6b1a5f-f15f-4294-92cb-531e661c8942}" Name="ReportStartDate" AllowDeletion="TRUE" />
+			<FieldRef ID="{0e7b03b5-787b-4b62-bfad-0fc7c5f26742}" Name="TagTemplate" AllowDeletion="TRUE" />
+			<FieldRef ID="{5006e6db-78b8-4896-8439-19aa27cd74e8}" Name="DomainNavigationLink" AllowDeletion="TRUE" />
+			<FieldRef ID="{5d3bfbdd-be69-4c55-8356-3a56e7e5ff65}" Name="Yammer_x0020_Feed_x0020_ID" AllowDeletion="TRUE" />
+			<FieldRef ID="{1153ce93-034d-4e2d-9683-68d0183c44e5}" Name="Thumbnail1" AllowDeletion="TRUE" />
+			<FieldRef ID="{9d7f1503-3038-47bf-bf6c-5a9500cbcd8b}" Name="Blogallday" AllowDeletion="TRUE" />
+			<FieldRef ID="{a2beb74b-97a0-4fac-958e-42dd836a1a8a}" Name="BlogRecurranceCount" AllowDeletion="TRUE" />
+			<FieldRef ID="{43c98c6a-7f36-438c-b003-b2248caadecd}" Name="INeedToLink" AllowDeletion="TRUE" />
+			<FieldRef ID="{9f1c84fa-aca6-4620-bf46-817ea5baba87}" Name="PageSuggestionsURL" AllowDeletion="TRUE" />
+			<FieldRef ID="{0a0c0bf7-0a66-4446-9c61-b3efa7025301}" Name="ExperienceContentType" AllowDeletion="TRUE" />
+			<FieldRef ID="{87356ce8-b23c-4a2a-9a8c-17b40032a678}" Name="ExperienceSummaryRender" AllowDeletion="TRUE" />
+			<FieldRef ID="{6ab7c462-93a3-4b61-9381-00e9e3403a64}" Name="ContentExtensions" AllowDeletion="TRUE" />
+			<FieldRef ID="{57dfd0e0-7034-44d2-b76f-6f122d361b4e}" Name="RichTextDescription" AllowDeletion="TRUE" />
+			<FieldRef ID="{ad0c147e-54b3-4a14-bd2c-6e1511f627ea}" Name="RichTextTitle" AllowDeletion="TRUE" />
+			<FieldRef ID="{d2311440-1ed6-46ea-b46d-daa643dc3886}" Name="PercentComplete" AllowDeletion="TRUE" />
+			<FieldRef ID="{36eb2cc7-3e68-4e12-b3ff-1ab496114d88}" Name="GenericBoolean1" AllowDeletion="TRUE" />
+			<FieldRef ID="{7d3d3dd2-6005-4363-8e8b-b8b86f09b863}" Name="GenericHTML1" AllowDeletion="TRUE" />
+			<FieldRef ID="{7d61f06b-374b-4320-b8f0-2cdc6b6bb8c2}" Name="GenericHTML2" AllowDeletion="TRUE" />
+			<FieldRef ID="{a7f8619a-33a2-4523-9ff7-eb2b84cd2c94}" Name="GenericInteger1" AllowDeletion="TRUE" />
+			<FieldRef ID="{7d1ce827-fb17-4e74-80f5-f4e86fd609fc}" Name="GenericInteger2" AllowDeletion="TRUE" />
+			<FieldRef ID="{514d31b8-e5bc-4543-a668-c83dcd7aeaeb}" Name="GenericMultiChoice1" AllowDeletion="TRUE" />
+			<FieldRef ID="{6071effd-6fff-4fab-8402-0e46756d97e3}" Name="GenericMultiChoice2" AllowDeletion="TRUE" />
+			<FieldRef ID="{0753c83a-87aa-4d5e-9515-a0554cae7d7a}" Name="GenericText1" AllowDeletion="TRUE" />
+			<FieldRef ID="{edcd1038-7fb2-4990-a3d4-866f0d0cc6ed}" Name="GenericText2" AllowDeletion="TRUE" />
+			<FieldRef ID="{a089abfc-9735-4458-bcf4-9ee34d3cb32a}" Name="GenericDate1" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{62c8e2ae-a931-4c47-a8e4-defe4c8b6d2c}" Name="kf34bcdc8fc34e479d3f94c6210e8e27" Hidden="TRUE" />
+			<FieldRef ID="{22d199bd-9f05-41cd-b027-334eb7cb2cd7}" Name="ga0c0bf70a6644469c61b3efa7025301" Hidden="TRUE" />
+			<FieldRef ID="{37cbddf9-3b2d-4a69-8b38-4d9b20950cc5}" Name="la4444b61d19467597d63190b69ac227" Hidden="TRUE" />
+			<FieldRef ID="{e5124dd0-b53e-406e-a74e-f800f7078aa6}" Name="ConfidentialityTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{016be7ff-53dd-4cf2-a36c-b6107fd7e1d9}" Name="j3562c58ee414e028925bc902cfc01a1" Hidden="TRUE" />
+			<FieldRef ID="{3c9aaab2-b783-472f-a9eb-1ee49cfb14cb}" Name="ef109fd36bcf4bcd9dd945731030600b" Hidden="TRUE" />
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ae749e73-946a-48cc-aeb4-aaf96e0bd553}" Name="hd9637eefc984b85b6097c6374e15725" Hidden="TRUE" />
+			<FieldRef ID="{b824e17e-a1b3-426e-aecf-f0184d900485}" Name="ItemChildCount" />
+			<FieldRef ID="{7e7a69f5-b836-4f2e-adbb-b96ec2d565af}" Name="m6c7b4717b6346e6a075a59dd47eac69" Hidden="TRUE" />
+			<FieldRef ID="{34a72e09-3ca6-4931-b2e3-f81c40bb87bd}" Name="RoutingRuleDescription" Required="FALSE" Hidden="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{e7dd135e-966e-40f8-9ac9-c5d12faa44fe}" Name="bf80e81150e248c48aa8cffdf0021a1f" Hidden="TRUE" />
+			<FieldRef ID="{3930eeaf-c2b6-4ee2-b486-ba2cc73fbfb3}" Name="l6f004f21209409da86a713c0f24627d" Hidden="TRUE" />
+			<FieldRef ID="{3b97f02e-7d81-43c2-9506-404f4cb4f7e4}" Name="b60f8d2dbb984f349d80d8196897f4d3" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{5c527bd6-8443-4296-ae58-46d6de45fe28}" Name="eb54ac91059940029a3cc8a4ff5af673" Hidden="TRUE" />
+			<FieldRef ID="{584af7a7-2363-4d43-9e14-c4f6fe46bfa6}" Name="of67e5d4b76f4a9db8769983fda9cec0" Hidden="TRUE" />
+			<FieldRef ID="{51def3ac-9360-464f-bc00-f8dacb12ea7e}" Name="i1b478372f814787abd313030b81fcb2" Hidden="TRUE" />
+			<FieldRef ID="{6df782cb-6c92-4b9e-923e-988b659710eb}" Name="mb88723863e1404388ba3733387d48df" Hidden="TRUE" />
+			<FieldRef ID="{3b63724f-3418-461f-868b-7706f69b029c}" Name="_dlc_DocIdUrl" />
+			<FieldRef ID="{dcfc2f64-d0f1-4f5e-a9af-f6c9daebdacb}" Name="k20e0dfa74bf4e44818db03027b0ccd8" Hidden="TRUE" />
+			<FieldRef ID="{aaeb76b4-0c96-4fc0-992f-e184790200f2}" Name="e8080b0481964c759b2c36ae49591b31" Hidden="TRUE" />
+			<FieldRef ID="{7f8e08de-93ea-483e-bf92-0ee0d10f9b7f}" Name="l3c3ea61849e4288a8acc49bb5388e8c" Hidden="TRUE" />
+			<FieldRef ID="{c010d384-479c-494f-968c-c413dbe3de29}" Name="_dlc_DocIdPersistId" Hidden="TRUE" />
+			<FieldRef ID="{ffe68ef1-6499-42f5-b961-f263f7404597}" Name="k21a64daf20d4502b2796a1c6b8ce6c8" Hidden="TRUE" />
+			<FieldRef ID="{1018ce89-8f45-49b1-9c7c-83c5ae6b94e7}" Name="MSProductsTaxHTField0" Hidden="TRUE" />
+			<FieldRef ID="{323649ac-9463-4230-af6f-8cc29986135c}" Name="od9986d31974458fb3007746ec0bce5f" Hidden="TRUE" />
+			<FieldRef ID="{ae3e2a36-125d-45d3-9051-744b513536a6}" Name="_dlc_DocId" />
+			<FieldRef ID="{13eec539-f5d6-42e5-8e16-a1287a828b86}" Name="ec5b2ad5c27b45fb8a00a1f27c7ce1ae" Hidden="TRUE" />
+			<FieldRef ID="{1390a86a-23da-45f0-8efe-ef36edadfb39}" Name="TaxKeywordTaxHTField" Hidden="TRUE" />
+			<FieldRef ID="{78f9921c-4e2c-4adc-8bc7-78293fb80220}" Name="m6d26e40ac264097a006193f92232ece" Hidden="TRUE" />
+			<FieldRef ID="{960ff01f-2b6d-4f1b-9c3f-e19ad8927341}" Name="FolderChildCount" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+			<FieldRef ID="{d99271ce-0294-48ea-8f15-c89baa9acb50}" Name="i0d941ee1e744ffea7aeee9924c91cbb" Hidden="TRUE" />
+			<FieldRef ID="{cbb92da4-fd46-4c7d-af6c-3128c2a5576e}" Name="Description" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+				<FormUrls xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms/url">
+					<New>_layouts/NewDocSet.aspx</New>
+				</FormUrls>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/events">
+				<spe:Receivers xmlns:spe="http://schemas.microsoft.com/sharepoint/events">
+					<Receiver>
+						<Name>DocumentSet ItemUpdated</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10002</Type>
+						<SequenceNumber>100</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.DocumentManagement, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetEventReceiver</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+					<Receiver>
+						<Name>DocumentSet ItemAdded</Name>
+						<Synchronization>Synchronous</Synchronization>
+						<Type>10001</Type>
+						<SequenceNumber>100</SequenceNumber>
+						<Url />
+						<Assembly>Microsoft.Office.DocumentManagement, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+						<Class>Microsoft.Office.DocumentManagement.DocumentSets.DocumentSetItemsEventReceiver</Class>
+						<Data />
+						<Filter />
+					</Receiver>
+				</spe:Receivers>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/allowedcontenttypes">
+				<act:AllowedContentTypes xmlns:act="http://schemas.microsoft.com/office/documentsets/allowedcontenttypes" LastModified="09/17/2015 21:12:13">
+					<AllowedContentType id="0x0101" />
+					<AllowedContentType id="0x0101000E4CB7077FEE4FF7AE86D4A500EEC7800300F96E2758736AEF45AFCE0C190C2A9DEC" />
+					<AllowedContentType id="0x0101000E4CB7077FEE4FF7AE86D4A500EEC78003" />
+					<AllowedContentType id="0x01010A000E4CB7077FEE4FF7AE86D4A500EEC78001" />
+				</act:AllowedContentTypes>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/welcomepageview">
+				<WelcomePageView xmlns="http://schemas.microsoft.com/office/documentsets/welcomepageview" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/sharedfields">
+				<SharedFields xmlns="http://schemas.microsoft.com/office/documentsets/sharedfields" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/defaultdocuments">
+				<DefaultDocuments xmlns="http://schemas.microsoft.com/office/documentsets/defaultdocuments" LastModified="1/1/1 0:00:01 AM" AddSetName="" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x0120D520000E4CB7077FEE4FF7AE86D4A500EEC780004D92004173239D4DBE597FF8ACD5D03801" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>DocSetDisplayForm</New>
+				</FormTemplates>
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/office/documentsets/welcomepagefields">
+				<WelcomePageFields xmlns="http://schemas.microsoft.com/office/documentsets/welcomepagefields" LastModified="1/1/1 0:00:01 AM" />
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

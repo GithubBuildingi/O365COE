@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ListInstance FeatureId="{22a9ef51-737b-4ff2-9346-694633fe4416}" TemplateType="850" Title="Pages" Description="This system library was created by the Publishing feature to store pages that are created in this site." Url="Pages" CustomSchema="Files\Pages\Schema.xml" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" RootWebOnly="FALSE" xmlns="http://schemas.microsoft.com/sharepoint/" />
+</Elements>

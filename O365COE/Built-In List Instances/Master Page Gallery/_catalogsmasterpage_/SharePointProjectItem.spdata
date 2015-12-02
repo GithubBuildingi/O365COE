@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Files\_catalogs\masterpage\__DeviceChannelMappings.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\COEArticlePage.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\COEHomePage.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\COESubTopicPage.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\COETopicPage.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\config_ui.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\FoundationBanded.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\FoundationOrbit.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBanded.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedLeftNav.html" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedLeftNav.master" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedLeftNav.preview" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMaster.html" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMaster.master" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMaster.preview" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMasterRichFooter.html" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMasterRichFooter.master" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITBrandedMasterRichFooter.preview" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITColumnsOffset.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITFractured.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITFramed.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITNarrow.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITPillars.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITPillars_banded.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITSideLeft.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\ITSideRight.aspx" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\MicrosoftITDesignPackage-1.6.0.wsp" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Files\_catalogs\masterpage\PublishingImageRenditions.xml" Target="Files\_catalogs\masterpage\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="_catalogsmasterpage_\" Type="ElementManifest" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="DeploymentConflictResolutionBehavior" Value="None" />
+  </ExtensionData>
+</ProjectItem>

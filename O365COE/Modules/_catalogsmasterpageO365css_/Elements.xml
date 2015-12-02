@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogsmasterpageO365css_" HyperlinkBaseUrl="https://microsoft.sharepoint.com/sites/O365COE" Url="_catalogs/masterpage/O365/css" RootWebOnly="FALSE" Path="Files\_catalogs\masterpage\O365\css" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="foundation.css" Type="GhostableInLibrary" Level="Draft" Path="foundation.css">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.css" />
+			<Property Name="Title" Value="foundation" />
+			<Property Name="ID" Value="2313" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/css" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2313;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/css&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.css&#xD;&#xA;vti_title:SW|foundation&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="231300.000000000" />
+		</File>
+		<File Url="foundation.min.css" Type="GhostableInLibrary" Level="Draft" Path="foundation.min.css">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="foundation.min.css" />
+			<Property Name="Title" Value="foundation.min" />
+			<Property Name="ID" Value="2314" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/css" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2314;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/css&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|foundation.min.css&#xD;&#xA;vti_title:SW|foundation.min&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="231400.000000000" />
+		</File>
+		<File Url="normalize.css" Type="GhostableInLibrary" Level="Draft" Path="normalize.css">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="normalize.css" />
+			<Property Name="Title" Value="normalize" />
+			<Property Name="ID" Value="2315" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="3" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/css" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2315;#FSObjType:SW|0&#xD;&#xA;vti_parserversion:SR|16.0.0.4121&#xD;&#xA;vti_folderitemcount:IW|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/css&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_modifiedby:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IW|0&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|normalize.css&#xD;&#xA;vti_title:SW|normalize&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="231500.000000000" />
+		</File>
+		<File Url="o365.css" Type="GhostableInLibrary" Level="Published" Path="o365.css">
+			<Property Name="ContentTypeId" Value="0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA" />
+			<Property Name="FileLeafRef" Value="o365.css" />
+			<Property Name="Title" Value="o365" />
+			<Property Name="ID" Value="2316" />
+			<Property Name="ContentType" Value="Design File" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/masterpage/O365/css" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="2316;#vti_parserversion:SR|16.0.0.4208&#xD;&#xA;FSObjType:SW|0&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;FileDirRef:SW|teams/Office365COE/_catalogs/masterpage/O365/css&#xD;&#xA;vti_backlinkinfo:VX|_catalogs/masterpage/O365/O365Master.master _catalogs/masterpage/O365/O365Master.master _catalogs/masterpage/O365/O365Master.html _catalogs/masterpage/O365/O365Master.html _catalogs/masterpage/bi/bi.html _catalogs/masterpage/bi/bi.master&#xD;&#xA;vti_author:SR|SHAREPOINT\\system&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-albus@microsoft.com&#xD;&#xA;ContentTypeId:SW|0x010100C5033D6CFB8447359FB795C8A73A2B1900E443A07DA97749459883423FEB5039DA&#xD;&#xA;FileLeafRef:SW|o365.css&#xD;&#xA;vti_title:SW|o365&#xD;&#xA;ContentType:SW|Design File&#xD;&#xA;" />
+			<Property Name="Order" Value="231600.000000000" />
+		</File>
+	</Module>
+</Elements>

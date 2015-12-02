@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogswp_Features\SocialSite\dwp" Url="_catalogs/wp" SetupPath="Features\SocialSite\dwp" RootWebOnly="TRUE" Path="Files\_catalogs\wp" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<File Url="AboutUs.webpart" Type="GhostableInLibrary" Level="Published" Path="AboutUs.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="AboutUs.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,AboutUs_WebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,AboutUs_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,CommunityWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value="COMMUNITY" />
+			<Property Name="ID" Value="49" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="49;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,CommunityWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|COMMUNITY&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SocialSite\\dwp\\AboutUs.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.AboutUsWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,AboutUs_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,AboutUs_WebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,AboutUs_WebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="4900.00000000000" />
+		</File>
+		<File Url="CommunityAdmin.webpart" Type="GhostableInLibrary" Level="Published" Path="CommunityAdmin.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CommunityAdmin.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,CommunityAdmin_WebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,CommunityAdmin_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,CommunityWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value="COMMUNITY" />
+			<Property Name="ID" Value="52" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="52;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,CommunityWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|COMMUNITY&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SocialSite\\dwp\\CommunityAdmin.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.CommunityAdminWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,CommunityAdmin_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,CommunityAdmin_WebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,CommunityAdmin_WebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5200.00000000000" />
+		</File>
+		<File Url="CommunityJoin.webpart" Type="GhostableInLibrary" Level="Published" Path="CommunityJoin.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="CommunityJoin.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,CommunityJoin_WebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,CommunityJoin_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,CommunityWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value="COMMUNITY" />
+			<Property Name="ID" Value="53" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="53;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,CommunityWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|COMMUNITY&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SocialSite\\dwp\\CommunityJoin.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.CommunityJoinWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,CommunityJoin_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,CommunityJoin_WebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,CommunityJoin_WebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5300.00000000000" />
+		</File>
+		<File Url="Dashboard.webpart" Type="GhostableInLibrary" Level="Published" Path="Dashboard.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="Dashboard.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,Dashboard_WebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,Dashboard_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,CommunityWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value="COMMUNITY" />
+			<Property Name="ID" Value="50" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="50;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,CommunityWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|COMMUNITY&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SocialSite\\dwp\\Dashboard.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.DashboardWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,Dashboard_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,Dashboard_WebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,Dashboard_WebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5000.00000000000" />
+		</File>
+		<File Url="MyMembership.webpart" Type="GhostableInLibrary" Level="Published" Path="MyMembership.webpart">
+			<Property Name="ContentTypeId" Value="0x00CB339C1AD5279A4AAAE932D61D5C3E6E" />
+			<Property Name="FileLeafRef" Value="MyMembership.webpart" />
+			<Property Name="Title" Value="$Resources:spscore,MyMembership_WebPart_Title;" />
+			<Property Name="WebPartDescription" Value="$Resources:spscore,MyMembership_WebPart_Description;" />
+			<Property Name="Group" Value="$Resources:spscore,CommunityWebPartGroup;" />
+			<Property Name="QuickAddGroups" Value="COMMUNITY" />
+			<Property Name="ID" Value="51" />
+			<Property Name="ContentType" Value="Web Part Gallery" />
+			<Property Name="_ModerationStatus" Value="0" />
+			<Property Name="FileDirRef" Value="sites/O365COE/_catalogs/wp" />
+			<Property Name="FSObjType" Value="0" />
+			<Property Name="MetaInfo" Value="51;#vti_parserversion:SR|16.0.0.3912&#xD;&#xA;Group:SR|$Resources:spscore,CommunityWebPartGroup;&#xD;&#xA;vti_folderitemcount:IR|0&#xD;&#xA;QuickAddGroups:SR|COMMUNITY&#xD;&#xA;vti_charset:SR|utf-8&#xD;&#xA;vti_setuppath:SR|Features\\SocialSite\\dwp\\MyMembership.webpart&#xD;&#xA;vti_author:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;WebPartTypeName:SW|Microsoft.SharePoint.Portal.WebControls.MyMembershipWebPart&#xD;&#xA;WebPartAssembly:SW|Microsoft.SharePoint.Portal,Version=16.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c&#xD;&#xA;WebPartDescription:SW|$Resources:spscore,MyMembership_WebPart_Description;&#xD;&#xA;vti_foldersubfolderitemcount:IR|0&#xD;&#xA;vti_modifiedby:SR|i:0#.f|membership|v-dreyes@microsoft.com&#xD;&#xA;vti_cachedcustomprops:VX|vti_title WebPartTypeName WebPartAssembly WebPartDescription&#xD;&#xA;vti_cachedtitle:SR|$Resources:spscore,MyMembership_WebPart_Title;&#xD;&#xA;vti_title:SR|$Resources:spscore,MyMembership_WebPart_Title;&#xD;&#xA;ContentType:SW|Web Part Gallery&#xD;&#xA;ContentTypeId:SW|0x00CB339C1AD5279A4AAAE932D61D5C3E6E&#xD;&#xA;" />
+			<Property Name="Order" Value="5100.00000000000" />
+		</File>
+	</Module>
+</Elements>

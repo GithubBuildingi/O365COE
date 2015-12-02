@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x010084F0D1934D68DB459C9080DA827545DC06" Name="Approved Managed Skype Site" Group="Approved Shared Content Types" Description="A content type used for provisioning sites for the Skype business unit." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Approved Managed Skype Site" />
+		<FieldRefs>
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{6efa4fee-088b-47f7-87c8-364b65b92384}" Name="SiteOwner" />
+			<FieldRef ID="{0daea452-74c5-4238-b1c1-70e679bb4034}" Name="SiteDescription1" />
+			<FieldRef ID="{e2c938a0-97f4-4882-84df-ea80e6bc9aca}" Name="SiteURL" />
+			<FieldRef ID="{cad04f11-c83d-4e6d-b92a-5e82b518a152}" Name="BusinessImpactClassification" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{201829b9-45a8-43da-97cc-5a5084ac2122}" Name="SiteAudienceScope" />
+			<FieldRef ID="{80a0ba8e-b861-4be3-a71e-b597b436ac2a}" Name="SiteCompliance" />
+			<FieldRef ID="{cd8cc6df-85dd-4262-8e5d-d209af6b8c89}" Name="SiteCustomerID" />
+			<FieldRef ID="{c6f9e6fe-a5c7-4eb6-b454-d33352f6908a}" Name="SiteLifeCycleStatus" />
+			<FieldRef ID="{b8b93c2f-0cb8-4bf6-90d4-1e428f9471ac}" Name="SiteDefinitionListItemID" />
+			<FieldRef ID="{b33aa78d-ca0f-4690-9301-c1ef8beb9bdd}" Name="SiteExpiration" />
+			<FieldRef ID="{f3fe8e1b-abac-4fc0-89b0-9e762d6a45f3}" Name="CreateStatus" />
+			<FieldRef ID="{913c4478-e8b6-4ad4-a2ad-e172097de736}" Name="SCMCustomParameter" />
+			<FieldRef ID="{871ad249-247f-48ff-929e-beb86a1da1fd}" Name="SCMOperationLog" />
+			<FieldRef ID="{863388de-ffb0-4067-b5af-4f9dbe93e04a}" Name="SCMStatus" />
+			<FieldRef ID="{698543ee-404a-4feb-ae0e-6d41a168494a}" Name="SiteType" />
+			<FieldRef ID="{733aaf78-b887-4b5c-a62e-0be7e93fb9b3}" Name="SkypeSiteType" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{ed6874a6-eba4-4e05-83ae-84fdc402f338}" Name="SkypeTeam" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{b3724d69-36d7-47a8-b511-4d119e255a32}" Name="SkypeProduct" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7420fcd5-5374-4719-8a87-09dd86a760d3}" Name="SkypeProductSubGroups" AllowDeletion="TRUE" />
+			<FieldRef ID="{c4266973-a736-450c-84fd-4aa8ad15c17b}" Name="ExternalShare" AllowDeletion="TRUE" />
+			<FieldRef ID="{456173c4-140b-455e-a740-9f44e0adbfa9}" Name="VanityURL" AllowDeletion="TRUE" />
+			<FieldRef ID="{635b1c35-9b9b-4965-8927-2d160b1fd5fd}" Name="SiteOwners" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{62633480-1868-419e-948e-930aebbebb01}" Name="StorageSize" AllowDeletion="TRUE" />
+			<FieldRef ID="{088eab9c-d8b0-4dfa-8ab0-d068fd81588f}" Name="SizePercentageUsed" AllowDeletion="TRUE" />
+			<FieldRef ID="{67e8928d-b113-4dbf-b9df-5f5d1ffba5bb}" Name="ReviewGuestsBy" AllowDeletion="TRUE" />
+			<FieldRef ID="{11e13e17-1f8e-4fe2-b525-07a692cdb5bc}" Name="WorkflowDate1" AllowDeletion="TRUE" />
+			<FieldRef ID="{068052b1-527a-4ce8-bb1d-ddd4a5ca54f8}" Name="WorkflowDate2" AllowDeletion="TRUE" />
+			<FieldRef ID="{a837a98a-d20b-45ea-90d9-7d5990c2d3ec}" Name="WorkflowDate3" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{74d3fb3f-d6a9-4619-bf00-62907fe69370}" Name="OldSiteExpirationDate" AllowDeletion="TRUE" />
+			<FieldRef ID="{7e066154-b12e-4013-aec3-3e0c7de26b1f}" Name="ContentUpdateRequired" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{3641d216-525f-427c-86e9-1af18bda0ced}" Name="HiddenFromIndex" Required="FALSE" Hidden="FALSE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{7b22c7b8-211c-46f8-a660-31dfe1f0432b}" Name="ed6874a6eba44e0583ae84fdc402f338" Hidden="TRUE" />
+			<FieldRef ID="{2cb93adc-de41-4fb0-a580-c9d68e3aca91}" Name="cad04f11c83d4e6db92a5e82b518a152" Hidden="TRUE" />
+			<FieldRef ID="{c4dc332e-6030-4f63-986b-cbb247f900bb}" Name="b3724d6936d747a8b5114d119e255a32" Hidden="TRUE" />
+			<FieldRef ID="{f3b0adf9-c1a2-4b02-920d-943fba4b3611}" Name="TaxCatchAll" Hidden="TRUE" />
+			<FieldRef ID="{8f6b6dd8-9357-4019-8172-966fcd502ed2}" Name="TaxCatchAllLabel" Hidden="TRUE" />
+			<FieldRef ID="{d3514a6b-f4c5-4e0c-9e9c-97048db03609}" Name="n33aaf78b8874b5ca62e0be7e93fb9b3" Hidden="TRUE" />
+			<FieldRef ID="{f17da1ad-eefd-4500-9bcc-2e458ed0775b}" Name="n420fcd5537447198a8709dd86a760d3" Hidden="TRUE" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x010084F0D1934D68DB459C9080DA827545DC06" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>

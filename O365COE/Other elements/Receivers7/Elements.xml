@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Receivers ListUrl="Publishing Corner" Scope="Web" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Receiver>
+			<Name>TaxonomyItemSynchronousAddedEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemAdding</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Taxonomy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Taxonomy.TaxonomyItemEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>TaxonomyItemUpdatingEventReceiver</Name>
+			<Synchronization>Synchronous</Synchronization>
+			<Type>ItemUpdating</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.SharePoint.Taxonomy, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.SharePoint.Taxonomy.TaxonomyItemEventReceiver</Class>
+			<Data />
+			<Filter />
+		</Receiver>
+		<Receiver>
+			<Name>Content Following Item Updated Event Receiver 101</Name>
+			<Synchronization>Asynchronous</Synchronization>
+			<Type>ItemUpdated</Type>
+			<SequenceNumber>10000</SequenceNumber>
+			<Url />
+			<Assembly>Microsoft.Office.Server.UserProfiles, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+			<Class>Microsoft.Office.Server.UserProfiles.ContentFollowingItemEventReceiver</Class>
+			<Data />
+			<Filter />
+			<SourceId>0x3E79A2A7CD67C14D9FD043F61581207A</SourceId>
+			<SourceType>2</SourceType>
+		</Receiver>
+	</Receivers>
+</Elements>

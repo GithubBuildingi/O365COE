@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<ContentType ID="0x0100888D2749EFB1CA44AB7F164746D49ACB" Name="Link to External Content" Group="Custom Content Types" Description="Link to external content, originally created for Open Source Hub." ReadOnly="TRUE" Overwrite="TRUE" xmlns="http://schemas.microsoft.com/sharepoint/">
+		<Folder TargetName="_cts/Link to External Content" />
+		<FieldRefs>
+			<FieldRef ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title" Required="TRUE" ShowInNewForm="TRUE" ShowInEditForm="TRUE" />
+			<FieldRef ID="{246d0907-637c-46b7-9aa0-0bb914daa832}" Name="_Author" AllowDeletion="TRUE" />
+			<FieldRef ID="{370b7779-0344-4b9f-8f2d-dc1c62eae801}" Name="_Contributor" AllowDeletion="TRUE" />
+			<FieldRef ID="{a32df78d-678a-432d-a219-69221f53540e}" Name="MediaDescription" AllowDeletion="TRUE" />
+			<FieldRef ID="{b66e9b50-a28e-469b-b1a0-af0e45486874}" Name="Keywords" AllowDeletion="TRUE" />
+			<FieldRef ID="{52578fc3-1f01-4f4d-b016-94ccbcf428cf}" Name="_Comments" AllowDeletion="TRUE" />
+			<FieldRef ID="{c29e077d-f466-4d8e-8bbe-72b66c5f205c}" Name="URL" Required="TRUE" Hidden="FALSE" AllowDeletion="TRUE" ReadOnly="FALSE" PITarget="" PrimaryPITarget="" PIAttribute="" PrimaryPIAttribute="" Aggregation="" Node="" />
+			<FieldRef ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType" />
+		</FieldRefs>
+		<XmlDocuments>
+			<XmlDocument NamespaceURI="Microsoft.SharePoint.Taxonomy.ContentTypeSync">
+				<SharedContentType xmlns="Microsoft.SharePoint.Taxonomy.ContentTypeSync" SourceId="e385fb40-52d4-4fae-9c5b-3e8ff8a5878e" ContentTypeId="0x0100888D2749EFB1CA44AB7F164746D49ACB" PreviousValue="false" />
+			</XmlDocument>
+			<XmlDocument NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+				<FormTemplates xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms">
+					<Display>ListForm</Display>
+					<Edit>ListForm</Edit>
+					<New>ListForm</New>
+				</FormTemplates>
+			</XmlDocument>
+		</XmlDocuments>
+	</ContentType>
+</Elements>
