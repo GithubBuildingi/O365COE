@@ -2880,6 +2880,10 @@
     <None Include="PropertyBags\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{945f60c0-e833-4630-9070-8ee2d04286a1}</SharePointProjectItemId>
     </None>
+    <None Include="Term Sets\Products.csv" />
+    <None Include="Term Sets\Roles.csv" />
+    <None Include="Term Sets\Site Navigation.csv" />
+    <None Include="Term Sets\Topics.csv" />
     <None Include="Web templates\O365COE\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{fe89684f-dd61-41db-ba33-cdde556e4f8d}</SharePointProjectItemId>
     </None>
